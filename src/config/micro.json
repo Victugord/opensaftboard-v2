@@ -1,0 +1,3342 @@
+[
+  {
+    "TaxonomyCode": "1",
+    "SNCSVAT": "11",
+    "Description": "Caixa",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Caixa e depósitos bancários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "2",
+    "SNCSVAT": "12",
+    "Description": "Depósitos à ordem",
+    "Observations": "",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Caixa e depósitos bancários",
+    "Credit": "Financiamentos Obtidos"
+  },
+  {
+    "TaxonomyCode": "3",
+    "SNCSVAT": "13",
+    "Description": "Outros depósitos bancários",
+    "Observations": "",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Caixa e depósitos bancários",
+    "Credit": "Financiamentos Obtidos"
+  },
+  {
+    "TaxonomyCode": "4",
+    "SNCSVAT": "14",
+    "Description": "Outros",
+    "Observations": "",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Outros ativos correntes",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "5",
+    "SNCSVAT": "211",
+    "Description": "Clientes - Clientes c/c",
+    "Observations": "",
+    "Classe": "(R2) APC",
+    "ExpectedBalance": "(R2) S2C",
+    "Debit": "Clientes",
+    "Credit": "Clientes"
+  },
+  {
+    "TaxonomyCode": "6",
+    "SNCSVAT": "212",
+    "Description": "Clientes - Clientes — títulos a receber",
+    "Observations": "",
+    "Classe": "(R2) APC",
+    "ExpectedBalance": "(R2) S2C",
+    "Debit": "Clientes",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "7",
+    "SNCSVAT": "213|214|215|216|217",
+    "Description": "Clientes - Outros Clientes",
+    "Observations": "",
+    "Classe": "(R2) APC",
+    "ExpectedBalance": "(R2) S2C",
+    "Debit": "Clientes",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "8",
+    "SNCSVAT": "218",
+    "Description": "Clientes - Adiantamentos de clientes",
+    "Observations": "",
+    "Classe": "PC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "9",
+    "SNCSVAT": "219",
+    "Description": "Clientes - Perdas por imparidade acumuladas - Clientes c/c",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Clientes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "10",
+    "SNCSVAT": "219",
+    "Description": "Clientes - Perdas por imparidade acumuladas - Clientes — títulos a receber",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Clientes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "11",
+    "SNCSVAT": "219",
+    "Description": "Clientes - Perdas por imparidade acumuladas - Outros Clientes",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Clientes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "12",
+    "SNCSVAT": "221",
+    "Description": "Fornecedores - Fornecedores c/c",
+    "Observations": "",
+    "Classe": "(R2) APC",
+    "ExpectedBalance": "(R2) S2C",
+    "Debit": "Fornecedores",
+    "Credit": "Fornecedores"
+  },
+  {
+    "TaxonomyCode": "13",
+    "SNCSVAT": "222",
+    "Description": "Fornecedores - Fornecedores — títulos a pagar",
+    "Observations": "",
+    "Classe": "(R2) APC",
+    "ExpectedBalance": "(R2) S2C",
+    "Debit": "Outros ativos correntes",
+    "Credit": "Fornecedores"
+  },
+  {
+    "TaxonomyCode": "14",
+    "SNCSVAT": "223|224|226|227",
+    "Description": "Fornecedores - Outros fornecedores",
+    "Observations": "",
+    "Classe": "(R2) APC",
+    "ExpectedBalance": "(R2) S2C",
+    "Debit": "Outros ativos correntes",
+    "Credit": "Fornecedores"
+  },
+  {
+    "TaxonomyCode": "15",
+    "SNCSVAT": "225",
+    "Description": "Fornecedores - Faturas em receção e conferência",
+    "Observations": "",
+    "Classe": "(R2) APC",
+    "ExpectedBalance": "(R2) S2C",
+    "Debit": "Outros ativos correntes",
+    "Credit": "Fornecedores"
+  },
+  {
+    "TaxonomyCode": "16",
+    "SNCSVAT": "228",
+    "Description": "Fornecedores - Adiantamentos a fornecedores",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "17",
+    "SNCSVAT": "229",
+    "Description": "Fornecedores - Perdas por imparidade acumuladas",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "18",
+    "SNCSVAT": "2311",
+    "Description": "Pessoal - Remunerações a pagar - Aos órgãos sociais",
+    "Observations": "",
+    "Classe": "PC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "19",
+    "SNCSVAT": "2312",
+    "Description": "Pessoal - Remunerações a pagar - Ao pessoal",
+    "Observations": "",
+    "Classe": "PC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "20",
+    "SNCSVAT": "2321",
+    "Description": "Pessoal - Adiantamentos - Aos órgãos sociais",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "21",
+    "SNCSVAT": "2322",
+    "Description": "Pessoal - Adiantamentos - Ao pessoal",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "22",
+    "SNCSVAT": "2381",
+    "Description": "Pessoal - Outras operações - Com os órgãos sociais - (CORRENTE)",
+    "Observations": "Incluir contas 233|234|235|236",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Outros ativos correntes",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "23",
+    "SNCSVAT": "2381",
+    "Description": "Pessoal - Outras operações - Com os órgãos sociais - (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "APNC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Créditos e outros ativos não correntes",
+    "Credit": "Outras dívidas a pagar"
+  },
+  {
+    "TaxonomyCode": "24",
+    "SNCSVAT": "2382",
+    "Description": "Pessoal - Outras operações - Com o pessoal - (CORRENTE)",
+    "Observations": "Incluir contas 233|234|235|236",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Outros ativos correntes",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "25",
+    "SNCSVAT": "2382",
+    "Description": "Pessoal - Outras operações - Com o pessoal - (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "APNC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Créditos e outros ativos não correntes",
+    "Credit": "Outras dívidas a pagar"
+  },
+  {
+    "TaxonomyCode": "26",
+    "SNCSVAT": "239",
+    "Description": "Pessoal - Perdas por imparidade acumuladas - Adiantamentos - Aos órgãos sociais",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "27",
+    "SNCSVAT": "239",
+    "Description": "Pessoal - Perdas por imparidade acumuladas - Adiantamentos - Ao pessoal",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "28",
+    "SNCSVAT": "239",
+    "Description": "Pessoal - Perdas por imparidade acumuladas - Outras operações - Aos órgãos sociais (CORRENTE)",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "29",
+    "SNCSVAT": "239",
+    "Description": "Pessoal - Perdas por imparidade acumuladas - Outras operações - Aos órgãos sociais (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Créditos e outros ativos não correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "30",
+    "SNCSVAT": "239",
+    "Description": "Pessoal - Perdas por imparidade acumuladas - Outras operações - Ao pessoal (CORRENTE)",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "31",
+    "SNCSVAT": "239",
+    "Description": "Pessoal - Perdas por imparidade acumuladas - Outras operações - Ao pessoal (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Créditos e outros ativos não correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "32",
+    "SNCSVAT": "241",
+    "Description": "Estado e outros entes públicos - Imposto sobre o rendimento",
+    "Observations": "",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Estado e outros entes públicos (balanço ativo)",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "33",
+    "SNCSVAT": "242",
+    "Description": "Estado e outros entes públicos - Retenção de impostos sobre rendimentos",
+    "Observations": "",
+    "Classe": "PC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "34",
+    "SNCSVAT": "2431",
+    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — Suportado",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Estado e outros entes públicos (balanço ativo)",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "35",
+    "SNCSVAT": "2432",
+    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — Dedutível",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Estado e outros entes públicos (balanço ativo)",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "36",
+    "SNCSVAT": "2433",
+    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — Liquidado",
+    "Observations": "",
+    "Classe": "PC",
+    "ExpectedBalance": "C",
+    "Debit": "Estado e outros entes públicos (balanço ativo)",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "37",
+    "SNCSVAT": "2434",
+    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — Regularizações",
+    "Observations": "",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Estado e outros entes públicos (balanço ativo)",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "38",
+    "SNCSVAT": "2435",
+    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — Apuramento",
+    "Observations": "",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Estado e outros entes públicos (balanço ativo)",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "39",
+    "SNCSVAT": "2436",
+    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — A pagar",
+    "Observations": "",
+    "Classe": "PC",
+    "ExpectedBalance": "C",
+    "Debit": "Estado e outros entes públicos (balanço ativo)",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "40",
+    "SNCSVAT": "2437",
+    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — A recuperar",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Estado e outros entes públicos (balanço ativo)",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "41",
+    "SNCSVAT": "2438",
+    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — Reembolsos pedidos",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Estado e outros entes públicos (balanço ativo)",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "42",
+    "SNCSVAT": "2439",
+    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — Liquidações oficiosas",
+    "Observations": "",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Estado e outros entes públicos (balanço ativo)",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "43",
+    "SNCSVAT": "244",
+    "Description": "Estado e outros entes públicos - Outros impostos",
+    "Observations": "",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Estado e outros entes públicos (balanço ativo)",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "44",
+    "SNCSVAT": "245",
+    "Description": "Estado e outros entes públicos - Contribuições para a Segurança Social",
+    "Observations": "",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Estado e outros entes públicos (balanço ativo)",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "45",
+    "SNCSVAT": "246",
+    "Description": "Estado e outros entes públicos - Tributos das autarquias locais",
+    "Observations": "",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Estado e outros entes públicos (balanço ativo)",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "46",
+    "SNCSVAT": "248",
+    "Description": "Estado e outros entes públicos - Outras tributações",
+    "Observations": "Incluir conta 247",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Estado e outros entes públicos (balanço ativo)",
+    "Credit": "Estado e outros entes públicos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "47",
+    "SNCSVAT": "2511",
+    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Empréstimos bancários - (CORRENTE)",
+    "Observations": "",
+    "Classe": "PC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Financiamentos Obtidos"
+  },
+  {
+    "TaxonomyCode": "48",
+    "SNCSVAT": "2511",
+    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Empréstimos bancários - (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "PNC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Financiamentos obtidos"
+  },
+  {
+    "TaxonomyCode": "49",
+    "SNCSVAT": "2512",
+    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Descobertos bancários - (CORRENTE)",
+    "Observations": "",
+    "Classe": "PC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Financiamentos Obtidos"
+  },
+  {
+    "TaxonomyCode": "50",
+    "SNCSVAT": "2512",
+    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Descobertos bancários - (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "PNC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Financiamentos obtidos"
+  },
+  {
+    "TaxonomyCode": "51",
+    "SNCSVAT": "2513",
+    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Locações financeiras - (CORRENTE)",
+    "Observations": "",
+    "Classe": "PC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Financiamentos Obtidos"
+  },
+  {
+    "TaxonomyCode": "52",
+    "SNCSVAT": "2513",
+    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Locações financeiras - (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "PNC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Financiamentos obtidos"
+  },
+  {
+    "TaxonomyCode": "53",
+    "SNCSVAT": "2514|2515|2516|2517|2518|2519",
+    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Outros financiamentos - (CORRENTE)",
+    "Observations": "",
+    "Classe": "PC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Financiamentos Obtidos"
+  },
+  {
+    "TaxonomyCode": "54",
+    "SNCSVAT": "2514|2515|2516|2517|2518|2519",
+    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Outros financiamentos - (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "PNC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Financiamentos obtidos"
+  },
+  {
+    "TaxonomyCode": "55",
+    "SNCSVAT": "258",
+    "Description": "Financiamentos obtidos - Outros financiadores - (CORRENTE)",
+    "Observations": "Incluir contas 255|256|257",
+    "Classe": "PC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Financiamentos Obtidos"
+  },
+  {
+    "TaxonomyCode": "56",
+    "SNCSVAT": "258",
+    "Description": "Financiamentos obtidos - Outros financiadores - (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "PNC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Financiamentos obtidos"
+  },
+  {
+    "TaxonomyCode": "57",
+    "SNCSVAT": "262",
+    "Description": "Acionistas/sócios - Quotas não liberadas",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Capital subscrito e não realizado",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "58",
+    "SNCSVAT": "263",
+    "Description": "Acionistas/sócios - Adiantamentos por conta de lucros",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "59",
+    "SNCSVAT": "264",
+    "Description": "Acionistas/sócios - Resultados atribuídos",
+    "Observations": "",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Outros ativos correntes",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "60",
+    "SNCSVAT": "265",
+    "Description": "Acionistas/sócios - Lucros disponíveis",
+    "Observations": "",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Outros ativos correntes",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "61",
+    "SNCSVAT": "268",
+    "Description": "Acionistas/sócios - Outras operações - (CORRENTE)",
+    "Observations": "Incluir conta 267",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Outros ativos correntes",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "62",
+    "SNCSVAT": "268",
+    "Description": "Acionistas/sócios - Outras operações - (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "APNC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Créditos e outros ativos não correntes",
+    "Credit": "Outras dívidas a pagar"
+  },
+  {
+    "TaxonomyCode": "63",
+    "SNCSVAT": "269",
+    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Quotas não liberadas",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Capital subscrito e não realizado",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "64",
+    "SNCSVAT": "269",
+    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Adiantamentos por conta de lucros",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "65",
+    "SNCSVAT": "269",
+    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Resultados atribuídos",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "66",
+    "SNCSVAT": "269",
+    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Lucros disponíveis",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "67",
+    "SNCSVAT": "269",
+    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Outras operações (CORRENTE)",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "68",
+    "SNCSVAT": "269",
+    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Outras operações (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Créditos e outros ativos não correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "69",
+    "SNCSVAT": "2711",
+    "Description": "Outras contas a receber e a pagar - Fornecedores de investimentos - Fornecedores de investimentos — contas gerais - (CORRENTE)",
+    "Observations": "",
+    "Classe": "(R2) APC",
+    "ExpectedBalance": "(R2) S2C",
+    "Debit": "Outros ativos correntes",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "70",
+    "SNCSVAT": "2711",
+    "Description": "Outras contas a receber e a pagar - Fornecedores de investimentos - Fornecedores de investimentos — contas gerais - (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "(R2) APNC",
+    "ExpectedBalance": "(R2) S2C",
+    "Debit": "Créditos e outros ativos não correntes",
+    "Credit": "Outras dívidas a pagar"
+  },
+  {
+    "TaxonomyCode": "71",
+    "SNCSVAT": "2712",
+    "Description": "Outras contas a receber e a pagar - Fornecedores de investimentos - Facturas em recepção e conferência - (CORRENTE)",
+    "Observations": "",
+    "Classe": "(R2) APC",
+    "ExpectedBalance": "(R2) S2C",
+    "Debit": "Outros ativos correntes",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "72",
+    "SNCSVAT": "2712",
+    "Description": "Outras contas a receber e a pagar - Fornecedores de investimentos - Facturas em recepção e conferência - (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "(R2) APNC",
+    "ExpectedBalance": "(R2) S2C",
+    "Debit": "Créditos e outros ativos não correntes",
+    "Credit": "Outras dívidas a pagar"
+  },
+  {
+    "TaxonomyCode": "73",
+    "SNCSVAT": "2713",
+    "Description": "Outras contas a receber e a pagar - Fornecedores de investimentos - Adiantamentos a fornecedores de investimentos - (CORRENTE)",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "74",
+    "SNCSVAT": "2713",
+    "Description": "Outras contas a receber e a pagar - Fornecedores de investimentos - Adiantamentos a fornecedores de investimentos - (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Créditos e outros ativos não correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "75",
+    "SNCSVAT": "2721",
+    "Description": "Outras contas a receber e a pagar - Devedores e credores por acréscimos (periodização económica)* - Devedores por acréscimos de rendimentos",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "76",
+    "SNCSVAT": "2722",
+    "Description": "Outras contas a receber e a pagar - Devedores e credores por acréscimos (periodização económica)* - Credores por acréscimos de gastos",
+    "Observations": "",
+    "Classe": "PC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "77",
+    "SNCSVAT": "276",
+    "Description": "Outras contas a receber e a pagar - Adiantamentos por conta de vendas",
+    "Observations": "",
+    "Classe": "PC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "78",
+    "SNCSVAT": "278",
+    "Description": "Outras contas a receber e a pagar - Outros devedores e credores - (CORRENTE)",
+    "Observations": "Incluir conta 277",
+    "Classe": "APC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Outros ativos correntes",
+    "Credit": "Outros passivos correntes"
+  },
+  {
+    "TaxonomyCode": "79",
+    "SNCSVAT": "278",
+    "Description": "Outras contas a receber e a pagar - Outros devedores e credores - (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "APNC",
+    "ExpectedBalance": "S2C",
+    "Debit": "Créditos e outros ativos não correntes",
+    "Credit": "Outras dívidas a pagar"
+  },
+  {
+    "TaxonomyCode": "80",
+    "SNCSVAT": "279",
+    "Description": "Outras contas a receber e a pagar - Perdas por imparidade acumuladas - Fornecedores de investimentos - Adiantamentos a fornecedores de investimentos (CORRENTE)",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "81",
+    "SNCSVAT": "279",
+    "Description": "Outras contas a receber e a pagar - Perdas por imparidade acumuladas - Fornecedores de investimentos - Adiantamentos a fornecedores de investimentos (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Créditos e outros ativos não correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "82",
+    "SNCSVAT": "279",
+    "Description": "Outras contas a receber e a pagar - Perdas por imparidade acumuladas - Devedores e credores por acréscimos (periodização económica)* - Devedores por acréscimos de rendimentos",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "83",
+    "SNCSVAT": "279",
+    "Description": "Outras contas a receber e a pagar - Perdas por imparidade acumuladas - Outros devedores e credores - (CORRENTE)",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Outros ativos correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "84",
+    "SNCSVAT": "279",
+    "Description": "Outras contas a receber e a pagar - Perdas por imparidade acumuladas - Outros devedores e credores - (NÃO CORRENTE)",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Créditos e outros ativos não correntes",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "85",
+    "SNCSVAT": "281",
+    "Description": "Diferimentos - Gastos a reconhecer",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Diferimentos (balanço ativo)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "86",
+    "SNCSVAT": "282",
+    "Description": "Diferimentos - Rendimentos a reconhecer",
+    "Observations": "",
+    "Classe": "PC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Diferimentos (balanço passivo)"
+  },
+  {
+    "TaxonomyCode": "87",
+    "SNCSVAT": "291",
+    "Description": "Provisões - Impostos",
+    "Observations": "",
+    "Classe": "PNC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Provisões"
+  },
+  {
+    "TaxonomyCode": "88",
+    "SNCSVAT": "292",
+    "Description": "Provisões - Garantias a clientes",
+    "Observations": "",
+    "Classe": "PNC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Provisões"
+  },
+  {
+    "TaxonomyCode": "89",
+    "SNCSVAT": "293",
+    "Description": "Provisões - Processos judiciais em curso",
+    "Observations": "",
+    "Classe": "PNC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Provisões"
+  },
+  {
+    "TaxonomyCode": "90",
+    "SNCSVAT": "294",
+    "Description": "Provisões - Acidentes de trabalho e doenças profissionais",
+    "Observations": "",
+    "Classe": "PNC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Provisões"
+  },
+  {
+    "TaxonomyCode": "91",
+    "SNCSVAT": "298",
+    "Description": "Provisões - Outras provisões",
+    "Observations": "",
+    "Classe": "PNC",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Provisões"
+  },
+  {
+    "TaxonomyCode": "92",
+    "SNCSVAT": "311",
+    "Description": "Compras - Mercadorias",
+    "Observations": "(A) incluir contas 314|315|316",
+    "Classe": "",
+    "ExpectedBalance": "Dc",
+    "Debit": "",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "93",
+    "SNCSVAT": "312",
+    "Description": "Compras - Matérias -primas, subsidiárias e de consumo",
+    "Observations": "",
+    "Classe": "",
+    "ExpectedBalance": "Dc",
+    "Debit": "",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "94",
+    "SNCSVAT": "317",
+    "Description": "Compras - Devoluções de compras - Mercadorias",
+    "Observations": "",
+    "Classe": "",
+    "ExpectedBalance": "Cc",
+    "Debit": "",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "95",
+    "SNCSVAT": "317",
+    "Description": "Compras - Devoluções de compras - Matérias -primas, subsidiárias e de consumo",
+    "Observations": "",
+    "Classe": "",
+    "ExpectedBalance": "Cc",
+    "Debit": "",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "96",
+    "SNCSVAT": "318",
+    "Description": "Compras - Descontos e abatimentos em compras - Mercadorias",
+    "Observations": "",
+    "Classe": "",
+    "ExpectedBalance": "Cc",
+    "Debit": "",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "97",
+    "SNCSVAT": "318",
+    "Description": "Compras - Descontos e abatimentos em compras - Matérias -primas, subsidiárias e de consumo",
+    "Observations": "",
+    "Classe": "",
+    "ExpectedBalance": "Cc",
+    "Debit": "",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "98",
+    "SNCSVAT": "321|322|323|324|327|328",
+    "Description": "Mercadorias - Mercadorias",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "99",
+    "SNCSVAT": "325",
+    "Description": "Mercadorias - Mercadorias em trânsito",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "100",
+    "SNCSVAT": "326",
+    "Description": "Mercadorias - Mercadorias em poder de terceiros",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "101",
+    "SNCSVAT": "329",
+    "Description": "Mercadorias - Perdas por imparidade acumuladas - Mercadorias",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "102",
+    "SNCSVAT": "329",
+    "Description": "Mercadorias - Perdas por imparidade acumuladas - Mercadorias em trânsito",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "103",
+    "SNCSVAT": "329",
+    "Description": "Mercadorias - Perdas por imparidade acumuladas - Mercadorias em poder de terceiros",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "104",
+    "SNCSVAT": "331",
+    "Description": "Matérias -primas, subsidiárias e de consumo - Matérias -primas",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "105",
+    "SNCSVAT": "332",
+    "Description": "Matérias -primas, subsidiárias e de consumo - Matérias subsidiárias",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "106",
+    "SNCSVAT": "333",
+    "Description": "Matérias -primas, subsidiárias e de consumo - Embalagens",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "107",
+    "SNCSVAT": "334",
+    "Description": "Matérias -primas, subsidiárias e de consumo - Materiais diversos",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "108",
+    "SNCSVAT": "335",
+    "Description": "Matérias -primas, subsidiárias e de consumo - Matérias em trânsito",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "109",
+    "SNCSVAT": "336|337|338",
+    "Description": "Matérias -primas, subsidiárias e de consumo - Outras matérias -primas, subsidiárias e de consumo",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "110",
+    "SNCSVAT": "339",
+    "Description": "Matérias -primas, subsidiárias e de consumo - Perdas por imparidade acumuladas - Matérias -primas",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "111",
+    "SNCSVAT": "339",
+    "Description": "Matérias -primas, subsidiárias e de consumo - Perdas por imparidade acumuladas - Matérias subsidiárias",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "112",
+    "SNCSVAT": "339",
+    "Description": "Matérias -primas, subsidiárias e de consumo - Perdas por imparidade acumuladas - Embalagens",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "113",
+    "SNCSVAT": "339",
+    "Description": "Matérias -primas, subsidiárias e de consumo - Perdas por imparidade acumuladas - Materiais diversos",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "114",
+    "SNCSVAT": "339",
+    "Description": "Matérias -primas, subsidiárias e de consumo - Perdas por imparidade acumuladas - Matérias em trânsito",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "115",
+    "SNCSVAT": "339",
+    "Description": "Matérias -primas, subsidiárias e de consumo - Perdas por imparidade acumuladas - Outras matérias -primas, subsidiárias e de consumo",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "116",
+    "SNCSVAT": "341|342|343|344|345|347|348",
+    "Description": "Produtos acabados e intermédios - Produtos acabados e intermédios",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "117",
+    "SNCSVAT": "346",
+    "Description": "Produtos acabados e intermédios - Produtos em poder de terceiros",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "118",
+    "SNCSVAT": "349",
+    "Description": "Produtos acabados e intermédios - Perdas por imparidade acumuladas - Produtos acabados e intermédios",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "119",
+    "SNCSVAT": "349",
+    "Description": "Produtos acabados e intermédios - Perdas por imparidade acumuladas - Produtos em poder de terceiros",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "120",
+    "SNCSVAT": "351",
+    "Description": "Subprodutos, desperdícios, resíduos e refugos - Subprodutos",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "121",
+    "SNCSVAT": "352",
+    "Description": "Subprodutos, desperdícios, resíduos e refugos - Desperdícios, resíduos e refugos",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "122",
+    "SNCSVAT": "353|354|355|356|357|358",
+    "Description": "Subprodutos, desperdícios, resíduos e refugos - Outros subprodutos, desperdícios, resíduos e refugos",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "123",
+    "SNCSVAT": "359",
+    "Description": "Subprodutos, desperdícios, resíduos e refugos - Perdas por imparidade acumuladas - Subprodutos",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "124",
+    "SNCSVAT": "359",
+    "Description": "Subprodutos, desperdícios, resíduos e refugos - Perdas por imparidade acumuladas - Desperdícios, resíduos e refugos",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "125",
+    "SNCSVAT": "359",
+    "Description": "Subprodutos, desperdícios, resíduos e refugos - Perdas por imparidade acumuladas - Outros subprodutos, desperdícios, resíduos e refugos",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "126",
+    "SNCSVAT": "361|362|363|364|365|366|367|368",
+    "Description": "Produtos e trabalhos em curso - Produtos e trabalhos em curso",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "127",
+    "SNCSVAT": "(C2) 369",
+    "Description": "Produtos e trabalhos em curso - Perdas por imparidade acumuladas",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "C",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "128",
+    "SNCSVAT": "382",
+    "Description": "Reclassificação e regularização de inventários - Mercadorias",
+    "Observations": "",
+    "Classe": "",
+    "ExpectedBalance": "Sc",
+    "Debit": "",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "129",
+    "SNCSVAT": "383",
+    "Description": "Reclassificação e regularização de inventários - Matérias -primas, subsidiárias e de consumo",
+    "Observations": "",
+    "Classe": "",
+    "ExpectedBalance": "Sc",
+    "Debit": "",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "130",
+    "SNCSVAT": "384",
+    "Description": "Reclassificação e regularização de inventários - Produtos acabados e intermédios",
+    "Observations": "",
+    "Classe": "",
+    "ExpectedBalance": "Sc",
+    "Debit": "",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "131",
+    "SNCSVAT": "385",
+    "Description": "Reclassificação e regularização de inventários - Subprodutos, desperdícios, resíduos e refugos",
+    "Observations": "",
+    "Classe": "",
+    "ExpectedBalance": "Sc",
+    "Debit": "",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "132",
+    "SNCSVAT": "386",
+    "Description": "Reclassificação e regularização de inventários - Produtos e trabalhos em curso",
+    "Observations": "",
+    "Classe": "",
+    "ExpectedBalance": "Sc",
+    "Debit": "",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "133",
+    "SNCSVAT": "39",
+    "Description": "Adiantamentos por conta de compras - Mercadorias",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "134",
+    "SNCSVAT": "39",
+    "Description": "Adiantamentos por conta de compras - Matérias -primas, subsidiárias e de consumo",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "135",
+    "SNCSVAT": "39",
+    "Description": "Adiantamentos por conta de compras - Produtos acabados e intermédios",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "136",
+    "SNCSVAT": "39",
+    "Description": "Adiantamentos por conta de compras - Subprodutos, desperdícios, resíduos e refugos",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "137",
+    "SNCSVAT": "39",
+    "Description": "Adiantamentos por conta de compras - Produtos e trabalhos em curso",
+    "Observations": "",
+    "Classe": "AC",
+    "ExpectedBalance": "D",
+    "Debit": "Inventários",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "138",
+    "SNCSVAT": "4141",
+    "Description": "Investimentos financeiros - Investimentos noutras empresas - Participações de capital",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Investimentos financeiros",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "139",
+    "SNCSVAT": "4142",
+    "Description": "Investimentos financeiros - Investimentos noutras empresas - Empréstimos concedidos",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Investimentos financeiros",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "140",
+    "SNCSVAT": "4143|4144|4145|4146|4147|4148|4149",
+    "Description": "Investimentos financeiros - Investimentos noutras empresas - Outros investimentos financeiros",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Investimentos financeiros",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "141",
+    "SNCSVAT": "419",
+    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos noutras empresas - Participações de capital",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Investimentos financeiros",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "142",
+    "SNCSVAT": "419",
+    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos noutras empresas - Empréstimos concedidos",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Investimentos financeiros",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "143",
+    "SNCSVAT": "419",
+    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos noutras empresas - Outros investimentos financeiros",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Investimentos financeiros",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "144",
+    "SNCSVAT": "431",
+    "Description": "Ativos fixos tangíveis - Terrenos e recursos naturais",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "145",
+    "SNCSVAT": "432",
+    "Description": "Ativos fixos tangíveis - Edifícios e outras construções",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "146",
+    "SNCSVAT": "433",
+    "Description": "Ativos fixos tangíveis - Equipamento básico",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "147",
+    "SNCSVAT": "434",
+    "Description": "Ativos fixos tangíveis - Equipamento de transporte",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "148",
+    "SNCSVAT": "435",
+    "Description": "Ativos fixos tangíveis - Equipamento administrativo",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "149",
+    "SNCSVAT": "436",
+    "Description": "Ativos fixos tangíveis - Equipamentos biológicos",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "150",
+    "SNCSVAT": "437",
+    "Description": "Ativos fixos tangíveis - Outros ativos fixos tangíveis",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "151",
+    "SNCSVAT": "438",
+    "Description": "Ativos fixos tangíveis - Depreciações acumuladas - Terrenos e recursos naturais",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "152",
+    "SNCSVAT": "438",
+    "Description": "Ativos fixos tangíveis - Depreciações acumuladas - Edifícios e outras construções",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "153",
+    "SNCSVAT": "438",
+    "Description": "Ativos fixos tangíveis - Depreciações acumuladas - Equipamento básico",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "154",
+    "SNCSVAT": "438",
+    "Description": "Ativos fixos tangíveis - Depreciações acumuladas - Equipamento de transporte",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "155",
+    "SNCSVAT": "438",
+    "Description": "Ativos fixos tangíveis - Depreciações acumuladas - Equipamento administrativo",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "156",
+    "SNCSVAT": "438",
+    "Description": "Ativos fixos tangíveis - Depreciações acumuladas - Equipamentos biológicos",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "157",
+    "SNCSVAT": "438",
+    "Description": "Ativos fixos tangíveis - Depreciações acumuladas - Outros ativos fixos tangíveis",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "158",
+    "SNCSVAT": "441",
+    "Description": "Ativos intangíveis - Goodwill",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos intangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "159",
+    "SNCSVAT": "442",
+    "Description": "Ativos intangíveis - Projetos de desenvolvimento",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos intangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "160",
+    "SNCSVAT": "443",
+    "Description": "Ativos intangíveis - Programas de computador",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos intangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "161",
+    "SNCSVAT": "444",
+    "Description": "Ativos intangíveis - Propriedade industrial",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos intangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "162",
+    "SNCSVAT": "446",
+    "Description": "Ativos intangíveis - Outros ativos intangíveis",
+    "Observations": "Incluir contas 445|447",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos intangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "163",
+    "SNCSVAT": "448",
+    "Description": "Ativos intangíveis - Amortizações acumuladas - Goodwill",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Ativos intangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "164",
+    "SNCSVAT": "448",
+    "Description": "Ativos intangíveis - Amortizações acumuladas - Projetos de desenvolvimento",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Ativos intangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "165",
+    "SNCSVAT": "448",
+    "Description": "Ativos intangíveis - Amortizações acumuladas - Programas de computador",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Ativos intangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "166",
+    "SNCSVAT": "448",
+    "Description": "Ativos intangíveis - Amortizações acumuladas - Propriedade industrial",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Ativos intangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "167",
+    "SNCSVAT": "448",
+    "Description": "Ativos intangíveis - Amortizações acumuladas - Outros ativos intangíveis",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "C",
+    "Debit": "Ativos intangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "168",
+    "SNCSVAT": "451",
+    "Description": "Investimentos em curso - Investimentos financeiros em curso",
+    "Observations": "(A) incluir contas 456|457|458",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Investimentos financeiros",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "169",
+    "SNCSVAT": "453",
+    "Description": "Investimentos em curso - Ativos fixos tangíveis em curso",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "170",
+    "SNCSVAT": "454",
+    "Description": "Investimentos em curso - Ativos intangíveis em curso",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos intangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "171",
+    "SNCSVAT": "455",
+    "Description": "Investimentos em curso - Adiantamentos por conta de investimentos - Investimentos financeiros em curso",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Investimentos financeiros",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "172",
+    "SNCSVAT": "455",
+    "Description": "Investimentos em curso - Adiantamentos por conta de investimentos - Ativos fixos tangíveis em curso",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos fixos tangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "173",
+    "SNCSVAT": "455",
+    "Description": "Investimentos em curso - Adiantamentos por conta de investimentos - Ativos intangíveis em curso",
+    "Observations": "",
+    "Classe": "ANC",
+    "ExpectedBalance": "D",
+    "Debit": "Ativos intangíveis",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "174",
+    "SNCSVAT": "51",
+    "Description": "Capital subscrito",
+    "Observations": "",
+    "Classe": "C",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Capital Subscrito"
+  },
+  {
+    "TaxonomyCode": "175",
+    "SNCSVAT": "521",
+    "Description": "Ações (quotas) próprias - Valor nominal",
+    "Observations": "(A) Incluir contas 523|524|525|526|527|528|529",
+    "Classe": "C",
+    "ExpectedBalance": "D",
+    "Debit": "",
+    "Credit": "Ajustamentos / Outras variações no capital próprio"
+  },
+  {
+    "TaxonomyCode": "176",
+    "SNCSVAT": "522",
+    "Description": "Ações (quotas) próprias - Descontos e prémios",
+    "Observations": "",
+    "Classe": "C",
+    "ExpectedBalance": "S1C",
+    "Debit": "",
+    "Credit": "Ajustamentos / Outras variações no capital próprio"
+  },
+  {
+    "TaxonomyCode": "177",
+    "SNCSVAT": "53",
+    "Description": "Outros instrumentos de capital próprio*",
+    "Observations": "",
+    "Classe": "C",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Outros instrumentos de capital próprio"
+  },
+  {
+    "TaxonomyCode": "178",
+    "SNCSVAT": "54",
+    "Description": "Prémios de emissão",
+    "Observations": "",
+    "Classe": "C",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Ajustamentos / Outras variações no capital próprio"
+  },
+  {
+    "TaxonomyCode": "179",
+    "SNCSVAT": "551",
+    "Description": "Reservas - Reservas legais",
+    "Observations": "",
+    "Classe": "C",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Reservas legais"
+  },
+  {
+    "TaxonomyCode": "180",
+    "SNCSVAT": "552",
+    "Description": "Reservas - Outras reservas",
+    "Observations": "Incluir contas 553|554|555|556|557|558|559",
+    "Classe": "C",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Outras reservas"
+  },
+  {
+    "TaxonomyCode": "181",
+    "SNCSVAT": "56",
+    "Description": "Resultados transitados",
+    "Observations": "",
+    "Classe": "C",
+    "ExpectedBalance": "S1C",
+    "Debit": "",
+    "Credit": "Resultados transitados"
+  },
+  {
+    "TaxonomyCode": "182",
+    "SNCSVAT": "581",
+    "Description": "Excedentes de revalorização de ativos fixos tangíveis * - Reavaliações decorrentes de diplomas legais",
+    "Observations": "",
+    "Classe": "C",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Ajustamentos / Outras variações no capital próprio"
+  },
+  {
+    "TaxonomyCode": "183",
+    "SNCSVAT": "589",
+    "Description": "Excedentes de revalorização de ativos fixos tangíveis * - Outros excedentes",
+    "Observations": "Incluir contas 582|583|584|585|586|587|588",
+    "Classe": "C",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Ajustamentos / Outras variações no capital próprio"
+  },
+  {
+    "TaxonomyCode": "184",
+    "SNCSVAT": "5931",
+    "Description": "Outras variações no capital próprio - Subsídios - Subsídios atribuídos",
+    "Observations": "",
+    "Classe": "C",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Ajustamentos / Outras variações no capital próprio"
+  },
+  {
+    "TaxonomyCode": "185",
+    "SNCSVAT": "5932",
+    "Description": "Outras variações no capital próprio - Subsídios - Ajustamentos em subsídios",
+    "Observations": "",
+    "Classe": "C",
+    "ExpectedBalance": "D",
+    "Debit": "",
+    "Credit": "Ajustamentos / Outras variações no capital próprio"
+  },
+  {
+    "TaxonomyCode": "186",
+    "SNCSVAT": "594",
+    "Description": "Outras variações no capital próprio - Doações",
+    "Observations": "",
+    "Classe": "C",
+    "ExpectedBalance": "C",
+    "Debit": "",
+    "Credit": "Ajustamentos / Outras variações no capital próprio"
+  },
+  {
+    "TaxonomyCode": "187",
+    "SNCSVAT": "599",
+    "Description": "Outras variações no capital próprio - Outras",
+    "Observations": "Incluir contas 595|596|597|598",
+    "Classe": "C",
+    "ExpectedBalance": "S1C",
+    "Debit": "",
+    "Credit": "Ajustamentos / Outras variações no capital próprio"
+  },
+  {
+    "TaxonomyCode": "188",
+    "SNCSVAT": "611",
+    "Description": "Custo das mercadorias vendidas e das matérias consumidas - Mercadorias",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Sa1C",
+    "Debit": "Custo das mercadorias vendidas e das matérias consumidas",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "189",
+    "SNCSVAT": "612",
+    "Description": "Custo das mercadorias vendidas e das matérias consumidas - Matérias -primas, subsidiárias e de consumo",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Sa1C",
+    "Debit": "Custo das mercadorias vendidas e das matérias consumidas",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "190",
+    "SNCSVAT": "621",
+    "Description": "Fornecimentos e serviços externos - Subcontratos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Fornecimentos e serviços externos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "191",
+    "SNCSVAT": "622",
+    "Description": "Fornecimentos e serviços externos - Serviços especializados",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Fornecimentos e serviços externos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "192",
+    "SNCSVAT": "623",
+    "Description": "Fornecimentos e serviços externos - Materiais",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Fornecimentos e serviços externos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "193",
+    "SNCSVAT": "624",
+    "Description": "Fornecimentos e serviços externos - Energia e fluidos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Fornecimentos e serviços externos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "194",
+    "SNCSVAT": "625",
+    "Description": "Fornecimentos e serviços externos - Deslocações, estadas e transportes",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Fornecimentos e serviços externos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "195",
+    "SNCSVAT": "626",
+    "Description": "Fornecimentos e serviços externos - Serviços diversos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Fornecimentos e serviços externos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "196",
+    "SNCSVAT": "631",
+    "Description": "Gastos com o pessoal - Remunerações dos órgãos sociais",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos com o pessoal",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "197",
+    "SNCSVAT": "632",
+    "Description": "Gastos com o pessoal - Remunerações do pessoal",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos com o pessoal",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "198",
+    "SNCSVAT": "634",
+    "Description": "Gastos com o pessoal - Indemnizações",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos com o pessoal",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "199",
+    "SNCSVAT": "635",
+    "Description": "Gastos com o pessoal - Encargos sobre remunerações",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos com o pessoal",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "200",
+    "SNCSVAT": "636",
+    "Description": "Gastos com o pessoal - Seguros de acidentes no trabalho e doenças profissionais",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos com o pessoal",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "201",
+    "SNCSVAT": "637",
+    "Description": "Gastos com o pessoal - Gastos de ação social",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos com o pessoal",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "202",
+    "SNCSVAT": "638",
+    "Description": "Gastos com o pessoal - Outros gastos com o pessoal",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos com o pessoal",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "203",
+    "SNCSVAT": "642",
+    "Description": "Gastos de depreciação e de amortização - Ativos fixos tangíveis - Terrenos e recursos naturais",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "204",
+    "SNCSVAT": "642",
+    "Description": "Gastos de depreciação e de amortização - Ativos fixos tangíveis - Edifícios e outras construções",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "205",
+    "SNCSVAT": "642",
+    "Description": "Gastos de depreciação e de amortização - Ativos fixos tangíveis - Equipamento básico",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "206",
+    "SNCSVAT": "642",
+    "Description": "Gastos de depreciação e de amortização - Ativos fixos tangíveis - Equipamento de transporte",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "207",
+    "SNCSVAT": "642",
+    "Description": "Gastos de depreciação e de amortização - Ativos fixos tangíveis - Equipamento administrativo",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "208",
+    "SNCSVAT": "642",
+    "Description": "Gastos de depreciação e de amortização - Ativos fixos tangíveis - Equipamentos biológicos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "209",
+    "SNCSVAT": "642",
+    "Description": "Gastos de depreciação e de amortização - Ativos fixos tangíveis - Outros ativos fixos tangíveis",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "210",
+    "SNCSVAT": "643",
+    "Description": "Gastos de depreciação e de amortização - Ativos intangíveis - Goodwill",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "211",
+    "SNCSVAT": "643",
+    "Description": "Gastos de depreciação e de amortização - Ativos intangíveis - Projetos de desenvolvimento",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "212",
+    "SNCSVAT": "643",
+    "Description": "Gastos de depreciação e de amortização - Ativos intangíveis - Programas de computador",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "213",
+    "SNCSVAT": "643",
+    "Description": "Gastos de depreciação e de amortização - Ativos intangíveis - Propriedade industrial",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "214",
+    "SNCSVAT": "643",
+    "Description": "Gastos de depreciação e de amortização - Ativos intangíveis - Outros ativos intangíveis",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "215",
+    "SNCSVAT": "(C2) 6511|6512|652|653",
+    "Description": "Perdas por imparidade - Instrumentos financeiros",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Sa1C",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "216",
+    "SNCSVAT": "6511",
+    "Description": "Perdas por imparidade - Em dívidas a receber - Clientes",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "217",
+    "SNCSVAT": "6512",
+    "Description": "Perdas por imparidade - Em dívidas a receber - Outros devedores",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "218",
+    "SNCSVAT": "652",
+    "Description": "Perdas por imparidade - Em inventários - Mercadorias",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "219",
+    "SNCSVAT": "652",
+    "Description": "Perdas por imparidade - Em inventários - Matérias -primas, subsidiárias e de consumo",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "220",
+    "SNCSVAT": "652",
+    "Description": "Perdas por imparidade - Em inventários - Produtos acabados e intermédios",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "221",
+    "SNCSVAT": "652",
+    "Description": "Perdas por imparidade - Em inventários - Subprodutos, desperdícios, resíduos e refugos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "222",
+    "SNCSVAT": "652",
+    "Description": "Perdas por imparidade - Em inventários - Produtos e trabalhos em curso",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "223",
+    "SNCSVAT": "653",
+    "Description": "Perdas por imparidade - Em investimentos financeiros - Participações de capital",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "224",
+    "SNCSVAT": "653",
+    "Description": "Perdas por imparidade - Em investimentos financeiros - Empréstimos concedidos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "225",
+    "SNCSVAT": "653",
+    "Description": "Perdas por imparidade - Em investimentos financeiros - Outros investimentos financeiros",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "226",
+    "SNCSVAT": "653",
+    "Description": "Perdas por imparidade - Em investimentos financeiros - Goodwill",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "227",
+    "SNCSVAT": "671",
+    "Description": "Provisões do período - Impostos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Provisões (aumentos/reduções)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "228",
+    "SNCSVAT": "672",
+    "Description": "Provisões do período - Garantias a clientes",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Provisões (aumentos/reduções)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "229",
+    "SNCSVAT": "673",
+    "Description": "Provisões do período - Processos judiciais em curso",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Provisões (aumentos/reduções)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "230",
+    "SNCSVAT": "674",
+    "Description": "Provisões do período - Acidentes no trabalho e doenças profissionais",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Provisões (aumentos/reduções)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "231",
+    "SNCSVAT": "678",
+    "Description": "Provisões do período - Outras provisões",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Provisões (aumentos/reduções)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "232",
+    "SNCSVAT": "6811",
+    "Description": "Outros gastos - Impostos - Impostos diretos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "233",
+    "SNCSVAT": "6812",
+    "Description": "Outros gastos - Impostos - Impostos indiretos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "234",
+    "SNCSVAT": "6813",
+    "Description": "Outros gastos - Impostos - Taxas",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "235",
+    "SNCSVAT": "682",
+    "Description": "Outros gastos - Descontos de pronto pagamento concedidos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "236",
+    "SNCSVAT": "683",
+    "Description": "Outros gastos - Dívidas incobráveis",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "237",
+    "SNCSVAT": "6841",
+    "Description": "Outros gastos - Perdas em inventários - Sinistros",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "238",
+    "SNCSVAT": "6842",
+    "Description": "Outros gastos - Perdas em inventários - Quebras",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "239",
+    "SNCSVAT": "6848",
+    "Description": "Outros gastos - Perdas em inventários - Outras perdas",
+    "Observations": "Incluir contas 6843|6844|6845|6846|6847",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "240",
+    "SNCSVAT": "6861",
+    "Description": "Outros gastos - Gastos nos restantes investimentos financeros - Cobertura de prejuízos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "241",
+    "SNCSVAT": "6862",
+    "Description": "Outros gastos - Gastos nos restantes investimentos financeros - Alienações",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "242",
+    "SNCSVAT": "6863",
+    "Description": "Outros gastos - Gastos nos restantes investimentos financeros - Diferenças de câmbio desfavoráveis",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "243",
+    "SNCSVAT": "6868",
+    "Description": "Outros gastos - Gastos nos restantes investimentos financeros - Outros gastos",
+    "Observations": "Incluir contas 6864|6865|6866|6867",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "244",
+    "SNCSVAT": "6871",
+    "Description": "Outros gastos - Gastos em investimentos não financeiros - Alienações",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "245",
+    "SNCSVAT": "6872",
+    "Description": "Outros gastos - Gastos em investimentos não financeiros - Sinistros",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "246",
+    "SNCSVAT": "6873",
+    "Description": "Outros gastos - Gastos em investimentos não financeiros - Abates",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "247",
+    "SNCSVAT": "6878",
+    "Description": "Outros gastos - Gastos em investimentos não financeiros - Outras gastos",
+    "Observations": "Incluir contas 6875|6876|6877",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "248",
+    "SNCSVAT": "6881",
+    "Description": "Outros gastos - Outros - Correções relativas a períodos anteriores",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "249",
+    "SNCSVAT": "6882",
+    "Description": "Outros gastos - Outros - Donativos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "250",
+    "SNCSVAT": "6883",
+    "Description": "Outros gastos - Outros - Quotizações",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "251",
+    "SNCSVAT": "6884",
+    "Description": "Outros gastos - Outros - Ofertas e amostras de inventários",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "252",
+    "SNCSVAT": "6885",
+    "Description": "Outros gastos - Outros - Insuficiência da estimativa para impostos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "253",
+    "SNCSVAT": "6887",
+    "Description": "Outros gastos - Outros - Diferenças de câmbio desfavoráveis",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "254",
+    "SNCSVAT": "6888",
+    "Description": "Outros gastos - Outros - Outros não especificados",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Outros gastos",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "255",
+    "SNCSVAT": "6911",
+    "Description": "Gastos de financiamento - Juros suportados - Juros de financiamentos obtidos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Juros e gastos similares suportados",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "256",
+    "SNCSVAT": "6918",
+    "Description": "Gastos de financiamento - Juros suportados - Outros juros",
+    "Observations": "Incluir contas 6912|6913|6914|6915|6916|6917",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Juros e gastos similares suportados",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "257",
+    "SNCSVAT": "6921",
+    "Description": "Gastos de financiamento - Diferenças de câmbio desfavoráveis - Relativas a financiamentos obtidos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Juros e gastos similares suportados",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "258",
+    "SNCSVAT": "6928",
+    "Description": "Gastos de financiamento - Diferenças de câmbio desfavoráveis - Outras",
+    "Observations": "Incluir contas 6922|6923|6924|6925|6926|6927",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Juros e gastos similares suportados",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "259",
+    "SNCSVAT": "6981",
+    "Description": "Gastos de financiamento - Outros gastos de financiamento - Relativos a financiamentos obtidos",
+    "Observations": "Incluir contas 693|694|695|696|697|6982|6983|6984|6985|6986|6987",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Juros e gastos similares suportados",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "260",
+    "SNCSVAT": "6988",
+    "Description": "Gastos de financiamento - Outros gastos de financiamento - Outros",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Juros e gastos similares suportados",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "261",
+    "SNCSVAT": "711",
+    "Description": "Vendas - Mercadorias",
+    "Observations": "(A) Incluir contas 715",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Vendas e serviços prestados"
+  },
+  {
+    "TaxonomyCode": "262",
+    "SNCSVAT": "712",
+    "Description": "Vendas - Produtos acabados e intermédios",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Vendas e serviços prestados"
+  },
+  {
+    "TaxonomyCode": "263",
+    "SNCSVAT": "713",
+    "Description": "Vendas - Subprodutos, desperdícios, resíduos e refugos",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Vendas e serviços prestados"
+  },
+  {
+    "TaxonomyCode": "264",
+    "SNCSVAT": "716",
+    "Description": "Vendas - IVA das vendas com imposto incluído",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Sa1C",
+    "Debit": "",
+    "Credit": "Vendas e serviços prestados"
+  },
+  {
+    "TaxonomyCode": "265",
+    "SNCSVAT": "717",
+    "Description": "Vendas - Devoluções de vendas",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Da",
+    "Debit": "",
+    "Credit": "Vendas e serviços prestados"
+  },
+  {
+    "TaxonomyCode": "266",
+    "SNCSVAT": "718",
+    "Description": "Vendas - Descontos e abatimentos em vendas",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Da",
+    "Debit": "",
+    "Credit": "Vendas e serviços prestados"
+  },
+  {
+    "TaxonomyCode": "267",
+    "SNCSVAT": "721",
+    "Description": "Prestações de serviços - Serviço A",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Vendas e serviços prestados"
+  },
+  {
+    "TaxonomyCode": "268",
+    "SNCSVAT": "722",
+    "Description": "Prestações de serviços - Serviço B",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Vendas e serviços prestados"
+  },
+  {
+    "TaxonomyCode": "269",
+    "SNCSVAT": "723|724|727",
+    "Description": "Prestações de serviços - Outros serviços",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Vendas e serviços prestados"
+  },
+  {
+    "TaxonomyCode": "270",
+    "SNCSVAT": "725",
+    "Description": "Prestações de serviços - Serviços secundários",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Vendas e serviços prestados"
+  },
+  {
+    "TaxonomyCode": "271",
+    "SNCSVAT": "726",
+    "Description": "Prestações de serviços - IVA dos serviços com imposto incluído",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Sa1C",
+    "Debit": "",
+    "Credit": "Vendas e serviços prestados"
+  },
+  {
+    "TaxonomyCode": "272",
+    "SNCSVAT": "728",
+    "Description": "Prestações de serviços - Descontos e abatimentos",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Da",
+    "Debit": "",
+    "Credit": "Vendas e serviços prestados"
+  },
+  {
+    "TaxonomyCode": "273",
+    "SNCSVAT": "731",
+    "Description": "Variações nos inventários da produção - Produtos acabados e intermédios",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Sa1C",
+    "Debit": "",
+    "Credit": "Variação nos inventários da produção"
+  },
+  {
+    "TaxonomyCode": "274",
+    "SNCSVAT": "732",
+    "Description": "Variações nos inventários da produção - Subprodutos, desperdícios, resíduos e refugos",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Sa1C",
+    "Debit": "",
+    "Credit": "Variação nos inventários da produção"
+  },
+  {
+    "TaxonomyCode": "275",
+    "SNCSVAT": "733",
+    "Description": "Variações nos inventários da produção - Produtos e trabalhos em curso",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Sa1C",
+    "Debit": "",
+    "Credit": "Variação nos inventários da produção"
+  },
+  {
+    "TaxonomyCode": "276",
+    "SNCSVAT": "741",
+    "Description": "Trabalhos para a própria entidade - Ativos fixos tangíveis",
+    "Observations": "(A) Incluir contas 745|746|747|748|749",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Trabalhos para a própria entidade"
+  },
+  {
+    "TaxonomyCode": "277",
+    "SNCSVAT": "742",
+    "Description": "Trabalhos para a própria entidade - Ativos intangíveis",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Trabalhos para a própria entidade"
+  },
+  {
+    "TaxonomyCode": "278",
+    "SNCSVAT": "744",
+    "Description": "Trabalhos para a própria entidade - Ativos por gastos diferidos",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Trabalhos para a própria entidade"
+  },
+  {
+    "TaxonomyCode": "279",
+    "SNCSVAT": "751",
+    "Description": "Subsídios à exploração - Subsídios das entidades públicas",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Subsídios à exploração"
+  },
+  {
+    "TaxonomyCode": "280",
+    "SNCSVAT": "752",
+    "Description": "Subsídios à exploração - Subsídios de outras entidades",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Subsídios à exploração"
+  },
+  {
+    "TaxonomyCode": "281",
+    "SNCSVAT": "7612",
+    "Description": "Reversões - De depreciações e de amortizações - Ativos fixos tangíveis - Terrenos e recursos naturais",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "282",
+    "SNCSVAT": "7612",
+    "Description": "Reversões - De depreciações e de amortizações - Ativos fixos tangíveis - Edifícios e outras construções",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "283",
+    "SNCSVAT": "7612",
+    "Description": "Reversões - De depreciações e de amortizações - Ativos fixos tangíveis - Equipamento básico",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "284",
+    "SNCSVAT": "7612",
+    "Description": "Reversões - De depreciações e de amortizações - Ativos fixos tangíveis - Equipamento de transporte",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "285",
+    "SNCSVAT": "7612",
+    "Description": "Reversões - De depreciações e de amortizações - Ativos fixos tangíveis - Equipamento administrativo",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "286",
+    "SNCSVAT": "7612",
+    "Description": "Reversões - De depreciações e de amortizações - Ativos fixos tangíveis - Equipamentos biológicos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "287",
+    "SNCSVAT": "7612",
+    "Description": "Reversões - De depreciações e de amortizações - Ativos fixos tangíveis - Outros ativos fixos tangíveis",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "288",
+    "SNCSVAT": "7613",
+    "Description": "Reversões - De depreciações e de amortizações - Ativos intangíveis - Goodwill",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "289",
+    "SNCSVAT": "7613",
+    "Description": "Reversões - De depreciações e de amortizações - Ativos intangíveis - Projetos de desenvolvimento",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "290",
+    "SNCSVAT": "7613",
+    "Description": "Reversões - De depreciações e de amortizações - Ativos intangíveis - Programas de computador",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "291",
+    "SNCSVAT": "7613",
+    "Description": "Reversões - De depreciações e de amortizações - Ativos intangíveis - Propriedade industrial",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "292",
+    "SNCSVAT": "7613",
+    "Description": "Reversões - De depreciações e de amortizações - Ativos intangíveis - Outros ativos intangíveis",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Gastos / reversões de depreciação e de amortização",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "293",
+    "SNCSVAT": "76211",
+    "Description": "Reversões - De perdas por imparidade - Em dívidas a receber - Clientes",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "294",
+    "SNCSVAT": "76212",
+    "Description": "Reversões - De perdas por imparidade - Em dívidas a receber - Outros devedores",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "295",
+    "SNCSVAT": "7622",
+    "Description": "Reversões - De perdas por imparidade - Em inventários - Mercadorias",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "296",
+    "SNCSVAT": "7622",
+    "Description": "Reversões - De perdas por imparidade - Em inventários - Matérias -primas, subsidiárias e de consumo",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "297",
+    "SNCSVAT": "7622",
+    "Description": "Reversões - De perdas por imparidade - Em inventários - Produtos acabados e intermédios",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "298",
+    "SNCSVAT": "7622",
+    "Description": "Reversões - De perdas por imparidade - Em inventários - Subprodutos, desperdícios, resíduos e refugos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "299",
+    "SNCSVAT": "7622",
+    "Description": "Reversões - De perdas por imparidade - Em inventários - Produtos e trabalhos em curso",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "300",
+    "SNCSVAT": "7623",
+    "Description": "Reversões - De perdas por imparidade - Em investimentos financeiros - Participações de capital",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "301",
+    "SNCSVAT": "7623",
+    "Description": "Reversões - De perdas por imparidade - Em investimentos financeiros - Empréstimos concedidos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "302",
+    "SNCSVAT": "7623",
+    "Description": "Reversões - De perdas por imparidade - Em investimentos financeiros - Outros investimentos financeiros",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Imparidades (Perdas/Reversões)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "303",
+    "SNCSVAT": "7631",
+    "Description": "Reversões - De provisões - Impostos",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Provisões (aumentos/reduções)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "304",
+    "SNCSVAT": "7632",
+    "Description": "Reversões - De provisões - Garantias a clientes",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Provisões (aumentos/reduções)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "305",
+    "SNCSVAT": "7633",
+    "Description": "Reversões - De provisões - Processos judiciais em curso",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Provisões (aumentos/reduções)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "306",
+    "SNCSVAT": "7634",
+    "Description": "Reversões - De provisões - Acidentes no trabalho e doenças profissionais",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Ca",
+    "Debit": "Provisões (aumentos/reduções)",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "307",
+    "SNCSVAT": "781",
+    "Description": "Outros rendimentos - Rendimentos suplementares",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "308",
+    "SNCSVAT": "782",
+    "Description": "Outros rendimentos - Descontos de pronto pagamento obtidos",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "309",
+    "SNCSVAT": "783",
+    "Description": "Outros rendimentos - Recuperação de dívidas a receber",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "310",
+    "SNCSVAT": "7841",
+    "Description": "Outros rendimentos - Ganhos em inventários - Sinistros",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "311",
+    "SNCSVAT": "7842",
+    "Description": "Outros rendimentos - Ganhos em inventários - Sobras",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "312",
+    "SNCSVAT": "7848",
+    "Description": "Outros rendimentos - Ganhos em inventários - Outros ganhos",
+    "Observations": "Incluir contas 7843|7844|7845|7846|7847",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "313",
+    "SNCSVAT": "7861",
+    "Description": "Outros rendimentos - Rendimentos nos restantes ativos financeiros - Diferenças de câmbio favoráveis",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "314",
+    "SNCSVAT": "7862",
+    "Description": "Outros rendimentos - Rendimentos nos restantes ativos financeiros - Alienações",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "315",
+    "SNCSVAT": "7868",
+    "Description": "Outros rendimentos - Rendimentos nos restantes ativos financeiros - Outros rendimentos",
+    "Observations": "Incluir contas 7863|7864|7865|7866|7867",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "316",
+    "SNCSVAT": "7871",
+    "Description": "Outros rendimentos - Rendimentos em investimentos não financeiros - Alienações",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "317",
+    "SNCSVAT": "7872",
+    "Description": "Outros rendimentos - Rendimentos em investimentos não financeiros - Sinistros",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "318",
+    "SNCSVAT": "7878",
+    "Description": "Outros rendimentos - Rendimentos em investimentos não financeiros - Outros rendimentos",
+    "Observations": "Incluir contas 7874|7875|7876|7877",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "319",
+    "SNCSVAT": "7881",
+    "Description": "Outros rendimentos - Outros - Correções relativas a períodos anteriores",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "320",
+    "SNCSVAT": "7882",
+    "Description": "Outros rendimentos - Outros - Excesso da estimativa para impostos",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "321",
+    "SNCSVAT": "7883",
+    "Description": "Outros rendimentos - Outros - Imputação de subsídios para investimentos",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "322",
+    "SNCSVAT": "7885",
+    "Description": "Outros rendimentos - Outros - Restituição de impostos",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "323",
+    "SNCSVAT": "7887",
+    "Description": "Outros rendimentos - Outros - Diferenças de câmbio favoráveis",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "324",
+    "SNCSVAT": "7888",
+    "Description": "Outros rendimentos - Outros - Outros não especificados",
+    "Observations": "Incluir conta 7886",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "325",
+    "SNCSVAT": "7911",
+    "Description": "Juros, dividendos e outros rendimentos similares - Juros obtidos - De depósitos",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "326",
+    "SNCSVAT": "7915",
+    "Description": "Juros, dividendos e outros rendimentos similares - Juros obtidos - De financiamentos obtidos",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Juros e rendimentos similares obtidos"
+  },
+  {
+    "TaxonomyCode": "327",
+    "SNCSVAT": "7918",
+    "Description": "Juros, dividendos e outros rendimentos similares - Juros obtidos - Outros",
+    "Observations": "Incluir contas 7916|7917",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "328",
+    "SNCSVAT": "792",
+    "Description": "Juros, dividendos e outros rendimentos similares - Dividendos obtidos",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "329",
+    "SNCSVAT": "793",
+    "Description": "Juros, dividendos e outros rendimentos similares - Diferenças de câmbio favoráveis",
+    "Observations": "",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Juros e rendimentos similares obtidos"
+  },
+  {
+    "TaxonomyCode": "330",
+    "SNCSVAT": "798",
+    "Description": "Juros, dividendos e outros rendimentos similares - Outros rendimentos similares",
+    "Observations": "Incluir contas 794|795|796|797",
+    "Classe": "RG",
+    "ExpectedBalance": "Ca",
+    "Debit": "",
+    "Credit": "Outros rendimentos"
+  },
+  {
+    "TaxonomyCode": "331",
+    "SNCSVAT": "811",
+    "Description": "Resultado líquido do período - Resultado antes de impostos",
+    "Observations": "(A) Incluir contas 8123|8124|8125|8126| 8127|8128|8129|813| 814|815|816|817|819| 82|83|84|85|86|87|88",
+    "Classe": "RG",
+    "ExpectedBalance": "Sa1C",
+    "Debit": "",
+    "Credit": "Resultado antes de impostos"
+  },
+  {
+    "TaxonomyCode": "332",
+    "SNCSVAT": "8121",
+    "Description": "Resultado líquido do período - Imposto sobre o rendimento do período - Imposto estimado para o período",
+    "Observations": "",
+    "Classe": "GR",
+    "ExpectedBalance": "Da",
+    "Debit": "Imposto sobre o rendimento do período",
+    "Credit": ""
+  },
+  {
+    "TaxonomyCode": "333",
+    "SNCSVAT": "818",
+    "Description": "Resultado líquido do período - Resultado líquido",
+    "Observations": "",
+    "Classe": "C",
+    "ExpectedBalance": "S1C",
+    "Debit": "",
+    "Credit": "Resultado líquido do período (demonstração e balanço)"
+  },
+  {
+    "TaxonomyCode": "334",
+    "SNCSVAT": "89",
+    "Description": "Dividendos antecipados",
+    "Observations": "",
+    "Classe": "C",
+    "ExpectedBalance": "D",
+    "Debit": "",
+    "Credit": "Dividendos antecipados"
+  }
+]
