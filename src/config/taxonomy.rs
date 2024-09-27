@@ -42,6 +42,7 @@ lazy_static! {
             debits.entry(taxonomy.debit.clone()).or_insert_with(Vec::new).push(taxonomy);
         }
         println!("BASE JSON populate time: {:?}", start_populate.elapsed());
+        println!("BASE JSON total time: {:?}", start.elapsed());
 
         Taxonomies { credits, debits }
     };
@@ -77,6 +78,7 @@ lazy_static! {
             debits.entry(taxonomy.debit.clone()).or_insert_with(Vec::new).push(taxonomy);
         }
         println!("MICRO JSON populate time: {:?}", start_populate.elapsed());
+        println!("BASE JSON total time: {:?}", start.elapsed());
 
         Taxonomies { credits, debits }
     };

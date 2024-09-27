@@ -21,7 +21,6 @@ pub async fn get_sales(state: State<ApiContext>) -> impl IntoResponse {
         .filter_map(|t| t.taxonomy_code.parse::<i32>().ok()) // Parse to i32 and filter out any errors
         .collect();
 
-    
     let query_start = Instant::now();
     let accounts = sqlx::query_as!(
         Account,
