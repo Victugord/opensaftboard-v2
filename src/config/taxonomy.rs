@@ -1,93 +1,75 @@
 use std::collections::HashMap;
-
-use lazy_static::lazy_static;
+use std::sync::OnceLock;
+use log::debug;
 use serde::{Deserialize, Serialize};
 use tokio::time::Instant;
 
 type TaxonomyHashMap = HashMap<String, Vec<Taxonomy>>;
 
-#[derive( Debug, Clone, PartialEq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
 pub struct Taxonomies {
     credits: TaxonomyHashMap,
     debits: TaxonomyHashMap,
+    classes: TaxonomyHashMap,
 }
 
-lazy_static! {
-    static ref BASE_TAXONOMIES: Taxonomies = {
-        let start = Instant::now();
+static BASE_TAXONOMIES: OnceLock<Taxonomies> = OnceLock::new();
+static MICRO_TAXONOMIES: OnceLock<Taxonomies> = OnceLock::new();
 
-        // Load the JSON file for credits and debits at compile time
-        let json_str = include_str!("base.json");
-        println!("BASE JSON loading time: {:?}", start.elapsed());
+static BASE_DATA: &str = include_str!("base.json");
+static MICRO_DATA: &str = include_str!("micro.json");
 
-        let start_parse = Instant::now();
-        let mut data: Vec<Taxonomy> = serde_json::from_str(json_str).expect("BASE JSON was not well-formatted");
-        println!("BASE JSON parse time: {:?}", start_parse.elapsed());
+// Optimized JSON loading function
+fn load_taxonomies(json_file: &str) -> Taxonomies {
+    let start = Instant::now();
 
-        let start_lower = Instant::now();
-        // lower case all the debit and credit values
-        data.iter_mut().for_each(|t| {
-            t.debit = t.debit.to_lowercase();
-            t.credit = t.credit.to_lowercase();
-        });
-        println!("BASE JSON lower time: {:?}", start_lower.elapsed());
-
-        let mut credits = HashMap::new();
-        let mut debits = HashMap::new();
-
-        let start_populate = Instant::now();
-        // Populate the HashMaps
-        for taxonomy in data {
-            credits.entry(taxonomy.credit.clone()).or_insert_with(Vec::new).push(taxonomy.clone());
-            debits.entry(taxonomy.debit.clone()).or_insert_with(Vec::new).push(taxonomy);
-        }
-        println!("BASE JSON populate time: {:?}", start_populate.elapsed());
-        println!("BASE JSON total time: {:?}", start.elapsed());
-
-        Taxonomies { credits, debits }
+    // Use a more efficient match and avoid checking the file type repeatedly.
+    let json_str = match json_file {
+        "base.json" => BASE_DATA,
+        "micro.json" => MICRO_DATA,
+        _ => panic!("Invalid JSON file"),
     };
+
+    debug!("{} JSON loading time: {:?}", json_file, start.elapsed());
+
+    // Parse JSON into a vector of Taxonomy structs
+    let data: Vec<Taxonomy> = serde_json::from_str(json_str).expect("JSON was not well-formatted");
+
+    let mut credits = HashMap::with_capacity(data.len());
+    let mut debits = HashMap::with_capacity(data.len());
+    let mut classes = HashMap::with_capacity(data.len());
+
+    // Combine the lowercase conversion and population in a single pass.
+    for mut taxonomy in data {
+        taxonomy.debit = taxonomy.debit.trim().to_lowercase();
+        taxonomy.credit = taxonomy.credit.trim().to_lowercase();
+        taxonomy.class = taxonomy.class.trim().to_lowercase();
+
+        credits.entry(taxonomy.credit.clone()).or_insert_with(Vec::new).push(taxonomy.clone());
+        debits.entry(taxonomy.debit.clone()).or_insert_with(Vec::new).push(taxonomy.clone());
+        classes.entry(taxonomy.class.clone()).or_insert_with(Vec::new).push(taxonomy);
+    }
+
+    debug!("{} JSON total time: {:?}", json_file, start.elapsed());
+
+
+    Taxonomies { credits, debits, classes }
 }
 
-lazy_static! {
-    static ref MICRO_TAXONOMIES: Taxonomies = {
-        let start = Instant::now();
+// Load base taxonomies once and reuse.
+fn get_base_taxonomies() -> &'static Taxonomies {
+    BASE_TAXONOMIES.get_or_init(|| load_taxonomies("base.json"))
+}
 
-        // Load the JSON file for credits and debits at compile time
-        let json_str = include_str!("micro.json");
-        println!("MICRO JSON loading time: {:?}", start.elapsed());
-
-        let start_parse = Instant::now();
-        let mut data: Vec<Taxonomy> = serde_json::from_str(json_str).expect("MICRO JSON was not well-formatted");
-        println!("MICRO JSON parse time: {:?}", start_parse.elapsed());
-
-        let start_lower = Instant::now();
-        // lower case all the debit and credit values
-        data.iter_mut().for_each(|t| {
-            t.debit = t.debit.to_lowercase();
-            t.credit = t.credit.to_lowercase();
-        });
-        println!("MICRO JSON lower time: {:?}", start_lower.elapsed());
-
-        let mut credits = HashMap::new();
-        let mut debits = HashMap::new();
-
-        let start_populate = Instant::now();
-        // Populate the HashMaps
-        for taxonomy in data {
-            credits.entry(taxonomy.credit.clone()).or_insert_with(Vec::new).push(taxonomy.clone());
-            debits.entry(taxonomy.debit.clone()).or_insert_with(Vec::new).push(taxonomy);
-        }
-        println!("MICRO JSON populate time: {:?}", start_populate.elapsed());
-        println!("BASE JSON total time: {:?}", start.elapsed());
-
-        Taxonomies { credits, debits }
-    };
+// Load micro taxonomies once and reuse.
+fn get_micro_taxonomies() -> &'static Taxonomies {
+    MICRO_TAXONOMIES.get_or_init(|| load_taxonomies("micro.json"))
 }
 
 #[derive(Default, Debug, Clone, PartialEq, Serialize, Deserialize)]
 #[serde(rename_all = "PascalCase")]
 pub struct Taxonomy {
-    pub taxonomy_code: String,
+    pub taxonomy_code: u32,
     #[serde(rename = "SNCSVAT")]
     pub sncsvat: String,
     #[serde(rename = "Classe")]
@@ -101,27 +83,98 @@ pub enum TaxonomyType {
     Micro,
 }
 
-
 impl Taxonomies {
+    // Factory method to get taxonomies by type.
     pub fn new(taxonomy_type: TaxonomyType) -> &'static Taxonomies {
         match taxonomy_type {
-            TaxonomyType::Base => &BASE_TAXONOMIES,
-            TaxonomyType::Micro => &MICRO_TAXONOMIES,
+            TaxonomyType::Base => get_base_taxonomies(),
+            TaxonomyType::Micro => get_micro_taxonomies(),
         }
     }
 
-    pub fn get_by_dr(&self, dr: &str) -> Vec<Taxonomy> {
-        let start = Instant::now();
-        let lowered_dr = dr.to_lowercase();
+    // Retrieve taxonomies based on a provided string (`dr`).
+    pub fn get_by_dr(&self, dr: &str,class:Option<&str>) -> Vec<&Taxonomy> {
+        let start = Instant::now(); // Start a timer to measure execution time.
 
-        let credits = self.credits.get(&lowered_dr).unwrap_or(&vec![]).clone();
-        let debits = self.debits.get(&lowered_dr).unwrap_or(&vec![]).clone();
+        let mut taxonomies: Vec<&Taxonomy> = self.credits
+            .get(&dr.trim().to_lowercase())
+            .into_iter()
+            .chain(self.debits.get(&dr.trim().to_lowercase()))
+            .flatten()
+            .collect();
 
+        // Filter by class if provided
+        if let Some(class) = class {
+            taxonomies.retain(|t| t.class == class.trim().to_lowercase());
+        }
 
-        let taxonomies = credits.into_iter().chain(debits.into_iter()).collect();
-        println!("get_by_dr: {:?}", start.elapsed());
+        debug!("get_by_dr: {:?}", start.elapsed());
+
         taxonomies
+    }
+
+    pub fn get_credits_by_dr(&self, dr: &str, class:Option<&str>) -> Option<Vec<&Taxonomy>> {
+
+        let start = Instant::now();
+
+        let key = dr.trim().to_lowercase();
 
 
+        let taxonomies: Vec<&Taxonomy> = self.credits
+            .get(&key)
+            .into_iter()
+            .flat_map(|v| v.iter())
+            .filter(|t| class.map_or(true, |c| t.class == c.trim().to_lowercase()))
+            .collect();
+        debug!("get_credits_by_dr: {:?}", start.elapsed());
+
+        if taxonomies.is_empty() {
+            None
+        } else {
+            Some(taxonomies)
+        }
+    }
+
+    pub fn get_debits_by_dr(&self, dr: &str, class:Option<&str>) -> Option<Vec<&Taxonomy>> {
+
+        let start = Instant::now();
+
+        let key = dr.trim().to_lowercase();
+
+
+        let taxonomies: Vec<&Taxonomy> = self.debits
+            .get(&key)
+            .into_iter()
+            .flat_map(|v| v.iter())
+            .filter(|t| class.map_or(true, |c| t.class == c.trim().to_lowercase()))
+            .collect();
+
+        debug!("get_debits_by_dr: {:?}", start.elapsed());
+        if taxonomies.is_empty() {
+            None
+        } else {
+            Some(taxonomies)
+        }
+
+    }
+
+    pub fn get_by_class(&self, class: &str) -> Option<Vec<&Taxonomy>> {
+        #[cfg(any(debug_assertions, feature = "logging"))]
+        let start = Instant::now();
+
+        let taxonomies: Vec<&Taxonomy> = self.classes
+            .get(&class.trim().to_lowercase())
+            .into_iter()
+            .flatten()
+            .collect();
+
+        #[cfg(any(debug_assertions, feature = "logging"))]
+        println!("get_by_class: {:?}", start.elapsed());
+
+        if taxonomies.is_empty() {
+            None
+        } else {
+            Some(taxonomies)
+        }
     }
 }

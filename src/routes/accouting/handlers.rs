@@ -1,37 +1,73 @@
 use crate::config::{Taxonomies, TaxonomyType};
-use crate::support::ApiContext;
+use crate::support::ApiState;
 use axum::extract::State;
 use axum::response::IntoResponse;
 use axum::Json;
+use chrono::{DateTime, Utc};
 use serde_json::json;
+use sqlx::query_as;
 use tokio::time::Instant;
+use tracing::debug;
+use crate::middleware::mw_auth::CtxW;
 
 #[derive(serde::Serialize)]
 struct Account {
     id: i64,
 }
 
-pub async fn get_sales(state: State<ApiContext>) -> impl IntoResponse {
+#[derive(serde::Serialize)]
+struct Tax {
+    pub id: i32,
+    pub hash: String,
+}
+
+#[derive(Debug,serde::Serialize)]
+pub struct GleLine {
+    pub id: i64,                          // bigint in SQL -> i64 in Rust
+    pub account_id: String,               // text in SQL -> String in Rust
+    pub description: String,              // text in SQL -> String in Rust
+    pub transaction_type: String,         // text in SQL -> String in Rust
+    pub ammount: f64,                     // double precision -> f64
+    pub mov_type: String,                    // text in SQL -> String in Rust
+    pub year: i32,                        // integer in SQL -> i32 in Rust
+    pub month: i32,                       // integer in SQL -> i32 in Rust (default: 0)
+    pub period: i32,                      // integer in SQL -> i32 in Rust (default: 0)
+}
+
+
+pub async fn get_sales(state: State<ApiState>,ctx: CtxW) -> impl IntoResponse {
+
     let m_taxonomies = Taxonomies::new(TaxonomyType::Micro);
 
-    let sales_taxonomies = m_taxonomies.get_by_dr("Vendas e serviços prestados");
+    let sales_taxonomies = m_taxonomies.get_debits_by_dr("Clientes",None);
+    let start = Instant::now();
+    let lines = sqlx::query_as!(GleLine, "
+            SELECT id,
+                   account_id,
+                   description,
+                   transaction_type,
+                   ammount,
+                   type as mov_type,
+                   year,
+                   month,
+                   period
+            FROM gle_lines WHERE consumer_id = 177 AND transaction_type = $1 ", "A")
+        .fetch_all(&state.db).await;
 
-    let sales_codes: Vec<i32> = sales_taxonomies
-        .into_iter()
-        .filter_map(|t| t.taxonomy_code.parse::<i32>().ok()) // Parse to i32 and filter out any errors
-        .collect();
+    let end = Instant::now();
+    let elapsed = (end - start).as_micros();
+    debug!("{:<12} - get_sales - {end:?}", "ROUTE");
+    debug!("{:<12} - get_sales - {start:?}", "ROUTE");
+    debug!("{:<12} - get_sales - {elapsed:?}", "ROUTE");
 
-    let query_start = Instant::now();
-    let accounts = sqlx::query_as!(
-        Account,
-        "SELECT id FROM gla_accounts WHERE taxonomy_code = ANY($1) and year = 2024",
-        sales_codes.as_slice()
-    )
-    .fetch_all(&state.db)
-    .await
-    .unwrap();
+    let valid_lines = match lines {
+        Ok(lines) => lines,
+        Err(e) => {
+            debug!("{:<12} - get_sales - {e:?}", "ERROR");
+            return Json(json!({"error":e.to_string()}))
+        }
+    };
 
-    println!("get_sales: {:?}", query_start.elapsed());
-
-    Json(json!({"env":accounts}))
+    debug!("{:<12} - get_sales - {ctx:?}", "ROUTE");
+    Json(json!(valid_lines))
 }

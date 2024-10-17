@@ -3,11 +3,11 @@ use sqlx::PgPool;
 use crate::config::AppEnv;
 
 #[derive(Clone)]
-pub struct ApiContext {
+pub struct ApiState {
     pub config: Arc<AppEnv>,
     pub db: PgPool,
 }
-impl ApiContext {
+impl ApiState {
     pub fn new(db:PgPool, config:AppEnv) -> Self{
         Self{
             db,

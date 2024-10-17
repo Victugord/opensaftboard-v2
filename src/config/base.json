@@ -1,6 +1,6 @@
 [
  {
-   "TaxonomyCode": "1",
+   "TaxonomyCode":1,
    "SNCSVAT": "11",
    "Description": "Caixa",
    "Observations": "",
@@ -10,7 +10,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "2",
+   "TaxonomyCode":2,
    "SNCSVAT": "12",
    "Description": "Depósitos à ordem",
    "Observations": "",
@@ -20,7 +20,7 @@
    "Credit": "Financiamentos Obtidos"
  },
  {
-   "TaxonomyCode": "3",
+   "TaxonomyCode":3,
    "SNCSVAT": "13",
    "Description": "Outros depósitos bancários",
    "Observations": "",
@@ -30,7 +30,7 @@
    "Credit": "Financiamentos Obtidos"
  },
  {
-   "TaxonomyCode": "4",
+   "TaxonomyCode":4,
    "SNCSVAT": "1411",
    "Description": "Outros instrumentos financeiros - Derivados - Potencialmente favoráveis",
    "Observations": "",
@@ -40,7 +40,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "5",
+   "TaxonomyCode":5,
    "SNCSVAT": "1412",
    "Description": "Outros instrumentos financeiros - Derivados - Potencialmente desfavoráveis",
    "Observations": "",
@@ -50,7 +50,7 @@
    "Credit": "Passivos financeiros detidos para negociação"
  },
  {
-   "TaxonomyCode": "6",
+   "TaxonomyCode":6,
    "SNCSVAT": "1421",
    "Description": "Outros instrumentos financeiros - Instrumentos financeiros detidos para negociação - Ativos financeiros",
    "Observations": "",
@@ -60,7 +60,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "7",
+   "TaxonomyCode":7,
    "SNCSVAT": "1422",
    "Description": "Outros instrumentos financeiros - Instrumentos financeiros detidos para negociação - Passivos financeiros",
    "Observations": "",
@@ -70,7 +70,7 @@
    "Credit": "Passivos financeiros detidos para negociação"
  },
  {
-   "TaxonomyCode": "8",
+   "TaxonomyCode":8,
    "SNCSVAT": "1431",
    "Description": "Outros instrumentos financeiros - Outros ativos e passivos financeiros - Outros ativos financeiros",
    "Observations": "",
@@ -80,7 +80,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "9",
+   "TaxonomyCode":9,
    "SNCSVAT": "1432",
    "Description": "Outros instrumentos financeiros - Outros ativos e passivos financeiros - Outros passivos financeiros",
    "Observations": "",
@@ -90,7 +90,7 @@
    "Credit": "Outros passivos financeiros"
  },
  {
-   "TaxonomyCode": "10",
+   "TaxonomyCode":10,
    "SNCSVAT": "2111",
    "Description": "Clientes - Clientes c/c - Clientes gerais",
    "Observations": "Incluir contas 2117|2118|2119",
@@ -100,7 +100,7 @@
    "Credit": "Clientes"
  },
  {
-   "TaxonomyCode": "11",
+   "TaxonomyCode":11,
    "SNCSVAT": "2112",
    "Description": "Clientes - Clientes c/c - Clientes — empresa -mãe",
    "Observations": "",
@@ -110,7 +110,7 @@
    "Credit": "Clientes"
  },
  {
-   "TaxonomyCode": "12",
+   "TaxonomyCode":12,
    "SNCSVAT": "2113",
    "Description": "Clientes - Clientes c/c - Clientes — empresas subsidiárias",
    "Observations": "",
@@ -120,7 +120,7 @@
    "Credit": "Clientes"
  },
  {
-   "TaxonomyCode": "13",
+   "TaxonomyCode":13,
    "SNCSVAT": "2114",
    "Description": "Clientes - Clientes c/c - Clientes — empresas associadas",
    "Observations": "",
@@ -130,7 +130,7 @@
    "Credit": "Clientes"
  },
  {
-   "TaxonomyCode": "14",
+   "TaxonomyCode":14,
    "SNCSVAT": "2115",
    "Description": "Clientes - Clientes c/c - Clientes — empreendimentos conjuntos",
    "Observations": "",
@@ -140,7 +140,7 @@
    "Credit": "Clientes"
  },
  {
-   "TaxonomyCode": "15",
+   "TaxonomyCode":15,
    "SNCSVAT": "2116",
    "Description": "Clientes - Clientes c/c - Clientes — outras partes relacionadas",
    "Observations": "",
@@ -150,7 +150,7 @@
    "Credit": "Clientes"
  },
  {
-   "TaxonomyCode": "16",
+   "TaxonomyCode":16,
    "SNCSVAT": "2121",
    "Description": "Clientes - Clientes — títulos a receber - Clientes gerais",
    "Observations": "Incluir contas 2127|2128|2129",
@@ -160,7 +160,7 @@
    "Credit": "Adiantamentos de clientes"
  },
  {
-   "TaxonomyCode": "17",
+   "TaxonomyCode":17,
    "SNCSVAT": "2122",
    "Description": "Clientes - Clientes — títulos a receber - Clientes — empresa -mãe",
    "Observations": "",
@@ -170,7 +170,7 @@
    "Credit": "Adiantamentos de clientes"
  },
  {
-   "TaxonomyCode": "18",
+   "TaxonomyCode":18,
    "SNCSVAT": "2123",
    "Description": "Clientes - Clientes — títulos a receber - Clientes — empresas subsidiárias",
    "Observations": "",
@@ -180,7 +180,7 @@
    "Credit": "Adiantamentos de clientes"
  },
  {
-   "TaxonomyCode": "19",
+   "TaxonomyCode":19,
    "SNCSVAT": "2124",
    "Description": "Clientes - Clientes — títulos a receber - Clientes — empresas associadas",
    "Observations": "",
@@ -190,7 +190,7 @@
    "Credit": "Adiantamentos de clientes"
  },
  {
-   "TaxonomyCode": "20",
+   "TaxonomyCode":20,
    "SNCSVAT": "2125",
    "Description": "Clientes - Clientes — títulos a receber - Clientes — empreendimentos conjuntos",
    "Observations": "",
@@ -200,7 +200,7 @@
    "Credit": "Adiantamentos de clientes"
  },
  {
-   "TaxonomyCode": "21",
+   "TaxonomyCode":21,
    "SNCSVAT": "2126",
    "Description": "Clientes - Clientes — títulos a receber - Clientes — outras partes relacionadas",
    "Observations": "",
@@ -210,7 +210,7 @@
    "Credit": "Adiantamentos de clientes"
  },
  {
-   "TaxonomyCode": "22",
+   "TaxonomyCode":22,
    "SNCSVAT": "213|214|215|216|217",
    "Description": "Clientes - Outros Clientes",
    "Observations": "",
@@ -220,7 +220,7 @@
    "Credit": "Adiantamentos de clientes"
  },
  {
-   "TaxonomyCode": "23",
+   "TaxonomyCode":23,
    "SNCSVAT": "218",
    "Description": "Clientes - Adiantamentos de clientes",
    "Observations": "",
@@ -230,7 +230,7 @@
    "Credit": "Adiantamentos de clientes"
  },
  {
-   "TaxonomyCode": "24",
+   "TaxonomyCode":24,
    "SNCSVAT": "219",
    "Description": "Clientes - Perdas por imparidade acumuladas - Clientes c/c - Clientes gerais",
    "Observations": "",
@@ -240,7 +240,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "25",
+   "TaxonomyCode":25,
    "SNCSVAT": "219",
    "Description": "Clientes - Perdas por imparidade acumuladas - Clientes c/c - Clientes — empresa -mãe",
    "Observations": "",
@@ -250,7 +250,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "26",
+   "TaxonomyCode":26,
    "SNCSVAT": "219",
    "Description": "Clientes - Perdas por imparidade acumuladas - Clientes c/c - Clientes — empresas subsidiárias",
    "Observations": "",
@@ -260,7 +260,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "27",
+   "TaxonomyCode":27,
    "SNCSVAT": "219",
    "Description": "Clientes - Perdas por imparidade acumuladas - Clientes c/c - Clientes — empresas associadas",
    "Observations": "",
@@ -270,7 +270,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "28",
+   "TaxonomyCode":28,
    "SNCSVAT": "219",
    "Description": "Clientes - Perdas por imparidade acumuladas - Clientes c/c - Clientes — empreendimentos conjuntos",
    "Observations": "",
@@ -280,7 +280,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "29",
+   "TaxonomyCode":29,
    "SNCSVAT": "219",
    "Description": "Clientes - Perdas por imparidade acumuladas - Clientes c/c - Clientes — outras partes relacionadas",
    "Observations": "",
@@ -290,7 +290,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "30",
+   "TaxonomyCode":30,
    "SNCSVAT": "219",
    "Description": "Clientes - Perdas por imparidade acumuladas - Clientes — títulos a receber - Clientes gerais",
    "Observations": "",
@@ -300,7 +300,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "31",
+   "TaxonomyCode":31,
    "SNCSVAT": "219",
    "Description": "Clientes - Perdas por imparidade acumuladas - Clientes — títulos a receber - Clientes — empresa -mãe",
    "Observations": "",
@@ -310,7 +310,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "32",
+   "TaxonomyCode":32,
    "SNCSVAT": "219",
    "Description": "Clientes - Perdas por imparidade acumuladas - Clientes — títulos a receber - Clientes — empresas subsidiárias",
    "Observations": "",
@@ -320,7 +320,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "33",
+   "TaxonomyCode":33,
    "SNCSVAT": "219",
    "Description": "Clientes - Perdas por imparidade acumuladas - Clientes — títulos a receber - Clientes — empresas associadas",
    "Observations": "",
@@ -330,7 +330,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "34",
+   "TaxonomyCode":34,
    "SNCSVAT": "219",
    "Description": "Clientes - Perdas por imparidade acumuladas - Clientes — títulos a receber - Clientes — empreendimentos conjuntos",
    "Observations": "",
@@ -340,7 +340,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "35",
+   "TaxonomyCode":35,
    "SNCSVAT": "219",
    "Description": "Clientes - Perdas por imparidade acumuladas - Clientes — títulos a receber - Clientes — outras partes relacionadas",
    "Observations": "",
@@ -350,7 +350,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "36",
+   "TaxonomyCode":36,
    "SNCSVAT": "219",
    "Description": "Clientes - Perdas por imparidade acumuladas - Outros Clientes",
    "Observations": "",
@@ -360,7 +360,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "37",
+   "TaxonomyCode":37,
    "SNCSVAT": "2211",
    "Description": "Fornecedores - Fornecedores c/c - Fornecedores gerais",
    "Observations": "Incluir contas 2217|2218|2219",
@@ -370,7 +370,7 @@
    "Credit": "Fornecedores"
  },
  {
-   "TaxonomyCode": "38",
+   "TaxonomyCode":38,
    "SNCSVAT": "2212",
    "Description": "Fornecedores - Fornecedores c/c - Fornecedores — empresa -mãe",
    "Observations": "",
@@ -380,7 +380,7 @@
    "Credit": "Fornecedores"
  },
  {
-   "TaxonomyCode": "39",
+   "TaxonomyCode":39,
    "SNCSVAT": "2213",
    "Description": "Fornecedores - Fornecedores c/c - Fornecedores — empresas subsidiárias",
    "Observations": "",
@@ -390,7 +390,7 @@
    "Credit": "Fornecedores"
  },
  {
-   "TaxonomyCode": "40",
+   "TaxonomyCode":40,
    "SNCSVAT": "2214",
    "Description": "Fornecedores - Fornecedores c/c - Fornecedores — empresas associadas",
    "Observations": "",
@@ -400,7 +400,7 @@
    "Credit": "Fornecedores"
  },
  {
-   "TaxonomyCode": "41",
+   "TaxonomyCode":41,
    "SNCSVAT": "2215",
    "Description": "Fornecedores - Fornecedores c/c - Fornecedores — empreendimentos conjuntos",
    "Observations": "",
@@ -410,7 +410,7 @@
    "Credit": "Fornecedores"
  },
  {
-   "TaxonomyCode": "42",
+   "TaxonomyCode":42,
    "SNCSVAT": "2216",
    "Description": "Fornecedores - Fornecedores c/c - Fornecedores — outras partes relacionadas",
    "Observations": "",
@@ -420,7 +420,7 @@
    "Credit": "Fornecedores"
  },
  {
-   "TaxonomyCode": "43",
+   "TaxonomyCode":43,
    "SNCSVAT": "2221",
    "Description": "Fornecedores - Fornecedores — títulos a pagar - Fornecedores gerais",
    "Observations": "Incluir contas 2227|2228|2229",
@@ -430,7 +430,7 @@
    "Credit": "Fornecedores"
  },
  {
-   "TaxonomyCode": "44",
+   "TaxonomyCode":44,
    "SNCSVAT": "2222",
    "Description": "Fornecedores - Fornecedores — títulos a pagar - Fornecedores — empresa -mãe",
    "Observations": "",
@@ -440,7 +440,7 @@
    "Credit": "Fornecedores"
  },
  {
-   "TaxonomyCode": "45",
+   "TaxonomyCode":45,
    "SNCSVAT": "2223",
    "Description": "Fornecedores - Fornecedores — títulos a pagar - Fornecedores — empresas subsidiárias",
    "Observations": "",
@@ -450,7 +450,7 @@
    "Credit": "Fornecedores"
  },
  {
-   "TaxonomyCode": "46",
+   "TaxonomyCode":46,
    "SNCSVAT": "2224",
    "Description": "Fornecedores - Fornecedores — títulos a pagar - Fornecedores — empresas associadas",
    "Observations": "",
@@ -460,7 +460,7 @@
    "Credit": "Fornecedores"
  },
  {
-   "TaxonomyCode": "47",
+   "TaxonomyCode":47,
    "SNCSVAT": "2225",
    "Description": "Fornecedores - Fornecedores — títulos a pagar - Fornecedores — empreendimentos conjuntos",
    "Observations": "",
@@ -470,7 +470,7 @@
    "Credit": "Fornecedores"
  },
  {
-   "TaxonomyCode": "48",
+   "TaxonomyCode":48,
    "SNCSVAT": "2226",
    "Description": "Fornecedores - Fornecedores — títulos a pagar - Fornecedores — outras partes relacionadas",
    "Observations": "",
@@ -480,7 +480,7 @@
    "Credit": "Fornecedores"
  },
  {
-   "TaxonomyCode": "49",
+   "TaxonomyCode":49,
    "SNCSVAT": "223|224|226|227",
    "Description": "Fornecedores - Outros fornecedores",
    "Observations": "",
@@ -490,7 +490,7 @@
    "Credit": "Fornecedores"
  },
  {
-   "TaxonomyCode": "50",
+   "TaxonomyCode":50,
    "SNCSVAT": "225",
    "Description": "Fornecedores - Faturas em receção e conferência",
    "Observations": "",
@@ -500,7 +500,7 @@
    "Credit": "Fornecedores"
  },
  {
-   "TaxonomyCode": "51",
+   "TaxonomyCode":51,
    "SNCSVAT": "228",
    "Description": "Fornecedores - Adiantamentos a fornecedores",
    "Observations": "",
@@ -510,7 +510,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "52",
+   "TaxonomyCode":52,
    "SNCSVAT": "229",
    "Description": "Fornecedores - Perdas por imparidade acumuladas",
    "Observations": "",
@@ -520,7 +520,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "53",
+   "TaxonomyCode":53,
    "SNCSVAT": "2311",
    "Description": "Pessoal - Remunerações a pagar - Aos órgãos sociais",
    "Observations": "",
@@ -530,7 +530,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "54",
+   "TaxonomyCode":54,
    "SNCSVAT": "2312",
    "Description": "Pessoal - Remunerações a pagar - Ao pessoal",
    "Observations": "",
@@ -540,7 +540,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "55",
+   "TaxonomyCode":55,
    "SNCSVAT": "2321",
    "Description": "Pessoal - Adiantamentos - Aos órgãos sociais",
    "Observations": "",
@@ -550,7 +550,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "56",
+   "TaxonomyCode":56,
    "SNCSVAT": "2322",
    "Description": "Pessoal - Adiantamentos - Ao pessoal",
    "Observations": "",
@@ -560,7 +560,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "57",
+   "TaxonomyCode":57,
    "SNCSVAT": "2371",
    "Description": "Pessoal - Cauções - Dos órgãos sociais - (CORRENTE)",
    "Observations": "",
@@ -570,7 +570,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "58",
+   "TaxonomyCode":58,
    "SNCSVAT": "2371",
    "Description": "Pessoal - Cauções - Dos órgãos sociais - (NÃO CORRENTE)",
    "Observations": "",
@@ -580,7 +580,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "59",
+   "TaxonomyCode":59,
    "SNCSVAT": "2372",
    "Description": "Pessoal - Cauções - Do pessoal - (CORRENTE)",
    "Observations": "",
@@ -590,7 +590,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "60",
+   "TaxonomyCode":60,
    "SNCSVAT": "2372",
    "Description": "Pessoal - Cauções - Do pessoal - (NÃO CORRENTE)",
    "Observations": "",
@@ -600,7 +600,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "61",
+   "TaxonomyCode":61,
    "SNCSVAT": "2381",
    "Description": "Pessoal - Outras operações - Com os órgãos sociais - (CORRENTE)",
    "Observations": "Incluir contas 233|234|235|236",
@@ -610,7 +610,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "62",
+   "TaxonomyCode":62,
    "SNCSVAT": "2381",
    "Description": "Pessoal - Outras operações - Com os órgãos sociais - (NÃO CORRENTE)",
    "Observations": "",
@@ -620,7 +620,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "63",
+   "TaxonomyCode":63,
    "SNCSVAT": "2382",
    "Description": "Pessoal - Outras operações - Com o pessoal - (CORRENTE)",
    "Observations": "Incluir contas 233|234|235|236",
@@ -630,7 +630,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "64",
+   "TaxonomyCode":64,
    "SNCSVAT": "2382",
    "Description": "Pessoal - Outras operações - Com o pessoal - (NÃO CORRENTE)",
    "Observations": "",
@@ -640,7 +640,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "65",
+   "TaxonomyCode":65,
    "SNCSVAT": "239",
    "Description": "Pessoal - Perdas por imparidade acumuladas - Adiantamentos - Aos órgãos sociais",
    "Observations": "",
@@ -650,7 +650,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "66",
+   "TaxonomyCode":66,
    "SNCSVAT": "239",
    "Description": "Pessoal - Perdas por imparidade acumuladas - Adiantamentos - Ao pessoal",
    "Observations": "",
@@ -660,7 +660,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "67",
+   "TaxonomyCode":67,
    "SNCSVAT": "239",
    "Description": "Pessoal - Perdas por imparidade acumuladas - Outras operações - Aos órgãos sociais (CORRENTE)",
    "Observations": "",
@@ -670,7 +670,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "68",
+   "TaxonomyCode":68,
    "SNCSVAT": "239",
    "Description": "Pessoal - Perdas por imparidade acumuladas - Outras operações - Aos órgãos sociais (NÃO CORRENTE)",
    "Observations": "",
@@ -680,7 +680,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "69",
+   "TaxonomyCode":69,
    "SNCSVAT": "239",
    "Description": "Pessoal - Perdas por imparidade acumuladas - Outras operações - Ao pessoal (CORRENTE)",
    "Observations": "",
@@ -690,7 +690,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "70",
+   "TaxonomyCode":70,
    "SNCSVAT": "239",
    "Description": "Pessoal - Perdas por imparidade acumuladas - Outras operações - Ao pessoal (NÃO CORRENTE)",
    "Observations": "",
@@ -700,7 +700,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "71",
+   "TaxonomyCode":71,
    "SNCSVAT": "241",
    "Description": "Estado e outros entes públicos - Imposto sobre o rendimento",
    "Observations": "",
@@ -710,7 +710,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "72",
+   "TaxonomyCode":72,
    "SNCSVAT": "242",
    "Description": "Estado e outros entes públicos - Retenção de impostos sobre rendimentos",
    "Observations": "",
@@ -720,7 +720,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "73",
+   "TaxonomyCode":73,
    "SNCSVAT": "2431",
    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — Suportado",
    "Observations": "",
@@ -730,7 +730,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "74",
+   "TaxonomyCode":74,
    "SNCSVAT": "2432",
    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — Dedutível",
    "Observations": "",
@@ -740,7 +740,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "75",
+   "TaxonomyCode":75,
    "SNCSVAT": "2433",
    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — Liquidado",
    "Observations": "",
@@ -750,7 +750,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "76",
+   "TaxonomyCode":76,
    "SNCSVAT": "2434",
    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — Regularizações",
    "Observations": "",
@@ -760,7 +760,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "77",
+   "TaxonomyCode":77,
    "SNCSVAT": "2435",
    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — Apuramento",
    "Observations": "",
@@ -770,7 +770,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "78",
+   "TaxonomyCode":78,
    "SNCSVAT": "2436",
    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — A pagar",
    "Observations": "",
@@ -780,7 +780,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "79",
+   "TaxonomyCode":79,
    "SNCSVAT": "2437",
    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — A recuperar",
    "Observations": "",
@@ -790,7 +790,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "80",
+   "TaxonomyCode":80,
    "SNCSVAT": "2438",
    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — Reembolsos pedidos",
    "Observations": "",
@@ -800,7 +800,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "81",
+   "TaxonomyCode":81,
    "SNCSVAT": "2439",
    "Description": "Estado e outros entes públicos - Imposto sobre o valor acrescentado (IVA) - IVA — Liquidações oficiosas",
    "Observations": "",
@@ -810,7 +810,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "82",
+   "TaxonomyCode":82,
    "SNCSVAT": "244",
    "Description": "Estado e outros entes públicos - Outros impostos",
    "Observations": "",
@@ -820,7 +820,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "83",
+   "TaxonomyCode":83,
    "SNCSVAT": "245",
    "Description": "Estado e outros entes públicos - Contribuições para a Segurança Social",
    "Observations": "",
@@ -830,7 +830,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "84",
+   "TaxonomyCode":84,
    "SNCSVAT": "246",
    "Description": "Estado e outros entes públicos - Tributos das autarquias locais",
    "Observations": "",
@@ -840,7 +840,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "85",
+   "TaxonomyCode":85,
    "SNCSVAT": "248",
    "Description": "Estado e outros entes públicos - Outras tributações",
    "Observations": "Incluir conta 247",
@@ -850,7 +850,7 @@
    "Credit": "Estado e outros entes públicos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "86",
+   "TaxonomyCode":86,
    "SNCSVAT": "2511",
    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Empréstimos bancários - (CORRENTE)",
    "Observations": "",
@@ -860,7 +860,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "87",
+   "TaxonomyCode":87,
    "SNCSVAT": "2511",
    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Empréstimos bancários - (NÃO CORRENTE)",
    "Observations": "",
@@ -870,7 +870,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "88",
+   "TaxonomyCode":88,
    "SNCSVAT": "2512",
    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Descobertos bancários - (CORRENTE)",
    "Observations": "",
@@ -880,7 +880,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "89",
+   "TaxonomyCode":89,
    "SNCSVAT": "2512",
    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Descobertos bancários - (NÃO CORRENTE)",
    "Observations": "",
@@ -890,7 +890,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "90",
+   "TaxonomyCode":90,
    "SNCSVAT": "2513",
    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Locações financeiras - (CORRENTE)",
    "Observations": "",
@@ -900,7 +900,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "91",
+   "TaxonomyCode":91,
    "SNCSVAT": "2513",
    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Locações financeiras - (NÃO CORRENTE)",
    "Observations": "",
@@ -910,7 +910,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "92",
+   "TaxonomyCode":92,
    "SNCSVAT": "2514|2515|2516|2517|2518|2519",
    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Outros financiamentos - (CORRENTE)",
    "Observations": "",
@@ -920,7 +920,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "93",
+   "TaxonomyCode":93,
    "SNCSVAT": "2514|2515|2516|2517|2518|2519",
    "Description": "Financiamentos obtidos - Instituições de crédito e sociedades financeiras - Outros financiamentos - (NÃO CORRENTE)",
    "Observations": "",
@@ -930,7 +930,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "94",
+   "TaxonomyCode":94,
    "SNCSVAT": "2521",
    "Description": "Financiamentos obtidos - Mercado de valores mobiliários - Empréstimos por obrigações - (CORRENTE)",
    "Observations": "",
@@ -940,7 +940,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "95",
+   "TaxonomyCode":95,
    "SNCSVAT": "2521",
    "Description": "Financiamentos obtidos - Mercado de valores mobiliários - Empréstimos por obrigações - (NÃO CORRENTE)",
    "Observations": "",
@@ -950,7 +950,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "96",
+   "TaxonomyCode":96,
    "SNCSVAT": "2522|2523|2524|2525|2526|2527|2528|2529",
    "Description": "Financiamentos obtidos - Mercado de valores mobiliários - Outros financiamentos - (CORRENTE)",
    "Observations": "",
@@ -960,7 +960,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "97",
+   "TaxonomyCode":97,
    "SNCSVAT": "2522|2523|2524|2525|2526|2527|2528|2529",
    "Description": "Financiamentos obtidos - Mercado de valores mobiliários - Outros financiamentos - (NÃO CORRENTE)",
    "Observations": "",
@@ -970,7 +970,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "98",
+   "TaxonomyCode":98,
    "SNCSVAT": "2531",
    "Description": "Financiamentos obtidos - Participantes de capital - Empresa -mãe — Suprimentos e outros mútuos - (CORRENTE)",
    "Observations": "",
@@ -980,7 +980,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "99",
+   "TaxonomyCode":99,
    "SNCSVAT": "2531",
    "Description": "Financiamentos obtidos - Participantes de capital - Empresa -mãe — Suprimentos e outros mútuos - (NÃO CORRENTE)",
    "Observations": "",
@@ -990,7 +990,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "100",
+   "TaxonomyCode":100,
    "SNCSVAT": "2532",
    "Description": "Financiamentos obtidos - Participantes de capital - Outros participantes — Suprimentos e outros mútuos - (CORRENTE)",
    "Observations": "Incluir as contas 2533|2534|2535|2536|2537|2538|2539",
@@ -1000,7 +1000,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "101",
+   "TaxonomyCode":101,
    "SNCSVAT": "2532",
    "Description": "Financiamentos obtidos - Participantes de capital - Outros participantes — Suprimentos e outros mútuos - (NÃO CORRENTE)",
    "Observations": "Incluir as contas 2533|2534|2535|2536|2537|2538|2539",
@@ -1010,7 +1010,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "102",
+   "TaxonomyCode":102,
    "SNCSVAT": "254",
    "Description": "Financiamentos obtidos - Subsidiárias, associadas e empreendimentos conjuntos - (CORRENTE)",
    "Observations": "",
@@ -1020,7 +1020,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "103",
+   "TaxonomyCode":103,
    "SNCSVAT": "254",
    "Description": "Financiamentos obtidos - Subsidiárias, associadas e empreendimentos conjuntos - (NÃO CORRENTE)",
    "Observations": "",
@@ -1030,7 +1030,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "104",
+   "TaxonomyCode":104,
    "SNCSVAT": "258",
    "Description": "Financiamentos obtidos - Outros financiadores - (CORRENTE)",
    "Observations": "Incluir contas 255|256|257",
@@ -1040,7 +1040,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "105",
+   "TaxonomyCode":105,
    "SNCSVAT": "258",
    "Description": "Financiamentos obtidos - Outros financiadores - (NÃO CORRENTE)",
    "Observations": "",
@@ -1050,7 +1050,7 @@
    "Credit": "Financiamentos obtidos"
  },
  {
-   "TaxonomyCode": "106",
+   "TaxonomyCode":106,
    "SNCSVAT": "261",
    "Description": "Acionistas/sócios - Acionistas c/ subscrição",
    "Observations": "",
@@ -1060,7 +1060,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "107",
+   "TaxonomyCode":107,
    "SNCSVAT": "262",
    "Description": "Acionistas/sócios - Quotas não liberadas",
    "Observations": "",
@@ -1070,7 +1070,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "108",
+   "TaxonomyCode":108,
    "SNCSVAT": "263",
    "Description": "Acionistas/sócios - Adiantamentos por conta de lucros",
    "Observations": "",
@@ -1080,7 +1080,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "109",
+   "TaxonomyCode":109,
    "SNCSVAT": "264",
    "Description": "Acionistas/sócios - Resultados atribuídos",
    "Observations": "",
@@ -1090,7 +1090,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "110",
+   "TaxonomyCode":110,
    "SNCSVAT": "265",
    "Description": "Acionistas/sócios - Lucros disponíveis",
    "Observations": "",
@@ -1100,7 +1100,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "111",
+   "TaxonomyCode":111,
    "SNCSVAT": "266",
    "Description": "Acionistas/sócios - Empréstimos concedidos — empresa-mãe - (CORRENTE)",
    "Observations": "",
@@ -1110,7 +1110,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "112",
+   "TaxonomyCode":112,
    "SNCSVAT": "266",
    "Description": "Acionistas/sócios - Empréstimos concedidos — empresa-mãe - (NÃO CORRENTE)",
    "Observations": "",
@@ -1120,7 +1120,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "113",
+   "TaxonomyCode":113,
    "SNCSVAT": "268",
    "Description": "Acionistas/sócios - Outras operações - (CORRENTE)",
    "Observations": "Incluir conta 267",
@@ -1130,7 +1130,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "114",
+   "TaxonomyCode":114,
    "SNCSVAT": "268",
    "Description": "Acionistas/sócios - Outras operações - (NÃO CORRENTE)",
    "Observations": "",
@@ -1140,7 +1140,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "115",
+   "TaxonomyCode":115,
    "SNCSVAT": "269",
    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Acionistas c/ subscrição",
    "Observations": "",
@@ -1150,7 +1150,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "116",
+   "TaxonomyCode":116,
    "SNCSVAT": "269",
    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Quotas não liberadas",
    "Observations": "",
@@ -1160,7 +1160,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "117",
+   "TaxonomyCode":117,
    "SNCSVAT": "269",
    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Adiantamentos por conta de lucros",
    "Observations": "",
@@ -1170,7 +1170,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "118",
+   "TaxonomyCode":118,
    "SNCSVAT": "269",
    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Resultados atribuídos",
    "Observations": "",
@@ -1180,7 +1180,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "119",
+   "TaxonomyCode":119,
    "SNCSVAT": "269",
    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Lucros disponíveis",
    "Observations": "",
@@ -1190,7 +1190,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "120",
+   "TaxonomyCode":120,
    "SNCSVAT": "269",
    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Empréstimos concedidos — empresa-mãe (CORRENTE)",
    "Observations": "",
@@ -1200,7 +1200,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "121",
+   "TaxonomyCode":121,
    "SNCSVAT": "269",
    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Empréstimos concedidos — empresa-mãe (NÃO CORRENTE)",
    "Observations": "",
@@ -1210,7 +1210,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "122",
+   "TaxonomyCode":122,
    "SNCSVAT": "269",
    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Outras operações (CORRENTE)",
    "Observations": "",
@@ -1220,7 +1220,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "123",
+   "TaxonomyCode":123,
    "SNCSVAT": "269",
    "Description": "Acionistas/sócios - Perdas por imparidade acumuladas - Outras operações (NÃO CORRENTE)",
    "Observations": "",
@@ -1230,7 +1230,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "124",
+   "TaxonomyCode":124,
    "SNCSVAT": "2711",
    "Description": "Outras contas a receber e a pagar - Fornecedores de investimentos - Fornecedores de investimentos — contas gerais - (CORRENTE)",
    "Observations": "",
@@ -1240,7 +1240,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "125",
+   "TaxonomyCode":125,
    "SNCSVAT": "2711",
    "Description": "Outras contas a receber e a pagar - Fornecedores de investimentos - Fornecedores de investimentos — contas gerais - (NÃO CORRENTE)",
    "Observations": "",
@@ -1250,7 +1250,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "126",
+   "TaxonomyCode":126,
    "SNCSVAT": "2712",
    "Description": "Outras contas a receber e a pagar - Fornecedores de investimentos - Facturas em recepção e conferência - (CORRENTE)",
    "Observations": "",
@@ -1260,7 +1260,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "127",
+   "TaxonomyCode":127,
    "SNCSVAT": "2712",
    "Description": "Outras contas a receber e a pagar - Fornecedores de investimentos - Facturas em recepção e conferência - (NÃO CORRENTE)",
    "Observations": "",
@@ -1270,7 +1270,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "128",
+   "TaxonomyCode":128,
    "SNCSVAT": "2713",
    "Description": "Outras contas a receber e a pagar - Fornecedores de investimentos - Adiantamentos a fornecedores de investimentos - (CORRENTE)",
    "Observations": "",
@@ -1280,7 +1280,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "129",
+   "TaxonomyCode":129,
    "SNCSVAT": "2713",
    "Description": "Outras contas a receber e a pagar - Fornecedores de investimentos - Adiantamentos a fornecedores de investimentos - (NÃO CORRENTE)",
    "Observations": "",
@@ -1290,7 +1290,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "130",
+   "TaxonomyCode":130,
    "SNCSVAT": "2721",
    "Description": "Outras contas a receber e a pagar - Devedores e credores por acréscimos (periodização económica)* - Devedores por acréscimos de rendimentos",
    "Observations": "",
@@ -1300,7 +1300,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "131",
+   "TaxonomyCode":131,
    "SNCSVAT": "2722",
    "Description": "Outras contas a receber e a pagar - Devedores e credores por acréscimos (periodização económica)* - Credores por acréscimos de gastos",
    "Observations": "",
@@ -1310,7 +1310,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "132",
+   "TaxonomyCode":132,
    "SNCSVAT": "273",
    "Description": "Outras contas a receber e a pagar - Benefícios pós -emprego",
    "Observations": "",
@@ -1320,7 +1320,7 @@
    "Credit": "Responsabilidades por benefícios pós-emprego"
  },
  {
-   "TaxonomyCode": "133",
+   "TaxonomyCode":133,
    "SNCSVAT": "2741",
    "Description": "Outras contas a receber e a pagar - Impostos diferidos - Ativos por impostos diferidos",
    "Observations": "",
@@ -1330,7 +1330,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "134",
+   "TaxonomyCode":134,
    "SNCSVAT": "2742",
    "Description": "Outras contas a receber e a pagar - Impostos diferidos - Passivos por impostos diferidos",
    "Observations": "",
@@ -1340,7 +1340,7 @@
    "Credit": "Passivos por impostos diferidos"
  },
  {
-   "TaxonomyCode": "135",
+   "TaxonomyCode":135,
    "SNCSVAT": "275",
    "Description": "Outras contas a receber e a pagar - Credores por subscrições não liberadas - (CORRENTE)",
    "Observations": "",
@@ -1350,7 +1350,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "136",
+   "TaxonomyCode":136,
    "SNCSVAT": "275",
    "Description": "Outras contas a receber e a pagar - Credores por subscrições não liberadas - (NÃO CORRENTE)",
    "Observations": "",
@@ -1360,7 +1360,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "137",
+   "TaxonomyCode":137,
    "SNCSVAT": "276",
    "Description": "Outras contas a receber e a pagar - Adiantamentos por conta de vendas",
    "Observations": "",
@@ -1370,7 +1370,7 @@
    "Credit": "Adiantamentos de clientes"
  },
  {
-   "TaxonomyCode": "138",
+   "TaxonomyCode":138,
    "SNCSVAT": "278",
    "Description": "Outras contas a receber e a pagar - Outros devedores e credores - (CORRENTE)",
    "Observations": "Incluir conta 277",
@@ -1380,7 +1380,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "139",
+   "TaxonomyCode":139,
    "SNCSVAT": "278",
    "Description": "Outras contas a receber e a pagar - Outros devedores e credores - (NÃO CORRENTE)",
    "Observations": "",
@@ -1390,7 +1390,7 @@
    "Credit": "Outras dívidas a pagar"
  },
  {
-   "TaxonomyCode": "140",
+   "TaxonomyCode":140,
    "SNCSVAT": "279",
    "Description": "Outras contas a receber e a pagar - Perdas por imparidade acumuladas - Fornecedores de investimentos - Adiantamentos a fornecedores de investimentos (CORRENTE)",
    "Observations": "",
@@ -1400,7 +1400,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "141",
+   "TaxonomyCode":141,
    "SNCSVAT": "279",
    "Description": "Outras contas a receber e a pagar - Perdas por imparidade acumuladas - Fornecedores de investimentos - Adiantamentos a fornecedores de investimentos (NÃO CORRENTE)",
    "Observations": "",
@@ -1410,7 +1410,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "142",
+   "TaxonomyCode":142,
    "SNCSVAT": "279",
    "Description": "Outras contas a receber e a pagar - Perdas por imparidade acumuladas - Devedores e credores por acréscimos (periodização económica)* - Devedores por acréscimos de rendimentos",
    "Observations": "",
@@ -1420,7 +1420,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "143",
+   "TaxonomyCode":143,
    "SNCSVAT": "279",
    "Description": "Outras contas a receber e a pagar - Perdas por imparidade acumuladas - Impostos diferidos - Ativos por impostos diferidos",
    "Observations": "",
@@ -1430,7 +1430,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "144",
+   "TaxonomyCode":144,
    "SNCSVAT": "279",
    "Description": "Outras contas a receber e a pagar - Perdas por imparidade acumuladas - Outros devedores e credores - (CORRENTE)",
    "Observations": "",
@@ -1440,7 +1440,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "145",
+   "TaxonomyCode":145,
    "SNCSVAT": "279",
    "Description": "Outras contas a receber e a pagar - Perdas por imparidade acumuladas - Outros devedores e credores - (NÃO CORRENTE)",
    "Observations": "",
@@ -1450,7 +1450,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "146",
+   "TaxonomyCode":146,
    "SNCSVAT": "281",
    "Description": "Diferimentos - Gastos a reconhecer",
    "Observations": "",
@@ -1460,7 +1460,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "147",
+   "TaxonomyCode":147,
    "SNCSVAT": "282",
    "Description": "Diferimentos - Rendimentos a reconhecer",
    "Observations": "",
@@ -1470,7 +1470,7 @@
    "Credit": "Diferimentos (balanço passivo)"
  },
  {
-   "TaxonomyCode": "148",
+   "TaxonomyCode":148,
    "SNCSVAT": "291",
    "Description": "Provisões - Impostos",
    "Observations": "",
@@ -1480,7 +1480,7 @@
    "Credit": "Provisões"
  },
  {
-   "TaxonomyCode": "149",
+   "TaxonomyCode":149,
    "SNCSVAT": "292",
    "Description": "Provisões - Garantias a clientes",
    "Observations": "",
@@ -1490,7 +1490,7 @@
    "Credit": "Provisões"
  },
  {
-   "TaxonomyCode": "150",
+   "TaxonomyCode":150,
    "SNCSVAT": "293",
    "Description": "Provisões - Processos judiciais em curso",
    "Observations": "",
@@ -1500,7 +1500,7 @@
    "Credit": "Provisões"
  },
  {
-   "TaxonomyCode": "151",
+   "TaxonomyCode":151,
    "SNCSVAT": "294",
    "Description": "Provisões - Acidentes de trabalho e doenças profissionais",
    "Observations": "",
@@ -1510,7 +1510,7 @@
    "Credit": "Provisões"
  },
  {
-   "TaxonomyCode": "152",
+   "TaxonomyCode":152,
    "SNCSVAT": "295",
    "Description": "Provisões - Matérias ambientais",
    "Observations": "",
@@ -1520,7 +1520,7 @@
    "Credit": "Provisões"
  },
  {
-   "TaxonomyCode": "153",
+   "TaxonomyCode":153,
    "SNCSVAT": "296",
    "Description": "Provisões - Contratos onerosos",
    "Observations": "",
@@ -1530,7 +1530,7 @@
    "Credit": "Provisões"
  },
  {
-   "TaxonomyCode": "154",
+   "TaxonomyCode":154,
    "SNCSVAT": "297",
    "Description": "Provisões - Reestruturação",
    "Observations": "",
@@ -1540,7 +1540,7 @@
    "Credit": "Provisões"
  },
  {
-   "TaxonomyCode": "155",
+   "TaxonomyCode":155,
    "SNCSVAT": "298",
    "Description": "Provisões - Outras provisões",
    "Observations": "",
@@ -1550,7 +1550,7 @@
    "Credit": "Provisões"
  },
  {
-   "TaxonomyCode": "156",
+   "TaxonomyCode":156,
    "SNCSVAT": "311",
    "Description": "Compras - Mercadorias",
    "Observations": "(A) incluir contas 314|315|316",
@@ -1560,7 +1560,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "157",
+   "TaxonomyCode":157,
    "SNCSVAT": "312",
    "Description": "Compras - Matérias -primas, subsidiárias e de consumo",
    "Observations": "",
@@ -1570,7 +1570,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "158",
+   "TaxonomyCode":158,
    "SNCSVAT": "313",
    "Description": "Compras - Ativos biológicos",
    "Observations": "",
@@ -1580,7 +1580,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "159",
+   "TaxonomyCode":159,
    "SNCSVAT": "317",
    "Description": "Compras - Devoluções de compras - Mercadorias",
    "Observations": "",
@@ -1590,7 +1590,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "160",
+   "TaxonomyCode":160,
    "SNCSVAT": "317",
    "Description": "Compras - Devoluções de compras - Matérias -primas, subsidiárias e de consumo",
    "Observations": "",
@@ -1600,7 +1600,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "161",
+   "TaxonomyCode":161,
    "SNCSVAT": "317",
    "Description": "Compras - Devoluções de compras - Ativos biológicos",
    "Observations": "",
@@ -1610,7 +1610,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "162",
+   "TaxonomyCode":162,
    "SNCSVAT": "318",
    "Description": "Compras - Descontos e abatimentos em compras - Mercadorias",
    "Observations": "",
@@ -1620,7 +1620,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "163",
+   "TaxonomyCode":163,
    "SNCSVAT": "318",
    "Description": "Compras - Descontos e abatimentos em compras - Matérias -primas, subsidiárias e de consumo",
    "Observations": "",
@@ -1630,7 +1630,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "164",
+   "TaxonomyCode":164,
    "SNCSVAT": "318",
    "Description": "Compras - Descontos e abatimentos em compras - Ativos biológicos",
    "Observations": "",
@@ -1640,7 +1640,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "165",
+   "TaxonomyCode":165,
    "SNCSVAT": "321|322|323|324|327|328",
    "Description": "Mercadorias - Mercadorias",
    "Observations": "",
@@ -1650,7 +1650,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "166",
+   "TaxonomyCode":166,
    "SNCSVAT": "325",
    "Description": "Mercadorias - Mercadorias em trânsito",
    "Observations": "",
@@ -1660,7 +1660,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "167",
+   "TaxonomyCode":167,
    "SNCSVAT": "326",
    "Description": "Mercadorias - Mercadorias em poder de terceiros",
    "Observations": "",
@@ -1670,7 +1670,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "168",
+   "TaxonomyCode":168,
    "SNCSVAT": "329",
    "Description": "Mercadorias - Perdas por imparidade acumuladas - Mercadorias",
    "Observations": "",
@@ -1680,7 +1680,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "169",
+   "TaxonomyCode":169,
    "SNCSVAT": "329",
    "Description": "Mercadorias - Perdas por imparidade acumuladas - Mercadorias em trânsito",
    "Observations": "",
@@ -1690,7 +1690,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "170",
+   "TaxonomyCode":170,
    "SNCSVAT": "329",
    "Description": "Mercadorias - Perdas por imparidade acumuladas - Mercadorias em poder de terceiros",
    "Observations": "",
@@ -1700,7 +1700,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "171",
+   "TaxonomyCode":171,
    "SNCSVAT": "331",
    "Description": "Matérias -primas, subsidiárias e de consumo - Matérias -primas",
    "Observations": "",
@@ -1710,7 +1710,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "172",
+   "TaxonomyCode":172,
    "SNCSVAT": "332",
    "Description": "Matérias -primas, subsidiárias e de consumo - Matérias subsidiárias",
    "Observations": "",
@@ -1720,7 +1720,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "173",
+   "TaxonomyCode":173,
    "SNCSVAT": "333",
    "Description": "Matérias -primas, subsidiárias e de consumo - Embalagens",
    "Observations": "",
@@ -1730,7 +1730,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "174",
+   "TaxonomyCode":174,
    "SNCSVAT": "334",
    "Description": "Matérias -primas, subsidiárias e de consumo - Materiais diversos",
    "Observations": "",
@@ -1740,7 +1740,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "175",
+   "TaxonomyCode":175,
    "SNCSVAT": "335",
    "Description": "Matérias -primas, subsidiárias e de consumo - Matérias em trânsito",
    "Observations": "",
@@ -1750,7 +1750,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "176",
+   "TaxonomyCode":176,
    "SNCSVAT": "336|337|338",
    "Description": "Matérias -primas, subsidiárias e de consumo - Outras matérias -primas, subsidiárias e de consumo",
    "Observations": "",
@@ -1760,7 +1760,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "177",
+   "TaxonomyCode":177,
    "SNCSVAT": "339",
    "Description": "Matérias -primas, subsidiárias e de consumo - Perdas por imparidade acumuladas - Matérias -primas",
    "Observations": "",
@@ -1770,7 +1770,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "178",
+   "TaxonomyCode":178,
    "SNCSVAT": "339",
    "Description": "Matérias -primas, subsidiárias e de consumo - Perdas por imparidade acumuladas - Matérias subsidiárias",
    "Observations": "",
@@ -1780,7 +1780,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "179",
+   "TaxonomyCode":179,
    "SNCSVAT": "339",
    "Description": "Matérias -primas, subsidiárias e de consumo - Perdas por imparidade acumuladas - Embalagens",
    "Observations": "",
@@ -1790,7 +1790,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "180",
+   "TaxonomyCode":180,
    "SNCSVAT": "339",
    "Description": "Matérias -primas, subsidiárias e de consumo - Perdas por imparidade acumuladas - Materiais diversos",
    "Observations": "",
@@ -1800,7 +1800,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "181",
+   "TaxonomyCode":181,
    "SNCSVAT": "339",
    "Description": "Matérias -primas, subsidiárias e de consumo - Perdas por imparidade acumuladas - Matérias em trânsito",
    "Observations": "",
@@ -1810,7 +1810,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "182",
+   "TaxonomyCode":182,
    "SNCSVAT": "339",
    "Description": "Matérias -primas, subsidiárias e de consumo - Perdas por imparidade acumuladas - Outras matérias -primas, subsidiárias e de consumo",
    "Observations": "",
@@ -1820,7 +1820,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "183",
+   "TaxonomyCode":183,
    "SNCSVAT": "341|342|343|344|345|347|348",
    "Description": "Produtos acabados e intermédios - Produtos acabados e intermédios",
    "Observations": "",
@@ -1830,7 +1830,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "184",
+   "TaxonomyCode":184,
    "SNCSVAT": "346",
    "Description": "Produtos acabados e intermédios - Produtos em poder de terceiros",
    "Observations": "",
@@ -1840,7 +1840,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "185",
+   "TaxonomyCode":185,
    "SNCSVAT": "349",
    "Description": "Produtos acabados e intermédios - Perdas por imparidade acumuladas - Produtos acabados e intermédios",
    "Observations": "",
@@ -1850,7 +1850,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "186",
+   "TaxonomyCode":186,
    "SNCSVAT": "349",
    "Description": "Produtos acabados e intermédios - Perdas por imparidade acumuladas - Produtos em poder de terceiros",
    "Observations": "",
@@ -1860,7 +1860,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "187",
+   "TaxonomyCode":187,
    "SNCSVAT": "351",
    "Description": "Subprodutos, desperdícios, resíduos e refugos - Subprodutos",
    "Observations": "",
@@ -1870,7 +1870,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "188",
+   "TaxonomyCode":188,
    "SNCSVAT": "352",
    "Description": "Subprodutos, desperdícios, resíduos e refugos - Desperdícios, resíduos e refugos",
    "Observations": "",
@@ -1880,7 +1880,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "189",
+   "TaxonomyCode":189,
    "SNCSVAT": "353|354|355|356|357|358",
    "Description": "Subprodutos, desperdícios, resíduos e refugos - Outros subprodutos, desperdícios, resíduos e refugos",
    "Observations": "",
@@ -1890,7 +1890,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "190",
+   "TaxonomyCode":190,
    "SNCSVAT": "359",
    "Description": "Subprodutos, desperdícios, resíduos e refugos - Perdas por imparidade acumuladas - Subprodutos",
    "Observations": "",
@@ -1900,7 +1900,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "191",
+   "TaxonomyCode":191,
    "SNCSVAT": "359",
    "Description": "Subprodutos, desperdícios, resíduos e refugos - Perdas por imparidade acumuladas - Desperdícios, resíduos e refugos",
    "Observations": "",
@@ -1910,7 +1910,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "192",
+   "TaxonomyCode":192,
    "SNCSVAT": "359",
    "Description": "Subprodutos, desperdícios, resíduos e refugos - Perdas por imparidade acumuladas - Outros subprodutos, desperdícios, resíduos e refugos",
    "Observations": "",
@@ -1920,7 +1920,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "193",
+   "TaxonomyCode":193,
    "SNCSVAT": "361|362|363|364|365|366|367|368",
    "Description": "Produtos e trabalhos em curso - Produtos e trabalhos em curso",
    "Observations": "",
@@ -1930,7 +1930,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "194",
+   "TaxonomyCode":194,
    "SNCSVAT": "(C2) 369",
    "Description": "Produtos e trabalhos em curso - Perdas por imparidade acumuladas",
    "Observations": "",
@@ -1940,7 +1940,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "195",
+   "TaxonomyCode":195,
    "SNCSVAT": "3711",
    "Description": "Ativos biológicos - Consumíveis - Animais",
    "Observations": "",
@@ -1950,7 +1950,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "196",
+   "TaxonomyCode":196,
    "SNCSVAT": "3712",
    "Description": "Ativos biológicos - Consumíveis - Plantas",
    "Observations": "",
@@ -1960,7 +1960,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "197",
+   "TaxonomyCode":197,
    "SNCSVAT": "3721",
    "Description": "Ativos biológicos - De produção - Animais",
    "Observations": "",
@@ -1970,7 +1970,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "198",
+   "TaxonomyCode":198,
    "SNCSVAT": "3722",
    "Description": "Ativos biológicos - De produção - Plantas",
    "Observations": "",
@@ -1980,7 +1980,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "199",
+   "TaxonomyCode":199,
    "SNCSVAT": "(C2) 373|374|375|376|377|378|379",
    "Description": "Ativos biológicos - Depreciações acumuladas - Consumíveis",
    "Observations": "",
@@ -1990,7 +1990,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "200",
+   "TaxonomyCode":200,
    "SNCSVAT": "(C2) 373|374|375|376|377|378|379",
    "Description": "Ativos biológicos - Depreciações acumuladas - De produção",
    "Observations": "",
@@ -2000,7 +2000,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "201",
+   "TaxonomyCode":201,
    "SNCSVAT": "(C2) 373|374|375|376|377|378|379",
    "Description": "Ativos biológicos - Perdas por imparidade acumuladas - Consumíveis",
    "Observations": "",
@@ -2010,7 +2010,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "202",
+   "TaxonomyCode":202,
    "SNCSVAT": "(C2) 373|374|375|376|377|378|379",
    "Description": "Ativos biológicos - Perdas por imparidade acumuladas - De produção",
    "Observations": "",
@@ -2020,7 +2020,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "203",
+   "TaxonomyCode":203,
    "SNCSVAT": "382",
    "Description": "Reclassificação e regularização de inventários e ativos biológicos - Mercadorias",
    "Observations": "",
@@ -2030,7 +2030,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "204",
+   "TaxonomyCode":204,
    "SNCSVAT": "383",
    "Description": "Reclassificação e regularização de inventários e ativos biológicos - Matérias -primas, subsidiárias e de consumo",
    "Observations": "",
@@ -2040,7 +2040,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "205",
+   "TaxonomyCode":205,
    "SNCSVAT": "384",
    "Description": "Reclassificação e regularização de inventários e ativos biológicos - Produtos acabados e intermédios",
    "Observations": "",
@@ -2050,7 +2050,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "206",
+   "TaxonomyCode":206,
    "SNCSVAT": "385",
    "Description": "Reclassificação e regularização de inventários e ativos biológicos - Subprodutos, desperdícios, resíduos e refugos",
    "Observations": "",
@@ -2060,7 +2060,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "207",
+   "TaxonomyCode":207,
    "SNCSVAT": "386",
    "Description": "Reclassificação e regularização de inventários e ativos biológicos - Produtos e trabalhos em curso",
    "Observations": "",
@@ -2070,7 +2070,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "208",
+   "TaxonomyCode":208,
    "SNCSVAT": "387",
    "Description": "Reclassificação e regularização de inventários e ativos biológicos - Ativos biológicos",
    "Observations": "",
@@ -2080,7 +2080,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "209",
+   "TaxonomyCode":209,
    "SNCSVAT": "39",
    "Description": "Adiantamentos por conta de compras - Mercadorias",
    "Observations": "",
@@ -2090,7 +2090,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "210",
+   "TaxonomyCode":210,
    "SNCSVAT": "39",
    "Description": "Adiantamentos por conta de compras - Matérias -primas, subsidiárias e de consumo",
    "Observations": "",
@@ -2100,7 +2100,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "211",
+   "TaxonomyCode":211,
    "SNCSVAT": "39",
    "Description": "Adiantamentos por conta de compras - Produtos acabados e intermédios",
    "Observations": "",
@@ -2110,7 +2110,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "212",
+   "TaxonomyCode":212,
    "SNCSVAT": "39",
    "Description": "Adiantamentos por conta de compras - Subprodutos, desperdícios, resíduos e refugos",
    "Observations": "",
@@ -2120,7 +2120,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "213",
+   "TaxonomyCode":213,
    "SNCSVAT": "39",
    "Description": "Adiantamentos por conta de compras - Produtos e trabalhos em curso",
    "Observations": "",
@@ -2130,7 +2130,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "214",
+   "TaxonomyCode":214,
    "SNCSVAT": "39",
    "Description": "Adiantamentos por conta de compras - Ativos biológicos consumíveis",
    "Observations": "",
@@ -2140,7 +2140,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "215",
+   "TaxonomyCode":215,
    "SNCSVAT": "39",
    "Description": "Adiantamentos por conta de compras - Ativos biológicos de produção",
    "Observations": "",
@@ -2150,7 +2150,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "216",
+   "TaxonomyCode":216,
    "SNCSVAT": "4111",
    "Description": "Investimentos financeiros - Investimentos em subsidiárias - Participações de capital — método da equivalência patrimonial - Participação de capital",
    "Observations": "",
@@ -2160,7 +2160,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "217",
+   "TaxonomyCode":217,
    "SNCSVAT": "4111",
    "Description": "Investimentos financeiros - Investimentos em subsidiárias - Participações de capital — método da equivalência patrimonial - Goodwill",
    "Observations": "",
@@ -2170,7 +2170,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "218",
+   "TaxonomyCode":218,
    "SNCSVAT": "4112",
    "Description": "Investimentos financeiros - Investimentos em subsidiárias - Participações de capital — outros métodos",
    "Observations": "",
@@ -2180,7 +2180,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "219",
+   "TaxonomyCode":219,
    "SNCSVAT": "4113",
    "Description": "Investimentos financeiros - Investimentos em subsidiárias - Empréstimos concedidos",
    "Observations": "",
@@ -2190,7 +2190,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "220",
+   "TaxonomyCode":220,
    "SNCSVAT": "4114|4115|4116|4117|4118|4119",
    "Description": "Investimentos financeiros - Investimentos em subsidiárias - Outros investimentos financeiros",
    "Observations": "",
@@ -2200,7 +2200,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "221",
+   "TaxonomyCode":221,
    "SNCSVAT": "4121",
    "Description": "Investimentos financeiros - Investimentos em associadas - Participações de capital — método da equivalência patrimonial - Participação de capital",
    "Observations": "",
@@ -2210,7 +2210,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "222",
+   "TaxonomyCode":222,
    "SNCSVAT": "4121",
    "Description": "Investimentos financeiros - Investimentos em associadas - Participações de capital — método da equivalência patrimonial - Goodwill",
    "Observations": "",
@@ -2220,7 +2220,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "223",
+   "TaxonomyCode":223,
    "SNCSVAT": "4122",
    "Description": "Investimentos financeiros - Investimentos em associadas - Participações de capital — outros métodos",
    "Observations": "",
@@ -2230,7 +2230,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "224",
+   "TaxonomyCode":224,
    "SNCSVAT": "4123",
    "Description": "Investimentos financeiros - Investimentos em associadas - Empréstimos concedidos",
    "Observations": "",
@@ -2240,7 +2240,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "225",
+   "TaxonomyCode":225,
    "SNCSVAT": "4124|4125|4126|4127|4128|4129",
    "Description": "Investimentos financeiros - Investimentos em associadas - Outros investimentos financeiros",
    "Observations": "",
@@ -2250,7 +2250,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "226",
+   "TaxonomyCode":226,
    "SNCSVAT": "4131",
    "Description": "Investimentos financeiros - Investimentos em entidades conjuntamente controladas - Participações de capital — método da equivalência patrimonial - Participação de capital",
    "Observations": "",
@@ -2260,7 +2260,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "227",
+   "TaxonomyCode":227,
    "SNCSVAT": "4131",
    "Description": "Investimentos financeiros - Investimentos em entidades conjuntamente controladas - Participações de capital — método da equivalência patrimonial - Goodwill",
    "Observations": "",
@@ -2270,7 +2270,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "228",
+   "TaxonomyCode":228,
    "SNCSVAT": "4132",
    "Description": "Investimentos financeiros - Investimentos em entidades conjuntamente controladas - Participações de capital — outros métodos",
    "Observations": "",
@@ -2280,7 +2280,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "229",
+   "TaxonomyCode":229,
    "SNCSVAT": "4133",
    "Description": "Investimentos financeiros - Investimentos em entidades conjuntamente controladas - Empréstimos concedidos",
    "Observations": "",
@@ -2290,7 +2290,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "230",
+   "TaxonomyCode":230,
    "SNCSVAT": "4134|4135|4136|4137|4138|4139",
    "Description": "Investimentos financeiros - Investimentos em entidades conjuntamente controladas - Outros investimentos financeiros",
    "Observations": "",
@@ -2300,7 +2300,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "231",
+   "TaxonomyCode":231,
    "SNCSVAT": "4141",
    "Description": "Investimentos financeiros - Investimentos noutras empresas - Participações de capital",
    "Observations": "",
@@ -2310,7 +2310,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "232",
+   "TaxonomyCode":232,
    "SNCSVAT": "4142",
    "Description": "Investimentos financeiros - Investimentos noutras empresas - Empréstimos concedidos",
    "Observations": "",
@@ -2320,7 +2320,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "233",
+   "TaxonomyCode":233,
    "SNCSVAT": "4143|4144|4145|4146|4147|4148|4149",
    "Description": "Investimentos financeiros - Investimentos noutras empresas - Outros investimentos financeiros",
    "Observations": "",
@@ -2330,7 +2330,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "234",
+   "TaxonomyCode":234,
    "SNCSVAT": "4151",
    "Description": "Investimentos financeiros - Outros investimentos financeiros - Detidos até à maturidade",
    "Observations": "",
@@ -2340,7 +2340,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "235",
+   "TaxonomyCode":235,
    "SNCSVAT": "4158",
    "Description": "Investimentos financeiros - Outros investimentos financeiros - Outros",
    "Observations": "Incluir contas 4152|4153| 4154|4155|4156|4157|4158|4159|416|417|418 que não sejam amortizações de Goodwill",
@@ -2350,7 +2350,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "236",
+   "TaxonomyCode":236,
    "SNCSVAT": "(C2) 416|417|418",
    "Description": "Investimentos financeiros - Amortizações acumuladas - Investimentos em subsidiárias - Participações de capital — método da equivalência patrimonial - Goodwill",
    "Observations": "",
@@ -2360,7 +2360,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "237",
+   "TaxonomyCode":237,
    "SNCSVAT": "(C2) 416|417|418",
    "Description": "Investimentos financeiros - Amortizações acumuladas - Investimentos em associadas - Participações de capital — método da equivalência patrimonial - Goodwill",
    "Observations": "",
@@ -2370,7 +2370,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "238",
+   "TaxonomyCode":238,
    "SNCSVAT": "(C2) 416|417|418",
    "Description": "Investimentos financeiros - Amortizações acumuladas - Investimentos em entidades conjuntamente controladas - Participações de capital — método da equivalência patrimonial - Goodwill",
    "Observations": "",
@@ -2380,7 +2380,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "239",
+   "TaxonomyCode":239,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em subsidiárias - Participações de capital — método da equivalência patrimonial - Participação de capital",
    "Observations": "",
@@ -2390,7 +2390,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "240",
+   "TaxonomyCode":240,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em subsidiárias - Participações de capital — método da equivalência patrimonial - Goodwill",
    "Observations": "",
@@ -2400,7 +2400,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "241",
+   "TaxonomyCode":241,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em subsidiárias - Participações de capital — outros métodos",
    "Observations": "",
@@ -2410,7 +2410,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "242",
+   "TaxonomyCode":242,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em subsidiárias - Empréstimos concedidos",
    "Observations": "",
@@ -2420,7 +2420,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "243",
+   "TaxonomyCode":243,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em subsidiárias - Outros investimentos financeiros",
    "Observations": "",
@@ -2430,7 +2430,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "244",
+   "TaxonomyCode":244,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em associadas - Participações de capital — método da equivalência patrimonial - Participação de capital",
    "Observations": "",
@@ -2440,7 +2440,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "245",
+   "TaxonomyCode":245,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em associadas - Participações de capital — método da equivalência patrimonial - Goodwill",
    "Observations": "",
@@ -2450,7 +2450,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "246",
+   "TaxonomyCode":246,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em associadas - Participações de capital — outros métodos",
    "Observations": "",
@@ -2460,7 +2460,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "247",
+   "TaxonomyCode":247,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em associadas - Empréstimos concedidos",
    "Observations": "",
@@ -2470,7 +2470,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "248",
+   "TaxonomyCode":248,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em associadas - Outros investimentos financeiros",
    "Observations": "",
@@ -2480,7 +2480,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "249",
+   "TaxonomyCode":249,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em entidades conjuntamente controladas - Participações de capital — método da equivalência patrimonial - Participação de capital",
    "Observations": "",
@@ -2490,7 +2490,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "250",
+   "TaxonomyCode":250,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em entidades conjuntamente controladas - Participações de capital — método da equivalência patrimonial - Goodwill",
    "Observations": "",
@@ -2500,7 +2500,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "251",
+   "TaxonomyCode":251,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em entidades conjuntamente controladas - Participações de capital — outros métodos",
    "Observations": "",
@@ -2510,7 +2510,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "252",
+   "TaxonomyCode":252,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em entidades conjuntamente controladas - Empréstimos concedidos",
    "Observations": "",
@@ -2520,7 +2520,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "253",
+   "TaxonomyCode":253,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos em entidades conjuntamente controladas - Outros investimentos financeiros",
    "Observations": "",
@@ -2530,7 +2530,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "254",
+   "TaxonomyCode":254,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos noutras empresas - Participações de capital",
    "Observations": "",
@@ -2540,7 +2540,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "255",
+   "TaxonomyCode":255,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos noutras empresas - Empréstimos concedidos",
    "Observations": "",
@@ -2550,7 +2550,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "256",
+   "TaxonomyCode":256,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Investimentos noutras empresas - Outros investimentos financeiros",
    "Observations": "",
@@ -2560,7 +2560,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "257",
+   "TaxonomyCode":257,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Outros investimentos financeiros - Detidos até à maturidade",
    "Observations": "",
@@ -2570,7 +2570,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "258",
+   "TaxonomyCode":258,
    "SNCSVAT": "419",
    "Description": "Investimentos financeiros - Perdas por imparidade acumuladas - Outros investimentos financeiros - Outros",
    "Observations": "Incluir perdas por imparidade das contas 4152|4153|4154|4155|4156|4157|4158|4159| 416|417|418",
@@ -2580,7 +2580,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "259",
+   "TaxonomyCode":259,
    "SNCSVAT": "421",
    "Description": "Propriedades de investimento - Terrenos e recursos naturais",
    "Observations": "",
@@ -2590,7 +2590,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "260",
+   "TaxonomyCode":260,
    "SNCSVAT": "422",
    "Description": "Propriedades de investimento - Edifícios e outras construções",
    "Observations": "",
@@ -2600,7 +2600,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "261",
+   "TaxonomyCode":261,
    "SNCSVAT": "426",
    "Description": "Propriedades de investimento - Outras propriedades de investimento",
    "Observations": "(C) Incluir contas 423|424|425|427",
@@ -2610,7 +2610,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "262",
+   "TaxonomyCode":262,
    "SNCSVAT": "428",
    "Description": "Propriedades de investimento - Depreciações acumuladas - Terrenos e recursos naturais",
    "Observations": "",
@@ -2620,7 +2620,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "263",
+   "TaxonomyCode":263,
    "SNCSVAT": "428",
    "Description": "Propriedades de investimento - Depreciações acumuladas - Edifícios e outras construções",
    "Observations": "",
@@ -2630,7 +2630,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "264",
+   "TaxonomyCode":264,
    "SNCSVAT": "428",
    "Description": "Propriedades de investimento - Depreciações acumuladas - Outras propriedades de investimento",
    "Observations": "",
@@ -2640,7 +2640,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "265",
+   "TaxonomyCode":265,
    "SNCSVAT": "429",
    "Description": "Propriedades de investimento - Perdas por imparidade acumuladas - Terrenos e recursos naturais",
    "Observations": "",
@@ -2650,7 +2650,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "266",
+   "TaxonomyCode":266,
    "SNCSVAT": "429",
    "Description": "Propriedades de investimento - Perdas por imparidade acumuladas - Edifícios e outras construções",
    "Observations": "",
@@ -2660,7 +2660,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "267",
+   "TaxonomyCode":267,
    "SNCSVAT": "429",
    "Description": "Propriedades de investimento - Perdas por imparidade acumuladas - Outras propriedades de investimento",
    "Observations": "",
@@ -2670,7 +2670,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "268",
+   "TaxonomyCode":268,
    "SNCSVAT": "431",
    "Description": "Ativos fixos tangíveis - Terrenos e recursos naturais",
    "Observations": "",
@@ -2680,7 +2680,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "269",
+   "TaxonomyCode":269,
    "SNCSVAT": "432",
    "Description": "Ativos fixos tangíveis - Edifícios e outras construções",
    "Observations": "",
@@ -2690,7 +2690,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "270",
+   "TaxonomyCode":270,
    "SNCSVAT": "433",
    "Description": "Ativos fixos tangíveis - Equipamento básico",
    "Observations": "",
@@ -2700,7 +2700,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "271",
+   "TaxonomyCode":271,
    "SNCSVAT": "434",
    "Description": "Ativos fixos tangíveis - Equipamento de transporte",
    "Observations": "",
@@ -2710,7 +2710,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "272",
+   "TaxonomyCode":272,
    "SNCSVAT": "435",
    "Description": "Ativos fixos tangíveis - Equipamento administrativo",
    "Observations": "",
@@ -2720,7 +2720,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "273",
+   "TaxonomyCode":273,
    "SNCSVAT": "436",
    "Description": "Ativos fixos tangíveis - Equipamentos biológicos",
    "Observations": "",
@@ -2730,7 +2730,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "274",
+   "TaxonomyCode":274,
    "SNCSVAT": "437",
    "Description": "Ativos fixos tangíveis - Outros ativos fixos tangíveis",
    "Observations": "",
@@ -2740,7 +2740,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "275",
+   "TaxonomyCode":275,
    "SNCSVAT": "438",
    "Description": "Ativos fixos tangíveis - Depreciações acumuladas - Terrenos e recursos naturais",
    "Observations": "",
@@ -2750,7 +2750,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "276",
+   "TaxonomyCode":276,
    "SNCSVAT": "438",
    "Description": "Ativos fixos tangíveis - Depreciações acumuladas - Edifícios e outras construções",
    "Observations": "",
@@ -2760,7 +2760,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "277",
+   "TaxonomyCode":277,
    "SNCSVAT": "438",
    "Description": "Ativos fixos tangíveis - Depreciações acumuladas - Equipamento básico",
    "Observations": "",
@@ -2770,7 +2770,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "278",
+   "TaxonomyCode":278,
    "SNCSVAT": "438",
    "Description": "Ativos fixos tangíveis - Depreciações acumuladas - Equipamento de transporte",
    "Observations": "",
@@ -2780,7 +2780,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "279",
+   "TaxonomyCode":279,
    "SNCSVAT": "438",
    "Description": "Ativos fixos tangíveis - Depreciações acumuladas - Equipamento administrativo",
    "Observations": "",
@@ -2790,7 +2790,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "280",
+   "TaxonomyCode":280,
    "SNCSVAT": "438",
    "Description": "Ativos fixos tangíveis - Depreciações acumuladas - Equipamentos biológicos",
    "Observations": "",
@@ -2800,7 +2800,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "281",
+   "TaxonomyCode":281,
    "SNCSVAT": "438",
    "Description": "Ativos fixos tangíveis - Depreciações acumuladas - Outros ativos fixos tangíveis",
    "Observations": "",
@@ -2810,7 +2810,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "282",
+   "TaxonomyCode":282,
    "SNCSVAT": "439",
    "Description": "Ativos fixos tangíveis - Perdas por imparidade acumuladas - Terrenos e recursos naturais",
    "Observations": "",
@@ -2820,7 +2820,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "283",
+   "TaxonomyCode":283,
    "SNCSVAT": "439",
    "Description": "Ativos fixos tangíveis - Perdas por imparidade acumuladas - Edifícios e outras construções",
    "Observations": "",
@@ -2830,7 +2830,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "284",
+   "TaxonomyCode":284,
    "SNCSVAT": "439",
    "Description": "Ativos fixos tangíveis - Perdas por imparidade acumuladas - Equipamento básico",
    "Observations": "",
@@ -2840,7 +2840,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "285",
+   "TaxonomyCode":285,
    "SNCSVAT": "439",
    "Description": "Ativos fixos tangíveis - Perdas por imparidade acumuladas - Equipamento de transporte",
    "Observations": "",
@@ -2850,7 +2850,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "286",
+   "TaxonomyCode":286,
    "SNCSVAT": "439",
    "Description": "Ativos fixos tangíveis - Perdas por imparidade acumuladas - Equipamento administrativo",
    "Observations": "",
@@ -2860,7 +2860,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "287",
+   "TaxonomyCode":287,
    "SNCSVAT": "439",
    "Description": "Ativos fixos tangíveis - Perdas por imparidade acumuladas - Equipamentos biológicos",
    "Observations": "",
@@ -2870,7 +2870,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "288",
+   "TaxonomyCode":288,
    "SNCSVAT": "439",
    "Description": "Ativos fixos tangíveis - Perdas por imparidade acumuladas - Outros ativos fixos tangíveis",
    "Observations": "",
@@ -2880,7 +2880,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "289",
+   "TaxonomyCode":289,
    "SNCSVAT": "441",
    "Description": "Ativos intangíveis - Goodwill",
    "Observations": "",
@@ -2890,7 +2890,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "290",
+   "TaxonomyCode":290,
    "SNCSVAT": "442",
    "Description": "Ativos intangíveis - Projetos de desenvolvimento",
    "Observations": "",
@@ -2900,7 +2900,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "291",
+   "TaxonomyCode":291,
    "SNCSVAT": "443",
    "Description": "Ativos intangíveis - Programas de computador",
    "Observations": "",
@@ -2910,7 +2910,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "292",
+   "TaxonomyCode":292,
    "SNCSVAT": "444",
    "Description": "Ativos intangíveis - Propriedade industrial",
    "Observations": "",
@@ -2920,7 +2920,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "293",
+   "TaxonomyCode":293,
    "SNCSVAT": "446",
    "Description": "Ativos intangíveis - Outros ativos intangíveis",
    "Observations": "Incluir contas 445|447",
@@ -2930,7 +2930,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "294",
+   "TaxonomyCode":294,
    "SNCSVAT": "448",
    "Description": "Ativos intangíveis - Amortizações acumuladas - Goodwill",
    "Observations": "",
@@ -2940,7 +2940,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "295",
+   "TaxonomyCode":295,
    "SNCSVAT": "448",
    "Description": "Ativos intangíveis - Amortizações acumuladas - Projetos de desenvolvimento",
    "Observations": "",
@@ -2950,7 +2950,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "296",
+   "TaxonomyCode":296,
    "SNCSVAT": "448",
    "Description": "Ativos intangíveis - Amortizações acumuladas - Programas de computador",
    "Observations": "",
@@ -2960,7 +2960,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "297",
+   "TaxonomyCode":297,
    "SNCSVAT": "448",
    "Description": "Ativos intangíveis - Amortizações acumuladas - Propriedade industrial",
    "Observations": "",
@@ -2970,7 +2970,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "298",
+   "TaxonomyCode":298,
    "SNCSVAT": "448",
    "Description": "Ativos intangíveis - Amortizações acumuladas - Outros ativos intangíveis",
    "Observations": "",
@@ -2980,7 +2980,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "299",
+   "TaxonomyCode":299,
    "SNCSVAT": "449",
    "Description": "Ativos intangíveis - Perdas por imparidade acumuladas - Goodwill",
    "Observations": "",
@@ -2990,7 +2990,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "300",
+   "TaxonomyCode":300,
    "SNCSVAT": "449",
    "Description": "Ativos intangíveis - Perdas por imparidade acumuladas - Projetos de desenvolvimento",
    "Observations": "",
@@ -3000,7 +3000,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "301",
+   "TaxonomyCode":301,
    "SNCSVAT": "449",
    "Description": "Ativos intangíveis - Perdas por imparidade acumuladas - Programas de computador",
    "Observations": "",
@@ -3010,7 +3010,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "302",
+   "TaxonomyCode":302,
    "SNCSVAT": "449",
    "Description": "Ativos intangíveis - Perdas por imparidade acumuladas - Propriedade industrial",
    "Observations": "",
@@ -3020,7 +3020,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "303",
+   "TaxonomyCode":303,
    "SNCSVAT": "449",
    "Description": "Ativos intangíveis - Perdas por imparidade acumuladas - Outros ativos intangíveis",
    "Observations": "",
@@ -3030,7 +3030,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "304",
+   "TaxonomyCode":304,
    "SNCSVAT": "451",
    "Description": "Investimentos em curso - Investimentos financeiros em curso",
    "Observations": "(A) incluir contas 456|457|458",
@@ -3040,7 +3040,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "305",
+   "TaxonomyCode":305,
    "SNCSVAT": "452",
    "Description": "Investimentos em curso - Propriedades de investimento em curso",
    "Observations": "",
@@ -3050,7 +3050,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "306",
+   "TaxonomyCode":306,
    "SNCSVAT": "453",
    "Description": "Investimentos em curso - Ativos fixos tangíveis em curso",
    "Observations": "",
@@ -3060,7 +3060,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "307",
+   "TaxonomyCode":307,
    "SNCSVAT": "454",
    "Description": "Investimentos em curso - Ativos intangíveis em curso",
    "Observations": "",
@@ -3070,7 +3070,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "308",
+   "TaxonomyCode":308,
    "SNCSVAT": "455",
    "Description": "Investimentos em curso - Adiantamentos por conta de investimentos - Investimentos financeiros em curso",
    "Observations": "",
@@ -3080,7 +3080,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "309",
+   "TaxonomyCode":309,
    "SNCSVAT": "455",
    "Description": "Investimentos em curso - Adiantamentos por conta de investimentos - Propriedades de investimento em curso",
    "Observations": "",
@@ -3090,7 +3090,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "310",
+   "TaxonomyCode":310,
    "SNCSVAT": "455",
    "Description": "Investimentos em curso - Adiantamentos por conta de investimentos - Ativos fixos tangíveis em curso",
    "Observations": "",
@@ -3100,7 +3100,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "311",
+   "TaxonomyCode":311,
    "SNCSVAT": "455",
    "Description": "Investimentos em curso - Adiantamentos por conta de investimentos - Ativos intangíveis em curso",
    "Observations": "",
@@ -3110,7 +3110,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "312",
+   "TaxonomyCode":312,
    "SNCSVAT": "459",
    "Description": "Investimentos em curso - Perdas por imparidade acumuladas - Investimentos financeiros em curso",
    "Observations": "",
@@ -3120,7 +3120,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "313",
+   "TaxonomyCode":313,
    "SNCSVAT": "459",
    "Description": "Investimentos em curso - Perdas por imparidade acumuladas - Propriedades de investimento em curso",
    "Observations": "",
@@ -3130,7 +3130,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "314",
+   "TaxonomyCode":314,
    "SNCSVAT": "459",
    "Description": "Investimentos em curso - Perdas por imparidade acumuladas - Ativos fixos tangíveis em curso",
    "Observations": "",
@@ -3140,7 +3140,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "315",
+   "TaxonomyCode":315,
    "SNCSVAT": "459",
    "Description": "Investimentos em curso - Perdas por imparidade acumuladas - Ativos intangíveis em curso",
    "Observations": "",
@@ -3150,7 +3150,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "316",
+   "TaxonomyCode":316,
    "SNCSVAT": "459",
    "Description": "Investimentos em curso - Perdas por imparidade acumuladas - Adiantamentos por conta de investimentos - Investimentos financeiros em curso",
    "Observations": "",
@@ -3160,7 +3160,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "317",
+   "TaxonomyCode":317,
    "SNCSVAT": "459",
    "Description": "Investimentos em curso - Perdas por imparidade acumuladas - Adiantamentos por conta de investimentos - Propriedades de investimento em curso",
    "Observations": "",
@@ -3170,7 +3170,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "318",
+   "TaxonomyCode":318,
    "SNCSVAT": "459",
    "Description": "Investimentos em curso - Perdas por imparidade acumuladas - Adiantamentos por conta de investimentos - Ativos fixos tangíveis em curso",
    "Observations": "",
@@ -3180,7 +3180,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "319",
+   "TaxonomyCode":319,
    "SNCSVAT": "459",
    "Description": "Investimentos em curso - Perdas por imparidade acumuladas - Adiantamentos por conta de investimentos - Ativos intangíveis em curso",
    "Observations": "",
@@ -3190,7 +3190,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "320",
+   "TaxonomyCode":320,
    "SNCSVAT": "(C2) 461|462|463|464|465|466|467|468",
    "Description": "Ativos não correntes detidos para venda - Ativos não correntes detidos para venda - Investimentos financeiros",
    "Observations": "",
@@ -3200,7 +3200,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "321",
+   "TaxonomyCode":321,
    "SNCSVAT": "(C2) 461|462|463|464|465|466|467|468",
    "Description": "Ativos não correntes detidos para venda - Ativos não correntes detidos para venda - Propriedades de investimento",
    "Observations": "",
@@ -3210,7 +3210,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "322",
+   "TaxonomyCode":322,
    "SNCSVAT": "(C2) 461|462|463|464|465|466|467|468",
    "Description": "Ativos não correntes detidos para venda - Ativos não correntes detidos para venda - Ativos fixos tangíveis",
    "Observations": "",
@@ -3220,7 +3220,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "323",
+   "TaxonomyCode":323,
    "SNCSVAT": "(C2) 461|462|463|464|465|466|467|468",
    "Description": "Ativos não correntes detidos para venda - Ativos não correntes detidos para venda - Ativos intangíveis",
    "Observations": "",
@@ -3230,7 +3230,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "324",
+   "TaxonomyCode":324,
    "SNCSVAT": "(C2) 461|462|463|464|465|466|467|468",
    "Description": "Ativos não correntes detidos para venda - Ativos não correntes detidos para venda - Outros",
    "Observations": "",
@@ -3240,7 +3240,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "325",
+   "TaxonomyCode":325,
    "SNCSVAT": "(C2) 461|462|463|464|465|466|467|468",
    "Description": "Ativos não correntes detidos para venda - Passivos não correntes detidos para venda",
    "Observations": "",
@@ -3250,7 +3250,7 @@
    "Credit": "Passivos não correntes detidos para venda"
  },
  {
-   "TaxonomyCode": "326",
+   "TaxonomyCode":326,
    "SNCSVAT": "469",
    "Description": "Ativos não correntes detidos para venda - Perdas por imparidade acumuladas - Investimentos financeiros",
    "Observations": "",
@@ -3260,7 +3260,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "327",
+   "TaxonomyCode":327,
    "SNCSVAT": "469",
    "Description": "Ativos não correntes detidos para venda - Perdas por imparidade acumuladas - Propriedades de investimento",
    "Observations": "",
@@ -3270,7 +3270,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "328",
+   "TaxonomyCode":328,
    "SNCSVAT": "469",
    "Description": "Ativos não correntes detidos para venda - Perdas por imparidade acumuladas - Ativos fixos tangíveis",
    "Observations": "",
@@ -3280,7 +3280,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "329",
+   "TaxonomyCode":329,
    "SNCSVAT": "469",
    "Description": "Ativos não correntes detidos para venda - Perdas por imparidade acumuladas - Ativos intangíveis",
    "Observations": "",
@@ -3290,7 +3290,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "330",
+   "TaxonomyCode":330,
    "SNCSVAT": "469",
    "Description": "Ativos não correntes detidos para venda - Perdas por imparidade acumuladas - Outros",
    "Observations": "",
@@ -3300,7 +3300,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "331",
+   "TaxonomyCode":331,
    "SNCSVAT": "51",
    "Description": "Capital subscrito",
    "Observations": "",
@@ -3310,7 +3310,7 @@
    "Credit": "Capital Subscrito"
  },
  {
-   "TaxonomyCode": "332",
+   "TaxonomyCode":332,
    "SNCSVAT": "521",
    "Description": "Ações (quotas) próprias - Valor nominal",
    "Observations": "(A) Incluir contas 523|524|525|526|527|528|529",
@@ -3320,7 +3320,7 @@
    "Credit": "Ações (quotas) próprias"
  },
  {
-   "TaxonomyCode": "333",
+   "TaxonomyCode":333,
    "SNCSVAT": "522",
    "Description": "Ações (quotas) próprias - Descontos e prémios",
    "Observations": "",
@@ -3330,7 +3330,7 @@
    "Credit": "Ações (quotas) próprias"
  },
  {
-   "TaxonomyCode": "334",
+   "TaxonomyCode":334,
    "SNCSVAT": "53",
    "Description": "Outros instrumentos de capital próprio*",
    "Observations": "",
@@ -3340,7 +3340,7 @@
    "Credit": "Outros instrumentos de capital próprio"
  },
  {
-   "TaxonomyCode": "335",
+   "TaxonomyCode":335,
    "SNCSVAT": "54",
    "Description": "Prémios de emissão",
    "Observations": "",
@@ -3350,7 +3350,7 @@
    "Credit": "Prémios de emissão"
  },
  {
-   "TaxonomyCode": "336",
+   "TaxonomyCode":336,
    "SNCSVAT": "551",
    "Description": "Reservas - Reservas legais",
    "Observations": "",
@@ -3360,7 +3360,7 @@
    "Credit": "Reservas legais"
  },
  {
-   "TaxonomyCode": "337",
+   "TaxonomyCode":337,
    "SNCSVAT": "552",
    "Description": "Reservas - Outras reservas",
    "Observations": "Incluir contas 553|554|555|556|557|558|559",
@@ -3370,7 +3370,7 @@
    "Credit": "Outras reservas"
  },
  {
-   "TaxonomyCode": "338",
+   "TaxonomyCode":338,
    "SNCSVAT": "56",
    "Description": "Resultados transitados",
    "Observations": "",
@@ -3380,7 +3380,7 @@
    "Credit": "Resultados transitados"
  },
  {
-   "TaxonomyCode": "339",
+   "TaxonomyCode":339,
    "SNCSVAT": "5711",
    "Description": "Ajustamentos em ativos financeiros - Relacionados com o método da equivalência patrimonial - Ajustamentos de transição",
    "Observations": "",
@@ -3390,7 +3390,7 @@
    "Credit": "Ajustamentos / Outras variações no capital próprio"
  },
  {
-   "TaxonomyCode": "340",
+   "TaxonomyCode":340,
    "SNCSVAT": "5712",
    "Description": "Ajustamentos em ativos financeiros - Relacionados com o método da equivalência patrimonial - Lucros não atribuídos",
    "Observations": "",
@@ -3400,7 +3400,7 @@
    "Credit": "Ajustamentos / Outras variações no capital próprio"
  },
  {
-   "TaxonomyCode": "341",
+   "TaxonomyCode":341,
    "SNCSVAT": "5713",
    "Description": "Ajustamentos em ativos financeiros - Relacionados com o método da equivalência patrimonial - Decorrentes de outras variações nos capitais próprios das participadas",
    "Observations": "Incluir contas 5714|5715|5716|5717|5718|5719",
@@ -3410,7 +3410,7 @@
    "Credit": "Ajustamentos / Outras variações no capital próprio"
  },
  {
-   "TaxonomyCode": "342",
+   "TaxonomyCode":342,
    "SNCSVAT": "579",
    "Description": "Ajustamentos em ativos financeiros - Outros",
    "Observations": "Incluir contas 572|573|574|575|576|577|578",
@@ -3420,7 +3420,7 @@
    "Credit": "Ajustamentos / Outras variações no capital próprio"
  },
  {
-   "TaxonomyCode": "343",
+   "TaxonomyCode":343,
    "SNCSVAT": "5811",
    "Description": "Excedentes de revalorização de ativos fixos tangíveis e intangíveis - Reavaliações decorrentes de diplomas legais - Antes de imposto sobre o rendimento",
    "Observations": "",
@@ -3430,7 +3430,7 @@
    "Credit": "Excedentes de revalorização"
  },
  {
-   "TaxonomyCode": "344",
+   "TaxonomyCode":344,
    "SNCSVAT": "5812",
    "Description": "Excedentes de revalorização de ativos fixos tangíveis e intangíveis - Reavaliações decorrentes de diplomas legais - Impostos diferidos",
    "Observations": "",
@@ -3440,7 +3440,7 @@
    "Credit": "Excedentes de revalorização"
  },
  {
-   "TaxonomyCode": "345",
+   "TaxonomyCode":345,
    "SNCSVAT": "5891",
    "Description": "Excedentes de revalorização de ativos fixos tangíveis e intangíveis - Outros excedentes - Antes de imposto sobre o rendimento",
    "Observations": "Incluir contas 582|583|584|585|586|587|588",
@@ -3450,7 +3450,7 @@
    "Credit": "Excedentes de revalorização"
  },
  {
-   "TaxonomyCode": "346",
+   "TaxonomyCode":346,
    "SNCSVAT": "5892",
    "Description": "Excedentes de revalorização de ativos fixos tangíveis e intangíveis - Outros excedentes - Impostos diferidos",
    "Observations": "",
@@ -3460,7 +3460,7 @@
    "Credit": "Excedentes de revalorização"
  },
  {
-   "TaxonomyCode": "347",
+   "TaxonomyCode":347,
    "SNCSVAT": "591",
    "Description": "Outras variações no capital próprio - Diferenças de conversão de demonstrações financeiras",
    "Observations": "",
@@ -3470,7 +3470,7 @@
    "Credit": "Ajustamentos / Outras variações no capital próprio"
  },
  {
-   "TaxonomyCode": "348",
+   "TaxonomyCode":348,
    "SNCSVAT": "592",
    "Description": "Outras variações no capital próprio - Ajustamentos por impostos diferidos",
    "Observations": "",
@@ -3480,7 +3480,7 @@
    "Credit": "Ajustamentos / Outras variações no capital próprio"
  },
  {
-   "TaxonomyCode": "349",
+   "TaxonomyCode":349,
    "SNCSVAT": "5931",
    "Description": "Outras variações no capital próprio - Subsídios - Subsídios atribuídos",
    "Observations": "",
@@ -3490,7 +3490,7 @@
    "Credit": "Ajustamentos / Outras variações no capital próprio"
  },
  {
-   "TaxonomyCode": "350",
+   "TaxonomyCode":350,
    "SNCSVAT": "5932",
    "Description": "Outras variações no capital próprio - Subsídios - Ajustamentos em subsídios",
    "Observations": "",
@@ -3500,7 +3500,7 @@
    "Credit": "Ajustamentos / Outras variações no capital próprio"
  },
  {
-   "TaxonomyCode": "351",
+   "TaxonomyCode":351,
    "SNCSVAT": "594",
    "Description": "Outras variações no capital próprio - Doações",
    "Observations": "",
@@ -3510,7 +3510,7 @@
    "Credit": "Ajustamentos / Outras variações no capital próprio"
  },
  {
-   "TaxonomyCode": "352",
+   "TaxonomyCode":352,
    "SNCSVAT": "599",
    "Description": "Outras variações no capital próprio - Outras",
    "Observations": "Incluir contas 595|596|597|598",
@@ -3520,7 +3520,7 @@
    "Credit": "Ajustamentos / Outras variações no capital próprio"
  },
  {
-   "TaxonomyCode": "353",
+   "TaxonomyCode":353,
    "SNCSVAT": "611",
    "Description": "Custo das mercadorias vendidas e das matérias consumidas - Mercadorias",
    "Observations": "",
@@ -3530,7 +3530,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "354",
+   "TaxonomyCode":354,
    "SNCSVAT": "612",
    "Description": "Custo das mercadorias vendidas e das matérias consumidas - Matérias -primas, subsidiárias e de consumo",
    "Observations": "",
@@ -3540,7 +3540,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "355",
+   "TaxonomyCode":355,
    "SNCSVAT": "613",
    "Description": "Custo das mercadorias vendidas e das matérias consumidas - Ativos biológicos (compras)*",
    "Observations": "",
@@ -3550,7 +3550,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "356",
+   "TaxonomyCode":356,
    "SNCSVAT": "621",
    "Description": "Fornecimentos e serviços externos - Subcontratos",
    "Observations": "",
@@ -3560,7 +3560,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "357",
+   "TaxonomyCode":357,
    "SNCSVAT": "6221",
    "Description": "Fornecimentos e serviços externos - Serviços especializados - Trabalhos especializados",
    "Observations": "",
@@ -3570,7 +3570,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "358",
+   "TaxonomyCode":358,
    "SNCSVAT": "6222",
    "Description": "Fornecimentos e serviços externos - Serviços especializados - Publicidade e propaganda",
    "Observations": "",
@@ -3580,7 +3580,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "359",
+   "TaxonomyCode":359,
    "SNCSVAT": "6223",
    "Description": "Fornecimentos e serviços externos - Serviços especializados - Vigilância e segurança",
    "Observations": "",
@@ -3590,7 +3590,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "360",
+   "TaxonomyCode":360,
    "SNCSVAT": "6224",
    "Description": "Fornecimentos e serviços externos - Serviços especializados - Honorários",
    "Observations": "",
@@ -3600,7 +3600,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "361",
+   "TaxonomyCode":361,
    "SNCSVAT": "6225",
    "Description": "Fornecimentos e serviços externos - Serviços especializados - Comissões",
    "Observations": "",
@@ -3610,7 +3610,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "362",
+   "TaxonomyCode":362,
    "SNCSVAT": "6226",
    "Description": "Fornecimentos e serviços externos - Serviços especializados - Conservação e reparação",
    "Observations": "",
@@ -3620,7 +3620,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "363",
+   "TaxonomyCode":363,
    "SNCSVAT": "6228",
    "Description": "Fornecimentos e serviços externos - Serviços especializados - Outros",
    "Observations": "Incluir conta 6227",
@@ -3630,7 +3630,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "364",
+   "TaxonomyCode":364,
    "SNCSVAT": "6231",
    "Description": "Fornecimentos e serviços externos - Materiais - Ferramentas e utensílios de desgaste rápido",
    "Observations": "",
@@ -3640,7 +3640,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "365",
+   "TaxonomyCode":365,
    "SNCSVAT": "6232",
    "Description": "Fornecimentos e serviços externos - Materiais - Livros e documentação técnica",
    "Observations": "",
@@ -3650,7 +3650,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "366",
+   "TaxonomyCode":366,
    "SNCSVAT": "6233",
    "Description": "Fornecimentos e serviços externos - Materiais - Material de escritório",
    "Observations": "",
@@ -3660,7 +3660,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "367",
+   "TaxonomyCode":367,
    "SNCSVAT": "6234",
    "Description": "Fornecimentos e serviços externos - Materiais - Artigos para oferta",
    "Observations": "",
@@ -3670,7 +3670,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "368",
+   "TaxonomyCode":368,
    "SNCSVAT": "6238",
    "Description": "Fornecimentos e serviços externos - Materiais - Outros",
    "Observations": "Incluir contas 6235|6236|6237",
@@ -3680,7 +3680,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "369",
+   "TaxonomyCode":369,
    "SNCSVAT": "6241",
    "Description": "Fornecimentos e serviços externos - Energia e fluidos - Eletricidade",
    "Observations": "",
@@ -3690,7 +3690,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "370",
+   "TaxonomyCode":370,
    "SNCSVAT": "6242",
    "Description": "Fornecimentos e serviços externos - Energia e fluidos - Combustíveis",
    "Observations": "",
@@ -3700,7 +3700,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "371",
+   "TaxonomyCode":371,
    "SNCSVAT": "6243",
    "Description": "Fornecimentos e serviços externos - Energia e fluidos - Água",
    "Observations": "",
@@ -3710,7 +3710,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "372",
+   "TaxonomyCode":372,
    "SNCSVAT": "6248",
    "Description": "Fornecimentos e serviços externos - Energia e fluidos - Outros",
    "Observations": "Incluir contas 6244|6245|6246|6247",
@@ -3720,7 +3720,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "373",
+   "TaxonomyCode":373,
    "SNCSVAT": "6251",
    "Description": "Fornecimentos e serviços externos - Deslocações, estadas e transportes - Deslocações e estadas",
    "Observations": "",
@@ -3730,7 +3730,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "374",
+   "TaxonomyCode":374,
    "SNCSVAT": "6252",
    "Description": "Fornecimentos e serviços externos - Deslocações, estadas e transportes - Transportes de pessoal",
    "Observations": "",
@@ -3740,7 +3740,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "375",
+   "TaxonomyCode":375,
    "SNCSVAT": "6253",
    "Description": "Fornecimentos e serviços externos - Deslocações, estadas e transportes - Transportes de mercadorias",
    "Observations": "",
@@ -3750,7 +3750,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "376",
+   "TaxonomyCode":376,
    "SNCSVAT": "6258",
    "Description": "Fornecimentos e serviços externos - Deslocações, estadas e transportes - Outros",
    "Observations": "Incluir contas 6254|6255|6256|6257",
@@ -3760,7 +3760,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "377",
+   "TaxonomyCode":377,
    "SNCSVAT": "6261",
    "Description": "Fornecimentos e serviços externos - Serviços diversos - Rendas e alugueres",
    "Observations": "",
@@ -3770,7 +3770,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "378",
+   "TaxonomyCode":378,
    "SNCSVAT": "6262",
    "Description": "Fornecimentos e serviços externos - Serviços diversos - Comunicação",
    "Observations": "",
@@ -3780,7 +3780,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "379",
+   "TaxonomyCode":379,
    "SNCSVAT": "6263",
    "Description": "Fornecimentos e serviços externos - Serviços diversos - Seguros",
    "Observations": "",
@@ -3790,7 +3790,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "380",
+   "TaxonomyCode":380,
    "SNCSVAT": "6264",
    "Description": "Fornecimentos e serviços externos - Serviços diversos - Royalties",
    "Observations": "",
@@ -3800,7 +3800,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "381",
+   "TaxonomyCode":381,
    "SNCSVAT": "6265",
    "Description": "Fornecimentos e serviços externos - Serviços diversos - Contencioso e notariado",
    "Observations": "",
@@ -3810,7 +3810,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "382",
+   "TaxonomyCode":382,
    "SNCSVAT": "6266",
    "Description": "Fornecimentos e serviços externos - Serviços diversos - Despesas de representação",
    "Observations": "",
@@ -3820,7 +3820,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "383",
+   "TaxonomyCode":383,
    "SNCSVAT": "6267",
    "Description": "Fornecimentos e serviços externos - Serviços diversos - Limpeza, higiene e conforto",
    "Observations": "",
@@ -3830,7 +3830,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "384",
+   "TaxonomyCode":384,
    "SNCSVAT": "6268",
    "Description": "Fornecimentos e serviços externos - Serviços diversos - Outros serviços",
    "Observations": "",
@@ -3840,7 +3840,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "385",
+   "TaxonomyCode":385,
    "SNCSVAT": "631",
    "Description": "Gastos com o pessoal - Remunerações dos órgãos sociais",
    "Observations": "",
@@ -3850,7 +3850,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "386",
+   "TaxonomyCode":386,
    "SNCSVAT": "632",
    "Description": "Gastos com o pessoal - Remunerações do pessoal",
    "Observations": "",
@@ -3860,7 +3860,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "387",
+   "TaxonomyCode":387,
    "SNCSVAT": "6331",
    "Description": "Gastos com o pessoal - Benefícios pós -emprego - Prémios para pensões",
    "Observations": "",
@@ -3870,7 +3870,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "388",
+   "TaxonomyCode":388,
    "SNCSVAT": "6332",
    "Description": "Gastos com o pessoal - Benefícios pós -emprego - Outros benefícios",
    "Observations": "",
@@ -3880,7 +3880,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "389",
+   "TaxonomyCode":389,
    "SNCSVAT": "634",
    "Description": "Gastos com o pessoal - Indemnizações",
    "Observations": "",
@@ -3890,7 +3890,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "390",
+   "TaxonomyCode":390,
    "SNCSVAT": "635",
    "Description": "Gastos com o pessoal - Encargos sobre remunerações",
    "Observations": "",
@@ -3900,7 +3900,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "391",
+   "TaxonomyCode":391,
    "SNCSVAT": "636",
    "Description": "Gastos com o pessoal - Seguros de acidentes no trabalho e doenças profissionais",
    "Observations": "",
@@ -3910,7 +3910,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "392",
+   "TaxonomyCode":392,
    "SNCSVAT": "637",
    "Description": "Gastos com o pessoal - Gastos de ação social",
    "Observations": "",
@@ -3920,7 +3920,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "393",
+   "TaxonomyCode":393,
    "SNCSVAT": "638",
    "Description": "Gastos com o pessoal - Outros gastos com o pessoal",
    "Observations": "",
@@ -3930,7 +3930,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "394",
+   "TaxonomyCode":394,
    "SNCSVAT": "641",
    "Description": "Gastos de depreciação e de amortização - Propriedades de investimento - Terrenos e recursos naturais",
    "Observations": "",
@@ -3940,7 +3940,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "395",
+   "TaxonomyCode":395,
    "SNCSVAT": "641",
    "Description": "Gastos de depreciação e de amortização - Propriedades de investimento - Edifícios e outras construções",
    "Observations": "",
@@ -3950,7 +3950,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "396",
+   "TaxonomyCode":396,
    "SNCSVAT": "641",
    "Description": "Gastos de depreciação e de amortização - Propriedades de investimento - Outras propriedades de investimento",
    "Observations": "",
@@ -3960,7 +3960,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "397",
+   "TaxonomyCode":397,
    "SNCSVAT": "642",
    "Description": "Gastos de depreciação e de amortização - Ativos fixos tangíveis - Terrenos e recursos naturais",
    "Observations": "",
@@ -3970,7 +3970,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "398",
+   "TaxonomyCode":398,
    "SNCSVAT": "642",
    "Description": "Gastos de depreciação e de amortização - Ativos fixos tangíveis - Edifícios e outras construções",
    "Observations": "",
@@ -3980,7 +3980,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "399",
+   "TaxonomyCode":399,
    "SNCSVAT": "642",
    "Description": "Gastos de depreciação e de amortização - Ativos fixos tangíveis - Equipamento básico",
    "Observations": "",
@@ -3990,7 +3990,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "400",
+   "TaxonomyCode":400,
    "SNCSVAT": "642",
    "Description": "Gastos de depreciação e de amortização - Ativos fixos tangíveis - Equipamento de transporte",
    "Observations": "",
@@ -4000,7 +4000,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "401",
+   "TaxonomyCode":401,
    "SNCSVAT": "642",
    "Description": "Gastos de depreciação e de amortização - Ativos fixos tangíveis - Equipamento administrativo",
    "Observations": "",
@@ -4010,7 +4010,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "402",
+   "TaxonomyCode":402,
    "SNCSVAT": "642",
    "Description": "Gastos de depreciação e de amortização - Ativos fixos tangíveis - Equipamentos biológicos",
    "Observations": "",
@@ -4020,7 +4020,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "403",
+   "TaxonomyCode":403,
    "SNCSVAT": "642",
    "Description": "Gastos de depreciação e de amortização - Ativos fixos tangíveis - Outros ativos fixos tangíveis",
    "Observations": "",
@@ -4030,7 +4030,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "404",
+   "TaxonomyCode":404,
    "SNCSVAT": "643",
    "Description": "Gastos de depreciação e de amortização - Ativos intangíveis - Goodwill",
    "Observations": "",
@@ -4040,7 +4040,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "405",
+   "TaxonomyCode":405,
    "SNCSVAT": "643",
    "Description": "Gastos de depreciação e de amortização - Ativos intangíveis - Projetos de desenvolvimento",
    "Observations": "",
@@ -4050,7 +4050,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "406",
+   "TaxonomyCode":406,
    "SNCSVAT": "643",
    "Description": "Gastos de depreciação e de amortização - Ativos intangíveis - Programas de computador",
    "Observations": "",
@@ -4060,7 +4060,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "407",
+   "TaxonomyCode":407,
    "SNCSVAT": "643",
    "Description": "Gastos de depreciação e de amortização - Ativos intangíveis - Propriedade industrial",
    "Observations": "",
@@ -4070,7 +4070,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "408",
+   "TaxonomyCode":408,
    "SNCSVAT": "643",
    "Description": "Gastos de depreciação e de amortização - Ativos intangíveis - Outros ativos intangíveis",
    "Observations": "",
@@ -4080,7 +4080,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "409",
+   "TaxonomyCode":409,
    "SNCSVAT": "(C2) 641|642|643",
    "Description": "Gastos de depreciação e de amortização - Ativos biológicos - Consumíveis",
    "Observations": "",
@@ -4090,7 +4090,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "410",
+   "TaxonomyCode":410,
    "SNCSVAT": "(C2) 641|642|643",
    "Description": "Gastos de depreciação e de amortização - Ativos biológicos - De produção",
    "Observations": "",
@@ -4100,7 +4100,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "411",
+   "TaxonomyCode":411,
    "SNCSVAT": "(C2) 641|642|643",
    "Description": "Gastos de depreciação e de amortização - Investimentos financeiros - Goodwill",
    "Observations": "",
@@ -4110,7 +4110,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "412",
+   "TaxonomyCode":412,
    "SNCSVAT": "(C2) 6511|6512|652|653|654|655|656|657|658",
    "Description": "Perdas por imparidade - Instrumentos financeiros",
    "Observations": "",
@@ -4120,7 +4120,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "413",
+   "TaxonomyCode":413,
    "SNCSVAT": "6511",
    "Description": "Perdas por imparidade - Em dívidas a receber - Clientes",
    "Observations": "",
@@ -4130,7 +4130,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "414",
+   "TaxonomyCode":414,
    "SNCSVAT": "6512",
    "Description": "Perdas por imparidade - Em dívidas a receber - Outros devedores",
    "Observations": "",
@@ -4140,7 +4140,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "415",
+   "TaxonomyCode":415,
    "SNCSVAT": "652",
    "Description": "Perdas por imparidade - Em inventários - Mercadorias",
    "Observations": "",
@@ -4150,7 +4150,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "416",
+   "TaxonomyCode":416,
    "SNCSVAT": "652",
    "Description": "Perdas por imparidade - Em inventários - Matérias -primas, subsidiárias e de consumo",
    "Observations": "",
@@ -4160,7 +4160,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "417",
+   "TaxonomyCode":417,
    "SNCSVAT": "652",
    "Description": "Perdas por imparidade - Em inventários - Produtos acabados e intermédios",
    "Observations": "",
@@ -4170,7 +4170,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "418",
+   "TaxonomyCode":418,
    "SNCSVAT": "652",
    "Description": "Perdas por imparidade - Em inventários - Subprodutos, desperdícios, resíduos e refugos",
    "Observations": "",
@@ -4180,7 +4180,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "419",
+   "TaxonomyCode":419,
    "SNCSVAT": "652",
    "Description": "Perdas por imparidade - Em inventários - Produtos e trabalhos em curso",
    "Observations": "",
@@ -4190,7 +4190,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "420",
+   "TaxonomyCode":420,
    "SNCSVAT": "652",
    "Description": "Perdas por imparidade - Em inventários - Ativos biológicos consumíveis",
    "Observations": "",
@@ -4200,7 +4200,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "421",
+   "TaxonomyCode":421,
    "SNCSVAT": "652",
    "Description": "Perdas por imparidade - Em inventários - Ativos biológicos de produção",
    "Observations": "",
@@ -4210,7 +4210,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "422",
+   "TaxonomyCode":422,
    "SNCSVAT": "653",
    "Description": "Perdas por imparidade - Em investimentos financeiros - Participações de capital",
    "Observations": "",
@@ -4220,7 +4220,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "423",
+   "TaxonomyCode":423,
    "SNCSVAT": "653",
    "Description": "Perdas por imparidade - Em investimentos financeiros - Empréstimos concedidos",
    "Observations": "",
@@ -4230,7 +4230,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "424",
+   "TaxonomyCode":424,
    "SNCSVAT": "653",
    "Description": "Perdas por imparidade - Em investimentos financeiros - Outros investimentos financeiros",
    "Observations": "",
@@ -4240,7 +4240,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "425",
+   "TaxonomyCode":425,
    "SNCSVAT": "653",
    "Description": "Perdas por imparidade - Em investimentos financeiros - Goodwill",
    "Observations": "",
@@ -4250,7 +4250,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "426",
+   "TaxonomyCode":426,
    "SNCSVAT": "654",
    "Description": "Perdas por imparidade - Em propriedades de investimento - Terrenos e recursos naturais",
    "Observations": "",
@@ -4260,7 +4260,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "427",
+   "TaxonomyCode":427,
    "SNCSVAT": "654",
    "Description": "Perdas por imparidade - Em propriedades de investimento - Edifícios e outras construções",
    "Observations": "",
@@ -4270,7 +4270,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "428",
+   "TaxonomyCode":428,
    "SNCSVAT": "654",
    "Description": "Perdas por imparidade - Em propriedades de investimento - Outras propriedades de investimento",
    "Observations": "",
@@ -4280,7 +4280,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "429",
+   "TaxonomyCode":429,
    "SNCSVAT": "655",
    "Description": "Perdas por imparidade - Em ativos fixos tangíveis - Terrenos e recursos naturais",
    "Observations": "",
@@ -4290,7 +4290,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "430",
+   "TaxonomyCode":430,
    "SNCSVAT": "655",
    "Description": "Perdas por imparidade - Em ativos fixos tangíveis - Edifícios e outras construções",
    "Observations": "",
@@ -4300,7 +4300,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "431",
+   "TaxonomyCode":431,
    "SNCSVAT": "655",
    "Description": "Perdas por imparidade - Em ativos fixos tangíveis - Equipamento básico",
    "Observations": "",
@@ -4310,7 +4310,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "432",
+   "TaxonomyCode":432,
    "SNCSVAT": "655",
    "Description": "Perdas por imparidade - Em ativos fixos tangíveis - Equipamento de transporte",
    "Observations": "",
@@ -4320,7 +4320,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "433",
+   "TaxonomyCode":433,
    "SNCSVAT": "655",
    "Description": "Perdas por imparidade - Em ativos fixos tangíveis - Equipamento administrativo",
    "Observations": "",
@@ -4330,7 +4330,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "434",
+   "TaxonomyCode":434,
    "SNCSVAT": "655",
    "Description": "Perdas por imparidade - Em ativos fixos tangíveis - Equipamentos biológicos",
    "Observations": "",
@@ -4340,7 +4340,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "435",
+   "TaxonomyCode":435,
    "SNCSVAT": "655",
    "Description": "Perdas por imparidade - Em ativos fixos tangíveis - Outros ativos fixos tangíveis",
    "Observations": "",
@@ -4350,7 +4350,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "436",
+   "TaxonomyCode":436,
    "SNCSVAT": "656",
    "Description": "Perdas por imparidade - Em ativos intangíveis - Goodwill",
    "Observations": "",
@@ -4360,7 +4360,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "437",
+   "TaxonomyCode":437,
    "SNCSVAT": "656",
    "Description": "Perdas por imparidade - Em ativos intangíveis - Projetos de desenvolvimento",
    "Observations": "",
@@ -4370,7 +4370,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "438",
+   "TaxonomyCode":438,
    "SNCSVAT": "656",
    "Description": "Perdas por imparidade - Em ativos intangíveis - Programas de computador",
    "Observations": "",
@@ -4380,7 +4380,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "439",
+   "TaxonomyCode":439,
    "SNCSVAT": "656",
    "Description": "Perdas por imparidade - Em ativos intangíveis - Propriedade industrial",
    "Observations": "",
@@ -4390,7 +4390,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "440",
+   "TaxonomyCode":440,
    "SNCSVAT": "656",
    "Description": "Perdas por imparidade - Em ativos intangíveis - Outros ativos intangíveis",
    "Observations": "",
@@ -4400,7 +4400,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "441",
+   "TaxonomyCode":441,
    "SNCSVAT": "657",
    "Description": "Perdas por imparidade - Em investimentos em curso - Investimentos financeiros em curso",
    "Observations": "",
@@ -4410,7 +4410,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "442",
+   "TaxonomyCode":442,
    "SNCSVAT": "657",
    "Description": "Perdas por imparidade - Em investimentos em curso - Propriedades de investimento em curso",
    "Observations": "",
@@ -4420,7 +4420,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "443",
+   "TaxonomyCode":443,
    "SNCSVAT": "657",
    "Description": "Perdas por imparidade - Em investimentos em curso - Ativos fixos tangíveis em curso",
    "Observations": "",
@@ -4430,7 +4430,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "444",
+   "TaxonomyCode":444,
    "SNCSVAT": "657",
    "Description": "Perdas por imparidade - Em investimentos em curso - Ativos intangíveis em curso",
    "Observations": "",
@@ -4440,7 +4440,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "445",
+   "TaxonomyCode":445,
    "SNCSVAT": "657",
    "Description": "Perdas por imparidade - Em investimentos em curso - Adiantamentos por conta de investimentos - Investimentos financeiros em curso",
    "Observations": "",
@@ -4450,7 +4450,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "446",
+   "TaxonomyCode":446,
    "SNCSVAT": "657",
    "Description": "Perdas por imparidade - Em investimentos em curso - Adiantamentos por conta de investimentos - Propriedades de investimento em curso",
    "Observations": "",
@@ -4460,7 +4460,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "447",
+   "TaxonomyCode":447,
    "SNCSVAT": "657",
    "Description": "Perdas por imparidade - Em investimentos em curso - Adiantamentos por conta de investimentos - Ativos fixos tangíveis em curso",
    "Observations": "",
@@ -4470,7 +4470,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "448",
+   "TaxonomyCode":448,
    "SNCSVAT": "657",
    "Description": "Perdas por imparidade - Em investimentos em curso - Adiantamentos por conta de investimentos - Ativos intangíveis em curso",
    "Observations": "",
@@ -4480,7 +4480,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "449",
+   "TaxonomyCode":449,
    "SNCSVAT": "658",
    "Description": "Perdas por imparidade - Em ativos não correntes detidos para venda - Investimentos financeiros",
    "Observations": "",
@@ -4490,7 +4490,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "450",
+   "TaxonomyCode":450,
    "SNCSVAT": "658",
    "Description": "Perdas por imparidade - Em ativos não correntes detidos para venda - Propriedades de investimento",
    "Observations": "",
@@ -4500,7 +4500,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "451",
+   "TaxonomyCode":451,
    "SNCSVAT": "658",
    "Description": "Perdas por imparidade - Em ativos não correntes detidos para venda - Ativos fixos tangíveis",
    "Observations": "",
@@ -4510,7 +4510,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "452",
+   "TaxonomyCode":452,
    "SNCSVAT": "658",
    "Description": "Perdas por imparidade - Em ativos não correntes detidos para venda - Ativos intangíveis",
    "Observations": "",
@@ -4520,7 +4520,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "453",
+   "TaxonomyCode":453,
    "SNCSVAT": "658",
    "Description": "Perdas por imparidade - Em ativos não correntes detidos para venda - Outros",
    "Observations": "",
@@ -4530,7 +4530,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "454",
+   "TaxonomyCode":454,
    "SNCSVAT": "661",
    "Description": "Perdas por reduções de justo valor - Em instrumentos financeiros",
    "Observations": "",
@@ -4540,7 +4540,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "455",
+   "TaxonomyCode":455,
    "SNCSVAT": "662",
    "Description": "Perdas por reduções de justo valor - Em investimentos financeiros - Participações de capital",
    "Observations": "",
@@ -4550,7 +4550,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "456",
+   "TaxonomyCode":456,
    "SNCSVAT": "662",
    "Description": "Perdas por reduções de justo valor - Em investimentos financeiros - Outros investimentos financeiros",
    "Observations": "",
@@ -4560,7 +4560,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "457",
+   "TaxonomyCode":457,
    "SNCSVAT": "663",
    "Description": "Perdas por reduções de justo valor - Em propriedades de investimento - Terrenos e recursos naturais",
    "Observations": "",
@@ -4570,7 +4570,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "458",
+   "TaxonomyCode":458,
    "SNCSVAT": "663",
    "Description": "Perdas por reduções de justo valor - Em propriedades de investimento - Edifícios e outras construções",
    "Observations": "",
@@ -4580,7 +4580,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "459",
+   "TaxonomyCode":459,
    "SNCSVAT": "663",
    "Description": "Perdas por reduções de justo valor - Em propriedades de investimento - Outras propriedades de investimento",
    "Observations": "",
@@ -4590,7 +4590,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "460",
+   "TaxonomyCode":460,
    "SNCSVAT": "663",
    "Description": "Perdas por reduções de justo valor - Em propriedades de investimento - Propriedades de investimento em curso",
    "Observations": "",
@@ -4600,7 +4600,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "461",
+   "TaxonomyCode":461,
    "SNCSVAT": "664",
    "Description": "Perdas por reduções de justo valor - Em ativos biológicos - Consumíveis",
    "Observations": "",
@@ -4610,7 +4610,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "462",
+   "TaxonomyCode":462,
    "SNCSVAT": "664",
    "Description": "Perdas por reduções de justo valor - Em ativos biológicos - De produção",
    "Observations": "",
@@ -4620,7 +4620,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "463",
+   "TaxonomyCode":463,
    "SNCSVAT": "671",
    "Description": "Provisões do período - Impostos",
    "Observations": "",
@@ -4630,7 +4630,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "464",
+   "TaxonomyCode":464,
    "SNCSVAT": "672",
    "Description": "Provisões do período - Garantias a clientes",
    "Observations": "",
@@ -4640,7 +4640,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "465",
+   "TaxonomyCode":465,
    "SNCSVAT": "673",
    "Description": "Provisões do período - Processos judiciais em curso",
    "Observations": "",
@@ -4650,7 +4650,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "466",
+   "TaxonomyCode":466,
    "SNCSVAT": "674",
    "Description": "Provisões do período - Acidentes no trabalho e doenças profissionais",
    "Observations": "",
@@ -4660,7 +4660,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "467",
+   "TaxonomyCode":467,
    "SNCSVAT": "675",
    "Description": "Provisões do período - Matérias ambientais",
    "Observations": "",
@@ -4670,7 +4670,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "468",
+   "TaxonomyCode":468,
    "SNCSVAT": "676",
    "Description": "Provisões do período - Contratos onerosos",
    "Observations": "",
@@ -4680,7 +4680,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "469",
+   "TaxonomyCode":469,
    "SNCSVAT": "677",
    "Description": "Provisões do período - Reestruturação",
    "Observations": "",
@@ -4690,7 +4690,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "470",
+   "TaxonomyCode":470,
    "SNCSVAT": "678",
    "Description": "Provisões do período - Outras provisões",
    "Observations": "",
@@ -4700,7 +4700,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "471",
+   "TaxonomyCode":471,
    "SNCSVAT": "6811",
    "Description": "Outros gastos - Impostos - Impostos diretos",
    "Observations": "",
@@ -4710,7 +4710,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "472",
+   "TaxonomyCode":472,
    "SNCSVAT": "6812",
    "Description": "Outros gastos - Impostos - Impostos indiretos",
    "Observations": "",
@@ -4720,7 +4720,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "473",
+   "TaxonomyCode":473,
    "SNCSVAT": "6813",
    "Description": "Outros gastos - Impostos - Taxas",
    "Observations": "",
@@ -4730,7 +4730,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "474",
+   "TaxonomyCode":474,
    "SNCSVAT": "682",
    "Description": "Outros gastos - Descontos de pronto pagamento concedidos",
    "Observations": "",
@@ -4740,7 +4740,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "475",
+   "TaxonomyCode":475,
    "SNCSVAT": "683",
    "Description": "Outros gastos - Dívidas incobráveis",
    "Observations": "",
@@ -4750,7 +4750,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "476",
+   "TaxonomyCode":476,
    "SNCSVAT": "6841",
    "Description": "Outros gastos - Perdas em inventários - Sinistros",
    "Observations": "",
@@ -4760,7 +4760,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "477",
+   "TaxonomyCode":477,
    "SNCSVAT": "6842",
    "Description": "Outros gastos - Perdas em inventários - Quebras",
    "Observations": "",
@@ -4770,7 +4770,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "478",
+   "TaxonomyCode":478,
    "SNCSVAT": "6848",
    "Description": "Outros gastos - Perdas em inventários - Outras perdas",
    "Observations": "Incluir contas 6843|6844|6845|6846|6847",
@@ -4780,7 +4780,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "479",
+   "TaxonomyCode":479,
    "SNCSVAT": "6851",
    "Description": "Outros gastos - Gastos em subsidiárias, associadas e empreendimentos conjuntos - Cobertura de prejuízos",
    "Observations": "",
@@ -4790,7 +4790,7 @@
    "Credit": "Ganhos / perdas imputados de subsidiárias, associadas e empreendimentos conjuntos"
  },
  {
-   "TaxonomyCode": "480",
+   "TaxonomyCode":480,
    "SNCSVAT": "6852",
    "Description": "Outros gastos - Gastos em subsidiárias, associadas e empreendimentos conjuntos - Aplicação do método da equivalência patrimonial",
    "Observations": "",
@@ -4800,7 +4800,7 @@
    "Credit": "Ganhos / perdas imputados de subsidiárias, associadas e empreendimentos conjuntos"
  },
  {
-   "TaxonomyCode": "481",
+   "TaxonomyCode":481,
    "SNCSVAT": "6853",
    "Description": "Outros gastos - Gastos em subsidiárias, associadas e empreendimentos conjuntos - Alienações",
    "Observations": "",
@@ -4810,7 +4810,7 @@
    "Credit": "Ganhos / perdas imputados de subsidiárias, associadas e empreendimentos conjuntos"
  },
  {
-   "TaxonomyCode": "482",
+   "TaxonomyCode":482,
    "SNCSVAT": "6858",
    "Description": "Outros gastos - Gastos em subsidiárias, associadas e empreendimentos conjuntos - Outros gastos",
    "Observations": "Incluir contas 6854|6855|6856|6857",
@@ -4820,7 +4820,7 @@
    "Credit": "Ganhos / perdas imputados de subsidiárias, associadas e empreendimentos conjuntos"
  },
  {
-   "TaxonomyCode": "483",
+   "TaxonomyCode":483,
    "SNCSVAT": "6861",
    "Description": "Outros gastos - Gastos nos restantes investimentos financeros - Cobertura de prejuízos",
    "Observations": "",
@@ -4830,7 +4830,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "484",
+   "TaxonomyCode":484,
    "SNCSVAT": "6862",
    "Description": "Outros gastos - Gastos nos restantes investimentos financeros - Alienações",
    "Observations": "",
@@ -4840,7 +4840,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "485",
+   "TaxonomyCode":485,
    "SNCSVAT": "6863",
    "Description": "Outros gastos - Gastos nos restantes investimentos financeros - Diferenças de câmbio desfavoráveis",
    "Observations": "",
@@ -4850,7 +4850,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "486",
+   "TaxonomyCode":486,
    "SNCSVAT": "6868",
    "Description": "Outros gastos - Gastos nos restantes investimentos financeros - Outros gastos",
    "Observations": "Incluir contas 6864|6865|6866|6867",
@@ -4860,7 +4860,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "487",
+   "TaxonomyCode":487,
    "SNCSVAT": "6871",
    "Description": "Outros gastos - Gastos em investimentos não financeiros - Alienações",
    "Observations": "",
@@ -4870,7 +4870,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "488",
+   "TaxonomyCode":488,
    "SNCSVAT": "6872",
    "Description": "Outros gastos - Gastos em investimentos não financeiros - Sinistros",
    "Observations": "",
@@ -4880,7 +4880,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "489",
+   "TaxonomyCode":489,
    "SNCSVAT": "6873",
    "Description": "Outros gastos - Gastos em investimentos não financeiros - Abates",
    "Observations": "",
@@ -4890,7 +4890,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "490",
+   "TaxonomyCode":490,
    "SNCSVAT": "6874",
    "Description": "Outros gastos - Gastos em investimentos não financeiros - Gastos em propriedades de investimento",
    "Observations": "",
@@ -4900,7 +4900,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "491",
+   "TaxonomyCode":491,
    "SNCSVAT": "6878",
    "Description": "Outros gastos - Gastos em investimentos não financeiros - Outras gastos",
    "Observations": "Incluir contas 6875|6876|6877",
@@ -4910,7 +4910,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "492",
+   "TaxonomyCode":492,
    "SNCSVAT": "6881",
    "Description": "Outros gastos - Outros - Correções relativas a períodos anteriores",
    "Observations": "",
@@ -4920,7 +4920,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "493",
+   "TaxonomyCode":493,
    "SNCSVAT": "6882",
    "Description": "Outros gastos - Outros - Donativos",
    "Observations": "",
@@ -4930,7 +4930,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "494",
+   "TaxonomyCode":494,
    "SNCSVAT": "6883",
    "Description": "Outros gastos - Outros - Quotizações",
    "Observations": "",
@@ -4940,7 +4940,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "495",
+   "TaxonomyCode":495,
    "SNCSVAT": "6884",
    "Description": "Outros gastos - Outros - Ofertas e amostras de inventários",
    "Observations": "",
@@ -4950,7 +4950,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "496",
+   "TaxonomyCode":496,
    "SNCSVAT": "6885",
    "Description": "Outros gastos - Outros - Insuficiência da estimativa para impostos",
    "Observations": "",
@@ -4960,7 +4960,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "497",
+   "TaxonomyCode":497,
    "SNCSVAT": "6886",
    "Description": "Outros gastos - Outros - Perdas em instrumentos financeiros",
    "Observations": "",
@@ -4970,7 +4970,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "498",
+   "TaxonomyCode":498,
    "SNCSVAT": "6887",
    "Description": "Outros gastos - Outros - Diferenças de câmbio desfavoráveis",
    "Observations": "",
@@ -4980,7 +4980,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "499",
+   "TaxonomyCode":499,
    "SNCSVAT": "6888",
    "Description": "Outros gastos - Outros - Outros não especificados",
    "Observations": "",
@@ -4990,7 +4990,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "500",
+   "TaxonomyCode":500,
    "SNCSVAT": "6911",
    "Description": "Gastos de financiamento - Juros suportados - Juros de financiamentos obtidos",
    "Observations": "",
@@ -5000,7 +5000,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "501",
+   "TaxonomyCode":501,
    "SNCSVAT": "6918",
    "Description": "Gastos de financiamento - Juros suportados - Outros juros",
    "Observations": "Incluir contas 6912|6913|6914|6915|6916|6917",
@@ -5010,7 +5010,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "502",
+   "TaxonomyCode":502,
    "SNCSVAT": "6921",
    "Description": "Gastos de financiamento - Diferenças de câmbio desfavoráveis - Relativas a financiamentos obtidos",
    "Observations": "",
@@ -5020,7 +5020,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "503",
+   "TaxonomyCode":503,
    "SNCSVAT": "6928",
    "Description": "Gastos de financiamento - Diferenças de câmbio desfavoráveis - Outras",
    "Observations": "Incluir contas 6922|6923|6924|6925|6926|6927",
@@ -5030,7 +5030,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "504",
+   "TaxonomyCode":504,
    "SNCSVAT": "6981",
    "Description": "Gastos de financiamento - Outros gastos de financiamento - Relativos a financiamentos obtidos",
    "Observations": "Incluir contas 693|694|695|696|697|6982|6983|6984|6985|6986|6987",
@@ -5040,7 +5040,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "505",
+   "TaxonomyCode":505,
    "SNCSVAT": "6988",
    "Description": "Gastos de financiamento - Outros gastos de financiamento - Outros",
    "Observations": "",
@@ -5050,7 +5050,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "506",
+   "TaxonomyCode":506,
    "SNCSVAT": "711",
    "Description": "Vendas - Mercadorias",
    "Observations": "(A) Incluir contas 715",
@@ -5060,7 +5060,7 @@
    "Credit": "Vendas e serviços prestados"
  },
  {
-   "TaxonomyCode": "507",
+   "TaxonomyCode":507,
    "SNCSVAT": "712",
    "Description": "Vendas - Produtos acabados e intermédios",
    "Observations": "",
@@ -5070,7 +5070,7 @@
    "Credit": "Vendas e serviços prestados"
  },
  {
-   "TaxonomyCode": "508",
+   "TaxonomyCode":508,
    "SNCSVAT": "713",
    "Description": "Vendas - Subprodutos, desperdícios, resíduos e refugos",
    "Observations": "",
@@ -5080,7 +5080,7 @@
    "Credit": "Vendas e serviços prestados"
  },
  {
-   "TaxonomyCode": "509",
+   "TaxonomyCode":509,
    "SNCSVAT": "714",
    "Description": "Vendas - Ativos biológicos",
    "Observations": "",
@@ -5090,7 +5090,7 @@
    "Credit": "Vendas e serviços prestados"
  },
  {
-   "TaxonomyCode": "510",
+   "TaxonomyCode":510,
    "SNCSVAT": "716",
    "Description": "Vendas - IVA das vendas com imposto incluído",
    "Observations": "",
@@ -5100,7 +5100,7 @@
    "Credit": "Vendas e serviços prestados"
  },
  {
-   "TaxonomyCode": "511",
+   "TaxonomyCode":511,
    "SNCSVAT": "717",
    "Description": "Vendas - Devoluções de vendas",
    "Observations": "",
@@ -5110,7 +5110,7 @@
    "Credit": "Vendas e serviços prestados"
  },
  {
-   "TaxonomyCode": "512",
+   "TaxonomyCode":512,
    "SNCSVAT": "718",
    "Description": "Vendas - Descontos e abatimentos em vendas",
    "Observations": "",
@@ -5120,7 +5120,7 @@
    "Credit": "Vendas e serviços prestados"
  },
  {
-   "TaxonomyCode": "513",
+   "TaxonomyCode":513,
    "SNCSVAT": "721",
    "Description": "Prestações de serviços - Serviço A",
    "Observations": "",
@@ -5130,7 +5130,7 @@
    "Credit": "Vendas e serviços prestados"
  },
  {
-   "TaxonomyCode": "514",
+   "TaxonomyCode":514,
    "SNCSVAT": "722",
    "Description": "Prestações de serviços - Serviço B",
    "Observations": "",
@@ -5140,7 +5140,7 @@
    "Credit": "Vendas e serviços prestados"
  },
  {
-   "TaxonomyCode": "515",
+   "TaxonomyCode":515,
    "SNCSVAT": "723|724|727",
    "Description": "Prestações de serviços - Outros serviços",
    "Observations": "",
@@ -5150,7 +5150,7 @@
    "Credit": "Vendas e serviços prestados"
  },
  {
-   "TaxonomyCode": "516",
+   "TaxonomyCode":516,
    "SNCSVAT": "725",
    "Description": "Prestações de serviços - Serviços secundários",
    "Observations": "",
@@ -5160,7 +5160,7 @@
    "Credit": "Vendas e serviços prestados"
  },
  {
-   "TaxonomyCode": "517",
+   "TaxonomyCode":517,
    "SNCSVAT": "726",
    "Description": "Prestações de serviços - IVA dos serviços com imposto incluído",
    "Observations": "",
@@ -5170,7 +5170,7 @@
    "Credit": "Vendas e serviços prestados"
  },
  {
-   "TaxonomyCode": "518",
+   "TaxonomyCode":518,
    "SNCSVAT": "728",
    "Description": "Prestações de serviços - Descontos e abatimentos",
    "Observations": "",
@@ -5180,7 +5180,7 @@
    "Credit": "Vendas e serviços prestados"
  },
  {
-   "TaxonomyCode": "519",
+   "TaxonomyCode":519,
    "SNCSVAT": "731",
    "Description": "Variações nos inventários da produção - Produtos acabados e intermédios",
    "Observations": "",
@@ -5190,7 +5190,7 @@
    "Credit": "Variação nos inventários da produção"
  },
  {
-   "TaxonomyCode": "520",
+   "TaxonomyCode":520,
    "SNCSVAT": "732",
    "Description": "Variações nos inventários da produção - Subprodutos, desperdícios, resíduos e refugos",
    "Observations": "",
@@ -5200,7 +5200,7 @@
    "Credit": "Variação nos inventários da produção"
  },
  {
-   "TaxonomyCode": "521",
+   "TaxonomyCode":521,
    "SNCSVAT": "733",
    "Description": "Variações nos inventários da produção - Produtos e trabalhos em curso",
    "Observations": "",
@@ -5210,7 +5210,7 @@
    "Credit": "Variação nos inventários da produção"
  },
  {
-   "TaxonomyCode": "522",
+   "TaxonomyCode":522,
    "SNCSVAT": "734",
    "Description": "Variações nos inventários da produção - Ativos biológicos",
    "Observations": "",
@@ -5220,7 +5220,7 @@
    "Credit": "Variação nos inventários da produção"
  },
  {
-   "TaxonomyCode": "523",
+   "TaxonomyCode":523,
    "SNCSVAT": "741",
    "Description": "Trabalhos para a própria entidade - Ativos fixos tangíveis",
    "Observations": "(A) Incluir contas 745|746|747|748|749",
@@ -5230,7 +5230,7 @@
    "Credit": "Trabalhos para a própria entidade"
  },
  {
-   "TaxonomyCode": "524",
+   "TaxonomyCode":524,
    "SNCSVAT": "742",
    "Description": "Trabalhos para a própria entidade - Ativos intangíveis",
    "Observations": "",
@@ -5240,7 +5240,7 @@
    "Credit": "Trabalhos para a própria entidade"
  },
  {
-   "TaxonomyCode": "525",
+   "TaxonomyCode":525,
    "SNCSVAT": "743",
    "Description": "Trabalhos para a própria entidade - Propriedades de investimento",
    "Observations": "",
@@ -5250,7 +5250,7 @@
    "Credit": "Trabalhos para a própria entidade"
  },
  {
-   "TaxonomyCode": "526",
+   "TaxonomyCode":526,
    "SNCSVAT": "744",
    "Description": "Trabalhos para a própria entidade - Ativos por gastos diferidos",
    "Observations": "",
@@ -5260,7 +5260,7 @@
    "Credit": "Trabalhos para a própria entidade"
  },
  {
-   "TaxonomyCode": "527",
+   "TaxonomyCode":527,
    "SNCSVAT": "751",
    "Description": "Subsídios à exploração - Subsídios das entidades públicas",
    "Observations": "",
@@ -5270,7 +5270,7 @@
    "Credit": "Subsídios à exploração"
  },
  {
-   "TaxonomyCode": "528",
+   "TaxonomyCode":528,
    "SNCSVAT": "752",
    "Description": "Subsídios à exploração - Subsídios de outras entidades",
    "Observations": "",
@@ -5280,7 +5280,7 @@
    "Credit": "Subsídios à exploração"
  },
  {
-   "TaxonomyCode": "529",
+   "TaxonomyCode":529,
    "SNCSVAT": "7611",
    "Description": "Reversões - De depreciações e de amortizações - Propriedades de investimento - Terrenos e recursos naturais",
    "Observations": "(A) Incluir contas 7639|764|765|766|767|768|769",
@@ -5290,7 +5290,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "530",
+   "TaxonomyCode":530,
    "SNCSVAT": "7611",
    "Description": "Reversões - De depreciações e de amortizações - Propriedades de investimento - Edifícios e outras construções",
    "Observations": "",
@@ -5300,7 +5300,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "531",
+   "TaxonomyCode":531,
    "SNCSVAT": "7611",
    "Description": "Reversões - De depreciações e de amortizações - Propriedades de investimento - Outras propriedades de investimento",
    "Observations": "",
@@ -5310,7 +5310,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "532",
+   "TaxonomyCode":532,
    "SNCSVAT": "7612",
    "Description": "Reversões - De depreciações e de amortizações - Ativos fixos tangíveis - Terrenos e recursos naturais",
    "Observations": "",
@@ -5320,7 +5320,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "533",
+   "TaxonomyCode":533,
    "SNCSVAT": "7612",
    "Description": "Reversões - De depreciações e de amortizações - Ativos fixos tangíveis - Edifícios e outras construções",
    "Observations": "",
@@ -5330,7 +5330,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "534",
+   "TaxonomyCode":534,
    "SNCSVAT": "7612",
    "Description": "Reversões - De depreciações e de amortizações - Ativos fixos tangíveis - Equipamento básico",
    "Observations": "",
@@ -5340,7 +5340,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "535",
+   "TaxonomyCode":535,
    "SNCSVAT": "7612",
    "Description": "Reversões - De depreciações e de amortizações - Ativos fixos tangíveis - Equipamento de transporte",
    "Observations": "",
@@ -5350,7 +5350,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "536",
+   "TaxonomyCode":536,
    "SNCSVAT": "7612",
    "Description": "Reversões - De depreciações e de amortizações - Ativos fixos tangíveis - Equipamento administrativo",
    "Observations": "",
@@ -5360,7 +5360,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "537",
+   "TaxonomyCode":537,
    "SNCSVAT": "7612",
    "Description": "Reversões - De depreciações e de amortizações - Ativos fixos tangíveis - Equipamentos biológicos",
    "Observations": "",
@@ -5370,7 +5370,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "538",
+   "TaxonomyCode":538,
    "SNCSVAT": "7612",
    "Description": "Reversões - De depreciações e de amortizações - Ativos fixos tangíveis - Outros ativos fixos tangíveis",
    "Observations": "",
@@ -5380,7 +5380,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "539",
+   "TaxonomyCode":539,
    "SNCSVAT": "7613",
    "Description": "Reversões - De depreciações e de amortizações - Ativos intangíveis - Goodwill",
    "Observations": "",
@@ -5390,7 +5390,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "540",
+   "TaxonomyCode":540,
    "SNCSVAT": "7613",
    "Description": "Reversões - De depreciações e de amortizações - Ativos intangíveis - Projetos de desenvolvimento",
    "Observations": "",
@@ -5400,7 +5400,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "541",
+   "TaxonomyCode":541,
    "SNCSVAT": "7613",
    "Description": "Reversões - De depreciações e de amortizações - Ativos intangíveis - Programas de computador",
    "Observations": "",
@@ -5410,7 +5410,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "542",
+   "TaxonomyCode":542,
    "SNCSVAT": "7613",
    "Description": "Reversões - De depreciações e de amortizações - Ativos intangíveis - Propriedade industrial",
    "Observations": "",
@@ -5420,7 +5420,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "543",
+   "TaxonomyCode":543,
    "SNCSVAT": "7613",
    "Description": "Reversões - De depreciações e de amortizações - Ativos intangíveis - Outros ativos intangíveis",
    "Observations": "",
@@ -5430,7 +5430,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "544",
+   "TaxonomyCode":544,
    "SNCSVAT": "(C) 7614|7615|7616|7617|7618|7619",
    "Description": "Reversões - De depreciações e de amortizações - Ativos biológicos - Consumíveis",
    "Observations": "",
@@ -5440,7 +5440,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "545",
+   "TaxonomyCode":545,
    "SNCSVAT": "(C) 7614|7615|7616|7617|7618|7619",
    "Description": "Reversões - De depreciações e de amortizações - Ativos biológicos - De produção",
    "Observations": "",
@@ -5450,7 +5450,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "546",
+   "TaxonomyCode":546,
    "SNCSVAT": "(C) 7614|7615|7616|7617|7618|7619",
    "Description": "Reversões - De depreciações e de amortizações - Investimentos financeiros - Goodwill",
    "Observations": "",
@@ -5460,7 +5460,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "547",
+   "TaxonomyCode":547,
    "SNCSVAT": "76211",
    "Description": "Reversões - De perdas por imparidade - Em dívidas a receber - Clientes",
    "Observations": "",
@@ -5470,7 +5470,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "548",
+   "TaxonomyCode":548,
    "SNCSVAT": "76212",
    "Description": "Reversões - De perdas por imparidade - Em dívidas a receber - Outros devedores",
    "Observations": "",
@@ -5480,7 +5480,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "549",
+   "TaxonomyCode":549,
    "SNCSVAT": "7622",
    "Description": "Reversões - De perdas por imparidade - Em inventários - Mercadorias",
    "Observations": "",
@@ -5490,7 +5490,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "550",
+   "TaxonomyCode":550,
    "SNCSVAT": "7622",
    "Description": "Reversões - De perdas por imparidade - Em inventários - Matérias -primas, subsidiárias e de consumo",
    "Observations": "",
@@ -5500,7 +5500,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "551",
+   "TaxonomyCode":551,
    "SNCSVAT": "7622",
    "Description": "Reversões - De perdas por imparidade - Em inventários - Produtos acabados e intermédios",
    "Observations": "",
@@ -5510,7 +5510,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "552",
+   "TaxonomyCode":552,
    "SNCSVAT": "7622",
    "Description": "Reversões - De perdas por imparidade - Em inventários - Subprodutos, desperdícios, resíduos e refugos",
    "Observations": "",
@@ -5520,7 +5520,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "553",
+   "TaxonomyCode":553,
    "SNCSVAT": "7622",
    "Description": "Reversões - De perdas por imparidade - Em inventários - Produtos e trabalhos em curso",
    "Observations": "",
@@ -5530,7 +5530,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "554",
+   "TaxonomyCode":554,
    "SNCSVAT": "7622",
    "Description": "Reversões - De perdas por imparidade - Em inventários - Ativos biológicos consumíveis",
    "Observations": "",
@@ -5540,7 +5540,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "555",
+   "TaxonomyCode":555,
    "SNCSVAT": "7622",
    "Description": "Reversões - De perdas por imparidade - Em inventários - Ativos biológicos de produção",
    "Observations": "",
@@ -5550,7 +5550,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "556",
+   "TaxonomyCode":556,
    "SNCSVAT": "7623",
    "Description": "Reversões - De perdas por imparidade - Em investimentos financeiros - Participações de capital",
    "Observations": "",
@@ -5560,7 +5560,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "557",
+   "TaxonomyCode":557,
    "SNCSVAT": "7623",
    "Description": "Reversões - De perdas por imparidade - Em investimentos financeiros - Empréstimos concedidos",
    "Observations": "",
@@ -5570,7 +5570,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "558",
+   "TaxonomyCode":558,
    "SNCSVAT": "7623",
    "Description": "Reversões - De perdas por imparidade - Em investimentos financeiros - Outros investimentos financeiros",
    "Observations": "",
@@ -5580,7 +5580,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "559",
+   "TaxonomyCode":559,
    "SNCSVAT": "7624",
    "Description": "Reversões - De perdas por imparidade - Em propriedades de investimento - Terrenos e recursos naturais",
    "Observations": "",
@@ -5590,7 +5590,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "560",
+   "TaxonomyCode":560,
    "SNCSVAT": "7624",
    "Description": "Reversões - De perdas por imparidade - Em propriedades de investimento - Edifícios e outras construções",
    "Observations": "",
@@ -5600,7 +5600,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "561",
+   "TaxonomyCode":561,
    "SNCSVAT": "7624",
    "Description": "Reversões - De perdas por imparidade - Em propriedades de investimento - Outras propriedades de investimento",
    "Observations": "",
@@ -5610,7 +5610,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "562",
+   "TaxonomyCode":562,
    "SNCSVAT": "7625",
    "Description": "Reversões - De perdas por imparidade - Em ativos fixos tangíveis - Terrenos e recursos naturais",
    "Observations": "",
@@ -5620,7 +5620,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "563",
+   "TaxonomyCode":563,
    "SNCSVAT": "7625",
    "Description": "Reversões - De perdas por imparidade - Em ativos fixos tangíveis - Edifícios e outras construções",
    "Observations": "",
@@ -5630,7 +5630,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "564",
+   "TaxonomyCode":564,
    "SNCSVAT": "7625",
    "Description": "Reversões - De perdas por imparidade - Em ativos fixos tangíveis - Equipamento básico",
    "Observations": "",
@@ -5640,7 +5640,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "565",
+   "TaxonomyCode":565,
    "SNCSVAT": "7625",
    "Description": "Reversões - De perdas por imparidade - Em ativos fixos tangíveis - Equipamento de transporte",
    "Observations": "",
@@ -5650,7 +5650,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "566",
+   "TaxonomyCode":566,
    "SNCSVAT": "7625",
    "Description": "Reversões - De perdas por imparidade - Em ativos fixos tangíveis - Equipamento administrativo",
    "Observations": "",
@@ -5660,7 +5660,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "567",
+   "TaxonomyCode":567,
    "SNCSVAT": "7625",
    "Description": "Reversões - De perdas por imparidade - Em ativos fixos tangíveis - Equipamentos biológicos",
    "Observations": "",
@@ -5670,7 +5670,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "568",
+   "TaxonomyCode":568,
    "SNCSVAT": "7625",
    "Description": "Reversões - De perdas por imparidade - Em ativos fixos tangíveis - Outros ativos fixos tangíveis",
    "Observations": "",
@@ -5680,7 +5680,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "569",
+   "TaxonomyCode":569,
    "SNCSVAT": "7626",
    "Description": "Reversões - De perdas por imparidade - Em ativos intangíveis - Projetos de desenvolvimento",
    "Observations": "",
@@ -5690,7 +5690,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "570",
+   "TaxonomyCode":570,
    "SNCSVAT": "7626",
    "Description": "Reversões - De perdas por imparidade - Em ativos intangíveis - Programas de computador",
    "Observations": "",
@@ -5700,7 +5700,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "571",
+   "TaxonomyCode":571,
    "SNCSVAT": "7626",
    "Description": "Reversões - De perdas por imparidade - Em ativos intangíveis - Propriedade industrial",
    "Observations": "",
@@ -5710,7 +5710,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "572",
+   "TaxonomyCode":572,
    "SNCSVAT": "7626",
    "Description": "Reversões - De perdas por imparidade - Em ativos intangíveis - Outros ativos intangíveis",
    "Observations": "",
@@ -5720,7 +5720,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "573",
+   "TaxonomyCode":573,
    "SNCSVAT": "7627",
    "Description": "Reversões - De perdas por imparidade - Em investimentos em curso - Investimentos financeiros em curso",
    "Observations": "",
@@ -5730,7 +5730,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "574",
+   "TaxonomyCode":574,
    "SNCSVAT": "7627",
    "Description": "Reversões - De perdas por imparidade - Em investimentos em curso - Propriedades de investimento em curso",
    "Observations": "",
@@ -5740,7 +5740,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "575",
+   "TaxonomyCode":575,
    "SNCSVAT": "7627",
    "Description": "Reversões - De perdas por imparidade - Em investimentos em curso - Ativos fixos tangíveis em curso",
    "Observations": "",
@@ -5750,7 +5750,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "576",
+   "TaxonomyCode":576,
    "SNCSVAT": "7627",
    "Description": "Reversões - De perdas por imparidade - Em investimentos em curso - Ativos intangíveis em curso",
    "Observations": "",
@@ -5760,7 +5760,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "577",
+   "TaxonomyCode":577,
    "SNCSVAT": "7627",
    "Description": "Reversões - De perdas por imparidade - Em investimentos em curso - Adiantamentos por conta de investimentos - Investimentos financeiros em curso",
    "Observations": "",
@@ -5770,7 +5770,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "578",
+   "TaxonomyCode":578,
    "SNCSVAT": "7627",
    "Description": "Reversões - De perdas por imparidade - Em investimentos em curso - Adiantamentos por conta de investimentos - Propriedades de investimento em curso",
    "Observations": "",
@@ -5780,7 +5780,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "579",
+   "TaxonomyCode":579,
    "SNCSVAT": "7627",
    "Description": "Reversões - De perdas por imparidade - Em investimentos em curso - Adiantamentos por conta de investimentos - Ativos fixos tangíveis em curso",
    "Observations": "",
@@ -5790,7 +5790,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "580",
+   "TaxonomyCode":580,
    "SNCSVAT": "7627",
    "Description": "Reversões - De perdas por imparidade - Em investimentos em curso - Adiantamentos por conta de investimentos - Ativos intangíveis em curso",
    "Observations": "",
@@ -5800,7 +5800,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "581",
+   "TaxonomyCode":581,
    "SNCSVAT": "7628",
    "Description": "Reversões - De perdas por imparidade - Em ativos não correntes detidos para venda - Investimentos financeiros",
    "Observations": "",
@@ -5810,7 +5810,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "582",
+   "TaxonomyCode":582,
    "SNCSVAT": "7628",
    "Description": "Reversões - De perdas por imparidade - Em ativos não correntes detidos para venda - Propriedades de investimento",
    "Observations": "",
@@ -5820,7 +5820,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "583",
+   "TaxonomyCode":583,
    "SNCSVAT": "7628",
    "Description": "Reversões - De perdas por imparidade - Em ativos não correntes detidos para venda - Ativos fixos tangíveis",
    "Observations": "",
@@ -5830,7 +5830,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "584",
+   "TaxonomyCode":584,
    "SNCSVAT": "7628",
    "Description": "Reversões - De perdas por imparidade - Em ativos não correntes detidos para venda - Ativos intangíveis",
    "Observations": "",
@@ -5840,7 +5840,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "585",
+   "TaxonomyCode":585,
    "SNCSVAT": "7628",
    "Description": "Reversões - De perdas por imparidade - Em ativos não correntes detidos para venda - Outros",
    "Observations": "",
@@ -5850,7 +5850,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "586",
+   "TaxonomyCode":586,
    "SNCSVAT": "7631",
    "Description": "Reversões - De provisões - Impostos",
    "Observations": "",
@@ -5860,7 +5860,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "587",
+   "TaxonomyCode":587,
    "SNCSVAT": "7632",
    "Description": "Reversões - De provisões - Garantias a clientes",
    "Observations": "",
@@ -5870,7 +5870,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "588",
+   "TaxonomyCode":588,
    "SNCSVAT": "7633",
    "Description": "Reversões - De provisões - Processos judiciais em curso",
    "Observations": "",
@@ -5880,7 +5880,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "589",
+   "TaxonomyCode":589,
    "SNCSVAT": "7634",
    "Description": "Reversões - De provisões - Acidentes no trabalho e doenças profissionais",
    "Observations": "",
@@ -5890,7 +5890,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "590",
+   "TaxonomyCode":590,
    "SNCSVAT": "7635",
    "Description": "Reversões - De provisões - Matérias ambientais",
    "Observations": "",
@@ -5900,7 +5900,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "591",
+   "TaxonomyCode":591,
    "SNCSVAT": "7636",
    "Description": "Reversões - De provisões - Contratos onerosos",
    "Observations": "",
@@ -5910,7 +5910,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "592",
+   "TaxonomyCode":592,
    "SNCSVAT": "7637",
    "Description": "Reversões - De provisões - Reestruturação",
    "Observations": "",
@@ -5920,7 +5920,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "593",
+   "TaxonomyCode":593,
    "SNCSVAT": "7638",
    "Description": "Reversões - De provisões - Outras provisões",
    "Observations": "",
@@ -5930,7 +5930,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "594",
+   "TaxonomyCode":594,
    "SNCSVAT": "771",
    "Description": "Ganhos por aumentos de justo valor - Em instrumentos financeiros",
    "Observations": "",
@@ -5940,7 +5940,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "595",
+   "TaxonomyCode":595,
    "SNCSVAT": "772",
    "Description": "Ganhos por aumentos de justo valor - Em investimentos financeiros - Participações de capital",
    "Observations": "",
@@ -5950,7 +5950,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "596",
+   "TaxonomyCode":596,
    "SNCSVAT": "772",
    "Description": "Ganhos por aumentos de justo valor - Em investimentos financeiros - Outros investimentos financeiros",
    "Observations": "",
@@ -5960,7 +5960,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "597",
+   "TaxonomyCode":597,
    "SNCSVAT": "773",
    "Description": "Ganhos por aumentos de justo valor - Em propriedades de investimento - Terrenos e recursos naturais",
    "Observations": "",
@@ -5970,7 +5970,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "598",
+   "TaxonomyCode":598,
    "SNCSVAT": "773",
    "Description": "Ganhos por aumentos de justo valor - Em propriedades de investimento - Edifícios e outras construções",
    "Observations": "",
@@ -5980,7 +5980,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "599",
+   "TaxonomyCode":599,
    "SNCSVAT": "773",
    "Description": "Ganhos por aumentos de justo valor - Em propriedades de investimento - Outras propriedades de investimento",
    "Observations": "",
@@ -5990,7 +5990,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "600",
+   "TaxonomyCode":600,
    "SNCSVAT": "773",
    "Description": "Ganhos por aumentos de justo valor - Em propriedades de investimento - Propriedades de investimento em curso",
    "Observations": "",
@@ -6000,7 +6000,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "601",
+   "TaxonomyCode":601,
    "SNCSVAT": "774",
    "Description": "Ganhos por aumentos de justo valor - Em ativos biológicos - Consumíveis",
    "Observations": "",
@@ -6010,7 +6010,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "602",
+   "TaxonomyCode":602,
    "SNCSVAT": "774",
    "Description": "Ganhos por aumentos de justo valor - Em ativos biológicos - De produção",
    "Observations": "",
@@ -6020,7 +6020,7 @@
    "Credit": "Aumentos / reduções de justo valor"
  },
  {
-   "TaxonomyCode": "603",
+   "TaxonomyCode":603,
    "SNCSVAT": "7811",
    "Description": "Outros rendimentos - Rendimentos suplementares - Serviços sociais",
    "Observations": "",
@@ -6030,7 +6030,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "604",
+   "TaxonomyCode":604,
    "SNCSVAT": "7812",
    "Description": "Outros rendimentos - Rendimentos suplementares - Aluguer de equipamento",
    "Observations": "",
@@ -6040,7 +6040,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "605",
+   "TaxonomyCode":605,
    "SNCSVAT": "7813",
    "Description": "Outros rendimentos - Rendimentos suplementares - Estudos, projetos e assistência tecnológica",
    "Observations": "",
@@ -6050,7 +6050,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "606",
+   "TaxonomyCode":606,
    "SNCSVAT": "7814",
    "Description": "Outros rendimentos - Rendimentos suplementares - Royalties",
    "Observations": "",
@@ -6060,7 +6060,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "607",
+   "TaxonomyCode":607,
    "SNCSVAT": "7815",
    "Description": "Outros rendimentos - Rendimentos suplementares - Desempenho de cargos sociais noutras empresas",
    "Observations": "",
@@ -6070,7 +6070,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "608",
+   "TaxonomyCode":608,
    "SNCSVAT": "7816",
    "Description": "Outros rendimentos - Rendimentos suplementares - Outros rendimentos suplementares",
    "Observations": "",
@@ -6080,7 +6080,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "609",
+   "TaxonomyCode":609,
    "SNCSVAT": "782",
    "Description": "Outros rendimentos - Descontos de pronto pagamento obtidos",
    "Observations": "",
@@ -6090,7 +6090,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "610",
+   "TaxonomyCode":610,
    "SNCSVAT": "783",
    "Description": "Outros rendimentos - Recuperação de dívidas a receber",
    "Observations": "",
@@ -6100,7 +6100,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "611",
+   "TaxonomyCode":611,
    "SNCSVAT": "7841",
    "Description": "Outros rendimentos - Ganhos em inventários - Sinistros",
    "Observations": "",
@@ -6110,7 +6110,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "612",
+   "TaxonomyCode":612,
    "SNCSVAT": "7842",
    "Description": "Outros rendimentos - Ganhos em inventários - Sobras",
    "Observations": "",
@@ -6120,7 +6120,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "613",
+   "TaxonomyCode":613,
    "SNCSVAT": "7848",
    "Description": "Outros rendimentos - Ganhos em inventários - Outros ganhos",
    "Observations": "Incluir contas 7843|7844|7845|7846|7847",
@@ -6130,7 +6130,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "614",
+   "TaxonomyCode":614,
    "SNCSVAT": "7851",
    "Description": "Outros rendimentos - Rendimentos em subsidiárias, associadas e empreendimentos conjuntos - Aplicação do método da equivalência patrimonial",
    "Observations": "",
@@ -6140,7 +6140,7 @@
    "Credit": "Ganhos / perdas imputados de subsidiárias, associadas e empreendimentos conjuntos"
  },
  {
-   "TaxonomyCode": "615",
+   "TaxonomyCode":615,
    "SNCSVAT": "7852",
    "Description": "Outros rendimentos - Rendimentos em subsidiárias, associadas e empreendimentos conjuntos - Alienações",
    "Observations": "",
@@ -6150,7 +6150,7 @@
    "Credit": "Ganhos / perdas imputados de subsidiárias, associadas e empreendimentos conjuntos"
  },
  {
-   "TaxonomyCode": "616",
+   "TaxonomyCode":616,
    "SNCSVAT": "7858",
    "Description": "Outros rendimentos - Rendimentos em subsidiárias, associadas e empreendimentos conjuntos - Outros rendimentos",
    "Observations": "Incluir contas 7853|7854|7855|7856|7857",
@@ -6160,7 +6160,7 @@
    "Credit": "Ganhos / perdas imputados de subsidiárias, associadas e empreendimentos conjuntos"
  },
  {
-   "TaxonomyCode": "617",
+   "TaxonomyCode":617,
    "SNCSVAT": "7861",
    "Description": "Outros rendimentos - Rendimentos nos restantes ativos financeiros - Diferenças de câmbio favoráveis",
    "Observations": "",
@@ -6170,7 +6170,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "618",
+   "TaxonomyCode":618,
    "SNCSVAT": "7862",
    "Description": "Outros rendimentos - Rendimentos nos restantes ativos financeiros - Alienações",
    "Observations": "",
@@ -6180,7 +6180,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "619",
+   "TaxonomyCode":619,
    "SNCSVAT": "7868",
    "Description": "Outros rendimentos - Rendimentos nos restantes ativos financeiros - Outros rendimentos",
    "Observations": "Incluir contas 7863|7864|7865|7866|7867",
@@ -6190,7 +6190,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "620",
+   "TaxonomyCode":620,
    "SNCSVAT": "7871",
    "Description": "Outros rendimentos - Rendimentos em investimentos não financeiros - Alienações",
    "Observations": "",
@@ -6200,7 +6200,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "621",
+   "TaxonomyCode":621,
    "SNCSVAT": "7872",
    "Description": "Outros rendimentos - Rendimentos em investimentos não financeiros - Sinistros",
    "Observations": "",
@@ -6210,7 +6210,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "622",
+   "TaxonomyCode":622,
    "SNCSVAT": "7873",
    "Description": "Outros rendimentos - Rendimentos em investimentos não financeiros - Rendas e outros rendimentos em propriedades de investimento",
    "Observations": "",
@@ -6220,7 +6220,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "623",
+   "TaxonomyCode":623,
    "SNCSVAT": "7878",
    "Description": "Outros rendimentos - Rendimentos em investimentos não financeiros - Outros rendimentos",
    "Observations": "Incluir contas 7874|7875|7876|7877",
@@ -6230,7 +6230,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "624",
+   "TaxonomyCode":624,
    "SNCSVAT": "7881",
    "Description": "Outros rendimentos - Outros - Correções relativas a períodos anteriores",
    "Observations": "",
@@ -6240,7 +6240,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "625",
+   "TaxonomyCode":625,
    "SNCSVAT": "7882",
    "Description": "Outros rendimentos - Outros - Excesso da estimativa para impostos",
    "Observations": "",
@@ -6250,7 +6250,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "626",
+   "TaxonomyCode":626,
    "SNCSVAT": "7883",
    "Description": "Outros rendimentos - Outros - Imputação de subsídios para investimentos",
    "Observations": "",
@@ -6260,7 +6260,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "627",
+   "TaxonomyCode":627,
    "SNCSVAT": "7884",
    "Description": "Outros rendimentos - Outros - Ganhos em outros instrumentos financeiros",
    "Observations": "",
@@ -6270,7 +6270,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "628",
+   "TaxonomyCode":628,
    "SNCSVAT": "7885",
    "Description": "Outros rendimentos - Outros - Restituição de impostos",
    "Observations": "",
@@ -6280,7 +6280,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "629",
+   "TaxonomyCode":629,
    "SNCSVAT": "7887",
    "Description": "Outros rendimentos - Outros - Diferenças de câmbio favoráveis",
    "Observations": "",
@@ -6290,7 +6290,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "630",
+   "TaxonomyCode":630,
    "SNCSVAT": "7888",
    "Description": "Outros rendimentos - Outros - Outros não especificados",
    "Observations": "Incluir conta 7886",
@@ -6300,7 +6300,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "631",
+   "TaxonomyCode":631,
    "SNCSVAT": "7911",
    "Description": "Juros, dividendos e outros rendimentos similares - Juros obtidos - De depósitos",
    "Observations": "",
@@ -6310,7 +6310,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "632",
+   "TaxonomyCode":632,
    "SNCSVAT": "7912",
    "Description": "Juros, dividendos e outros rendimentos similares - Juros obtidos - De outras aplicações de meios financeiros líquidos",
    "Observations": "",
@@ -6320,7 +6320,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "633",
+   "TaxonomyCode":633,
    "SNCSVAT": "7913",
    "Description": "Juros, dividendos e outros rendimentos similares - Juros obtidos - De financiamentos concedidos a associadas e empreendimentos conjuntos",
    "Observations": "",
@@ -6330,7 +6330,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "634",
+   "TaxonomyCode":634,
    "SNCSVAT": "7914",
    "Description": "Juros, dividendos e outros rendimentos similares - Juros obtidos - De financiamentos concedidos a subsidiárias",
    "Observations": "",
@@ -6340,7 +6340,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "635",
+   "TaxonomyCode":635,
    "SNCSVAT": "7915",
    "Description": "Juros, dividendos e outros rendimentos similares - Juros obtidos - De financiamentos obtidos",
    "Observations": "",
@@ -6350,7 +6350,7 @@
    "Credit": "Juros e rendimentos similares obtidos"
  },
  {
-   "TaxonomyCode": "636",
+   "TaxonomyCode":636,
    "SNCSVAT": "7918",
    "Description": "Juros, dividendos e outros rendimentos similares - Juros obtidos - De outros financiamentos concedidos",
    "Observations": "Incluir contas 7916|7917",
@@ -6360,7 +6360,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "637",
+   "TaxonomyCode":637,
    "SNCSVAT": "7921",
    "Description": "Juros, dividendos e outros rendimentos similares - Dividendos obtidos - De aplicações de meios financeiros líquidos",
    "Observations": "",
@@ -6370,7 +6370,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "638",
+   "TaxonomyCode":638,
    "SNCSVAT": "7922",
    "Description": "Juros, dividendos e outros rendimentos similares - Dividendos obtidos - De associadas e empreendimentos conjuntos",
    "Observations": "",
@@ -6380,7 +6380,7 @@
    "Credit": "Ganhos / perdas imputados de subsidiárias, associadas e empreendimentos conjuntos"
  },
  {
-   "TaxonomyCode": "639",
+   "TaxonomyCode":639,
    "SNCSVAT": "7923",
    "Description": "Juros, dividendos e outros rendimentos similares - Dividendos obtidos - De subsidiárias",
    "Observations": "",
@@ -6390,7 +6390,7 @@
    "Credit": "Ganhos / perdas imputados de subsidiárias, associadas e empreendimentos conjuntos"
  },
  {
-   "TaxonomyCode": "640",
+   "TaxonomyCode":640,
    "SNCSVAT": "7928",
    "Description": "Juros, dividendos e outros rendimentos similares - Dividendos obtidos - Outras",
    "Observations": "Incluir contas 7924|7925|7926|7927",
@@ -6400,7 +6400,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "641",
+   "TaxonomyCode":641,
    "SNCSVAT": "793",
    "Description": "Juros, dividendos e outros rendimentos similares - Diferenças de câmbio favoráveis",
    "Observations": "",
@@ -6410,7 +6410,7 @@
    "Credit": "Juros e rendimentos similares obtidos"
  },
  {
-   "TaxonomyCode": "642",
+   "TaxonomyCode":642,
    "SNCSVAT": "798",
    "Description": "Juros, dividendos e outros rendimentos similares - Outros rendimentos similares",
    "Observations": "Incluir contas 794|795|796|797",
@@ -6420,7 +6420,7 @@
    "Credit": "Outros rendimentos"
  },
  {
-   "TaxonomyCode": "643",
+   "TaxonomyCode":643,
    "SNCSVAT": "811",
    "Description": "Resultado líquido do período - Resultado antes de impostos",
    "Observations": "(A) Incluir contas 8123|8124|8125|8126| 8127|8128|8129|813| 814|815|816|817|819| 82|83|84|85|86|87|88",
@@ -6430,7 +6430,7 @@
    "Credit": "Resultado antes de impostos"
  },
  {
-   "TaxonomyCode": "644",
+   "TaxonomyCode":644,
    "SNCSVAT": "8121",
    "Description": "Resultado líquido do período - Imposto sobre o rendimento do período - Imposto estimado para o período",
    "Observations": "",
@@ -6440,7 +6440,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "645",
+   "TaxonomyCode":645,
    "SNCSVAT": "8122",
    "Description": "Resultado líquido do período - Imposto sobre o rendimento do período - Imposto diferido",
    "Observations": "",
@@ -6450,7 +6450,7 @@
    "Credit": ""
  },
  {
-   "TaxonomyCode": "646",
+   "TaxonomyCode":646,
    "SNCSVAT": "818",
    "Description": "Resultado líquido do período - Resultado líquido",
    "Observations": "",
@@ -6460,7 +6460,7 @@
    "Credit": "Resultado líquido do período (Demonstração e balanço)"
  },
  {
-   "TaxonomyCode": "647",
+   "TaxonomyCode":647,
    "SNCSVAT": "89",
    "Description": "Dividendos antecipados",
    "Observations": "",
@@ -6468,15 +6468,5 @@
    "ExpectedBalance": "D",
    "Debit": "",
    "Credit": "Dividendos antecipados"
- },
- {
-   "TaxonomyCode": "",
-   "SNCSVAT": "",
-   "Description": "",
-   "Observations": "",
-   "Classe": "",
-   "ExpectedBalance": "",
-   "Debit": "",
-   "Credit": ""
  }
 ]

@@ -2,5 +2,6 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/migrations/20240924105904_init.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/postgres_osb_postgres_database_azure_com-2024_09_24_11_49_48-dump.sql" dialect="PostgreSQL" />
   </component>
 </project>
