@@ -4,10 +4,6 @@ mod support;
 mod middleware;
 mod error;
 
-use std::sync::Arc;
-use aide::axum::ApiRouter;
-use aide::openapi::{OpenApi, Tag};
-use aide::transform::TransformOpenApi;
 use clap::Parser;
 use sqlx::postgres::PgPoolOptions;
 use tower_http::compression::CompressionLayer;
@@ -18,18 +14,13 @@ use tracing_subscriber::layer::SubscriberExt;
 use tracing_subscriber::util::SubscriberInitExt;
 use crate::config::AppEnv;
 use crate::support::ApiState;
-use axum::{Extension, Router};
+use axum::Router;
 use crate::middleware::mw_auth::{mw_ctx_require, mw_ctx_resolver};
 
 #[tokio::main]
 async fn main() {
     dotenvy::dotenv().ok();
 
-    aide::gen::on_error(|error| {
-        println!("{error}");
-    });
-
-    aide::gen::extract_schemas(true);
 
 
     let app_env = AppEnv::parse();
@@ -62,42 +53,17 @@ async fn main() {
 
 
     let ctx = ApiState::new(db, app_env);
-    // Create the application router with defined routes
-    let mut api = OpenApi::default();
-    let api_router = ApiRouter::new()
-        .nest_service("/accounting", routes::accounting_service(ctx.clone()))
+    let api_router = Router::new()
+        .nest_service("/accounting", routes::accouting::accounting_routes(ctx.clone()))
         .route_layer(axum::middleware::from_fn(mw_ctx_require));
-
-    let app = ApiRouter::new()
-        .nest_service("/api", api_router)
+    let app = Router::new()
+        .fallback_service(api_router)
         .layer(CompressionLayer::new())
         .layer(TraceLayer::new_for_http())
-        .layer(axum::middleware::from_fn_with_state(ctx.clone(), mw_ctx_resolver))
-        .finish_api_with(&mut api, api_docs)
-        .layer(Extension(Arc::new(api)));
+        .layer(axum::middleware::from_fn_with_state(ctx.clone(), mw_ctx_resolver));
 
     // Start the server and run it asynchronously
     run_server(app).await;
-}
-
-fn api_docs(api: TransformOpenApi) -> TransformOpenApi {
-    api.title("Aide axum Open API")
-        .summary("An example Todo application")
-        .description("Hello")
-        .tag(Tag {
-            name: "todo".into(),
-            description: Some("Todo Management".into()),
-            ..Default::default()
-        })
-        .security_scheme(
-            "ApiKey",
-            aide::openapi::SecurityScheme::ApiKey {
-                location: aide::openapi::ApiKeyLocation::Header,
-                name: "X-Auth-Key".into(),
-                description: Some("A key that is ignored.".into()),
-                extensions: Default::default(),
-            },
-        )
 }
 
 
@@ -116,6 +82,7 @@ async fn run_server(app: Router) {
 
     // Bind the TCP listener to the specified address
     let listener = tokio::net::TcpListener::bind(&addr).await.unwrap();
+    
     println!("Server listening on {}", addr);
 
     // Serve the application using Axum

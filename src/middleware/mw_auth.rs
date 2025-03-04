@@ -1,4 +1,4 @@
-use axum::async_trait;
+
 use axum::body::Body;
 use axum::extract::{FromRequestParts, State};
 use axum::http::Request;
@@ -47,7 +47,7 @@ pub async fn mw_ctx_resolver(
     next.run(req).await
 }
 
-async fn ctx_resolve(s: ApiState) -> CtxExtResult {
+async fn ctx_resolve(_: ApiState) -> CtxExtResult {
 
     // -- Create CtxExtResult
     Ctx::new(1)
@@ -59,7 +59,6 @@ async fn ctx_resolve(s: ApiState) -> CtxExtResult {
 #[derive(Debug, Clone)]
 pub struct CtxW(pub Ctx);
 
-#[async_trait]
 impl<S: Send + Sync> FromRequestParts<S> for CtxW {
     type Rejection = Error;
 

@@ -1,14 +1,12 @@
+
 use crate::config::{Taxonomies, TaxonomyType};
 use crate::support::ApiState;
 use axum::extract::State;
 use axum::response::IntoResponse;
 use axum::Json;
-use chrono::{DateTime, Utc};
 use serde_json::json;
-use sqlx::query_as;
 use tokio::time::Instant;
 use tracing::debug;
-use crate::middleware::mw_auth::CtxW;
 
 #[derive(serde::Serialize)]
 struct Account {
@@ -35,12 +33,13 @@ pub struct GleLine {
 }
 
 
-pub async fn get_sales(state: State<ApiState>,ctx: CtxW) -> impl IntoResponse {
+pub async fn get_sales(state: State<ApiState>) -> impl IntoResponse {
 
     let m_taxonomies = Taxonomies::new(TaxonomyType::Micro);
 
-    let sales_taxonomies = m_taxonomies.get_debits_by_dr("Clientes",None);
+    let _ = m_taxonomies.get_debits_by_dr("Clientes",None);
     let start = Instant::now();
+
     let lines = sqlx::query_as!(GleLine, "
             SELECT id,
                    account_id,
@@ -67,7 +66,5 @@ pub async fn get_sales(state: State<ApiState>,ctx: CtxW) -> impl IntoResponse {
             return Json(json!({"error":e.to_string()}))
         }
     };
-
-    debug!("{:<12} - get_sales - {ctx:?}", "ROUTE");
     Json(json!(valid_lines))
 }
